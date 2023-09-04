@@ -26,13 +26,15 @@
 |Snipaste|extras|截图|
 |Qbittorrent|extras|下载|
 |Neovim|main|文本编辑|
-|Telegram|extras|聊天软件|
+|Btop|main|终端任务管理器|
 |Tor|main|洋葱路由器|
 |HashCat|main|破解工具|
 |GPG|main|加密工具|
 |CrystalDiskInfo|extras|硬盘状态|
 |CrystalDiskMark|extras|硬盘读写速度|
 |AdvancedRenamer|extras|批量重命名|
+|mediainfo|main|媒体信息|
+|mkvtoolnix|extras|编辑MKV文件|
 |Cpu-z|extras|CPU 状态|
 |Gpu-z|extras|GPU 状态|
 |connect|main|ssh 代理|
@@ -79,11 +81,20 @@ scoop install redis mongodb mariadb # 当用数据库安装
 
 |容器名|简介|
 |:---:|---|
-|vaultwarden| Bitwarden 的开源版本, 密码管理|
-|Watchtower|自动更新容器|
-|Homebox|内网测速工具|
-|Qbittorrent|p2p下载器|
-|aria2ng+aria2|aria2下载配合aria2 gui 界面|
-|cloudreve|网盘|
-|uptime-kuma|网页状态监控|
-|portainer|docker gui管理|
+|vaultwarden/server| Bitwarden 的开源版本, 密码管理|
+|containrrr/watchtower|自动更新容器|
+|linuxserver/qbittorrent|p2p下载器|
+|cloudreve/cloudreve|网盘|
+|elestio/uptime-kuma|网页状态监控|
+|portainer/portainer-ce|docker gui管理|
+|tinymediamanager/tinymediamanager|媒体文件刮削/整理|
+|nyanmisaka/jellyfin|视频库|
+|linuxserver/calibre-web|书库|
+|lissy93/dashy|dashboard|
+|gitea/gitea|代码仓库|
+|neosmemo/memos|速记|
+|advplyr/audiobookshelf|播客|
+|syncthing/syncthing|文件同步|
+|freshrss/freshrss|rss订阅|
+|johngong/baidunetdisk|百度网盘|
+|p3terx/aria2-pro|aria2下载|
