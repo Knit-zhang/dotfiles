@@ -38,6 +38,7 @@
 |Cpu-z|extras|CPU 状态|
 |Gpu-z|extras|GPU 状态|
 |connect|main|ssh 代理|
+|k-lite-codec|nonprotable|视频/音频解码器|
 
 
 ## 应用商店
@@ -69,9 +70,9 @@ scoop update #更新 scoop
 
 scoop bucket add extras #添加 extras 库
 
-scoop install calibre geekuninstaller iperf3 figlet sudo ditto typora obsidian everything deskpins qbittorrent tor telegram hashcat gpg crystaldiskinfo crystaldiskmark advancedrenamer LICEcap connect
+scoop install calibre geekuninstaller iperf3 figlet sudo ditto typora obsidian everything deskpins qbittorrent tor telegram hashcat gpg crystaldiskinfo crystaldiskmark advancedrenamer LICEcap connect k-lite-codec-pack-mega-np
 
-scoop install python nodejs-lts lua  gcc gdb #常用编程环境安装
+scoop install python nodejs-lts lua gcc gdb #常用编程环境安装
 
 scoop install redis mongodb mariadb # 当用数据库安装
 ```
