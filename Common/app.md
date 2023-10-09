@@ -19,8 +19,8 @@
 |Iperf3|main|网络传输检测|
 |Ditto|extras|剪贴板|
 |Typora|extras|markdown编辑器|
-|Obsidian|extras|markdown笔记|
-|Everything|extras|文件搜索|
+|obsidian|extras|markdown笔记|
+|everything|extras|文件搜索|
 |LICEcap|extras|gif录制|
 |DeskPins|extras|窗口置顶|
 |Snipaste|extras|截图|
@@ -39,6 +39,9 @@
 |Gpu-z|extras|GPU 状态|
 |connect|main|ssh 代理|
 |k-lite-codec|nonprotable|视频/音频解码器|
+|sigil|extras|epub编辑器|
+|adb|main|android调试|
+|localsend|extras|局域网传输|
 
 
 ## 应用商店
@@ -64,17 +67,18 @@ $env:SCOOP_GLOBAL='D:\Global_Scoop' #设置全局程序安装位置
 
 irm get.scoop.sh | iex #安装Scoop
 
-scoop install 7zip git  aria2 #安装必装软件
+scoop install 7zip git ria2 #安装必装软件
 
 scoop update #更新 scoop
 
-scoop bucket add extras #添加 extras 库
+scoop bucket add extras #添加 extras 桶
+scoop bucket add nonportable #添加 nonportable 桶
 
-scoop install calibre geekuninstaller iperf3 figlet sudo ditto typora obsidian everything deskpins qbittorrent tor telegram hashcat gpg crystaldiskinfo crystaldiskmark advancedrenamer LICEcap connect k-lite-codec-pack-mega-np
+scoop install calibre geekuninstaller iperf3 figlet sudo ditto typora obsidian everything deskpins qbittorrent tor telegram hashcat gpg crystaldiskinfo crystaldiskmark advancedrenamer LICEcap connect k-lite-codec-pack-mega-np sigil adb
 
 scoop install python nodejs-lts lua gcc gdb #常用编程环境安装
 
-scoop install redis mongodb mariadb # 当用数据库安装
+scoop install redis mongodb mariadb # 常用数据库安装
 ```
 
 
@@ -99,3 +103,4 @@ scoop install redis mongodb mariadb # 当用数据库安装
 |freshrss/freshrss|rss订阅|
 |johngong/baidunetdisk|百度网盘|
 |p3terx/aria2-pro|aria2下载|
+
