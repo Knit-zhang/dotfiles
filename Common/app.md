@@ -75,7 +75,7 @@ scoop update #更新 scoop
 scoop bucket add extras #添加 extras 桶
 scoop bucket add nonportable #添加 nonportable 桶
 
-scoop install calibre geekuninstaller iperf3 figlet sudo ditto typora obsidian everything deskpins qbittorrent tor telegram hashcat gpg crystaldiskinfo crystaldiskmark advancedrenamer LICEcap connect k-lite-codec-pack-mega-np sigil adb
+scoop install calibre geekuninstaller iperf3 figlet sudo ditto typora obsidian everything deskpins qbittorrent tor telegram hashcat gpg crystaldiskinfo crystaldiskmark advancedrenamer LICEcap connect k-lite-codec-pack-mega-np sigil adb ffmpeg
 
 scoop install python nodejs-lts lua gcc gdb #常用编程环境安装
 
