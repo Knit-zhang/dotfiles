@@ -42,6 +42,7 @@
 |sigil|extras|epub编辑器|
 |adb|main|android调试|
 |localsend|extras|局域网传输|
+|ffmpeg|main|视频编码|
 
 
 ## 应用商店
