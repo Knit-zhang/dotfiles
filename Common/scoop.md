@@ -33,6 +33,7 @@
 |localsend|extras|局域网传输|
 |ffmpeg|main|视频编码|
 |losslesscut|extras|无损剪辑|
+|dbeaver|extras|数据库管理|
 
 ## 快速恢复
 
@@ -54,7 +55,7 @@ scoop bucket add nonportable #添加 nonportable 桶
 scoop bucket add nerd-fonts #添加nerd-fonts桶
 scoop bucket add games #添加games桶
 
-scoop install calibre geekuninstaller iperf3 figlet sudo ditto typora obsidian everything deskpins qbittorrent tor telegram hashcat gpg crystaldiskinfo crystaldiskmark advancedrenamer LICEcap connect k-lite-codec-pack-mega-np sigil adb ffmpeg losslesscut
+scoop install calibre geekuninstaller iperf3 figlet sudo ditto typora obsidian everything deskpins qbittorrent tor telegram hashcat gpg crystaldiskinfo crystaldiskmark advancedrenamer LICEcap connect k-lite-codec-pack-mega-np sigil adb ffmpeg losslesscut dbeaver
 
 scoop install osulazer
 

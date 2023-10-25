@@ -1,6 +1,6 @@
 {
   "encrypted": true,
-  "encKeyValidation_DO_NOT_EDIT": "2.QoF3lyBVrgsU25A4ahFpKw==|xXc5zQP6sb5aC4/IIgRmoNY/LPg5Wthf6/fWHrLOOE4nx4vH4EJGSa9kWpXR6f3J|blQXPqJ3N8w7H9FviEMCdDx8E6rs1sej7KdMguxGWxk=",
+  "encKeyValidation_DO_NOT_EDIT": "2.eXTbf3EkENmVv99+V9IgiQ==|+wzqGSYA6MKyRUg/y1jFyFL40MkJoaCPUVcuIdiW4DgnPZbw4XNJ8LqM8AV4ZNCa|dJIRN7nI6AR+DTUI/biMuLtC5XU2IJRIVul0OG7sriM=",
   "folders": [
     {
       "id": "258261ca-3754-486d-a202-404eac5e6272",
@@ -13,6 +13,10 @@
   ],
   "items": [
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.427Z",
+      "creationDate": "2022-09-07T10:50:28.427Z",
+      "deletedDate": null,
       "id": "0036497f-952d-42ea-9f04-b7ccdb014064",
       "organizationId": null,
       "folderId": null,
@@ -33,6 +37,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.424Z",
+      "creationDate": "2022-09-07T10:50:28.424Z",
+      "deletedDate": null,
       "id": "02649310-6384-459f-a12d-b616532e045d",
       "organizationId": null,
       "folderId": null,
@@ -53,6 +61,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.426Z",
+      "creationDate": "2022-09-07T10:50:28.426Z",
+      "deletedDate": null,
       "id": "05cf6189-8e82-478f-a721-3fefe7395e38",
       "organizationId": null,
       "folderId": "604cf50e-adad-4f96-909a-3e02c699b0c3",
@@ -77,6 +89,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.433Z",
+      "creationDate": "2022-09-07T10:50:28.433Z",
+      "deletedDate": null,
       "id": "07d6c731-1157-41ab-a184-cfe470d9dcc1",
       "organizationId": null,
       "folderId": null,
@@ -98,6 +114,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.424Z",
+      "creationDate": "2022-09-07T10:50:28.424Z",
+      "deletedDate": null,
       "id": "0982a92a-3cdd-4509-867d-34da49a9bd20",
       "organizationId": null,
       "folderId": null,
@@ -118,6 +138,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-01-30T08:26:32.242Z",
+      "creationDate": "2023-01-30T08:26:32.240Z",
+      "deletedDate": null,
       "id": "09bf9f3d-e9bf-4e26-ae99-ce76ad5e40ef",
       "organizationId": null,
       "folderId": null,
@@ -138,6 +162,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.416Z",
+      "creationDate": "2022-09-07T10:50:28.416Z",
+      "deletedDate": null,
       "id": "0aeb5d06-b8a1-4225-8f0f-7b0604733ba1",
       "organizationId": null,
       "folderId": null,
@@ -158,6 +186,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.437Z",
+      "creationDate": "2022-09-07T10:50:28.437Z",
+      "deletedDate": null,
       "id": "0b4f0aff-5733-42ae-8914-f32f294d695d",
       "organizationId": null,
       "folderId": null,
@@ -178,6 +210,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.433Z",
+      "creationDate": "2022-09-07T10:50:28.433Z",
+      "deletedDate": null,
       "id": "0bb382e6-0eab-435e-82e4-3f062d2290f3",
       "organizationId": null,
       "folderId": null,
@@ -198,6 +234,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.415Z",
+      "creationDate": "2022-09-07T10:50:28.415Z",
+      "deletedDate": null,
       "id": "0bf40109-fe33-4227-9bc8-f7ec66624d92",
       "organizationId": null,
       "folderId": null,
@@ -218,6 +258,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-10-31T11:10:20.395Z",
+      "creationDate": "2022-09-07T10:50:28.418Z",
+      "deletedDate": null,
       "id": "0d460a01-cc9b-4232-910a-1303ea02748a",
       "organizationId": null,
       "folderId": null,
@@ -247,6 +291,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-12-09T00:54:57.780Z",
+      "creationDate": "2022-12-09T00:54:57.779Z",
+      "deletedDate": null,
       "id": "0db3c102-fde8-41e5-99c8-927ac1d9c0dd",
       "organizationId": null,
       "folderId": null,
@@ -267,6 +315,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.422Z",
+      "creationDate": "2022-09-07T10:50:28.422Z",
+      "deletedDate": null,
       "id": "0ee68f5f-1de0-4362-8e08-c6b8661a2174",
       "organizationId": null,
       "folderId": "258261ca-3754-486d-a202-404eac5e6272",
@@ -287,6 +339,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-03-15T07:34:14.055Z",
+      "creationDate": "2023-03-15T07:34:14.044Z",
+      "deletedDate": null,
       "id": "0f2a3ac1-06ed-4172-8be8-e34f8ebb97ce",
       "organizationId": null,
       "folderId": null,
@@ -307,6 +363,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-30T16:04:30.463Z",
+      "creationDate": "2022-09-07T10:50:28.429Z",
+      "deletedDate": null,
       "id": "0f535822-474a-4185-b87a-12b7ed4043d3",
       "organizationId": null,
       "folderId": null,
@@ -335,6 +395,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-10-17T06:38:14.048Z",
+      "creationDate": "2022-10-17T06:37:47.325Z",
+      "deletedDate": null,
       "id": "1018c233-9212-4ca1-ab64-893872d95fdf",
       "organizationId": null,
       "folderId": null,
@@ -355,6 +419,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.416Z",
+      "creationDate": "2022-09-07T10:50:28.416Z",
+      "deletedDate": null,
       "id": "105721f5-0a33-4335-97bd-ab550a21db7f",
       "organizationId": null,
       "folderId": null,
@@ -375,6 +443,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.410Z",
+      "creationDate": "2022-09-07T10:50:28.410Z",
+      "deletedDate": null,
       "id": "11085c69-2870-47ad-9d25-5c77033bb7b6",
       "organizationId": null,
       "folderId": null,
@@ -395,6 +467,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.409Z",
+      "creationDate": "2022-09-07T10:50:28.409Z",
+      "deletedDate": null,
       "id": "1175cc04-92aa-45a7-a642-ab3f86f05eb4",
       "organizationId": null,
       "folderId": null,
@@ -416,6 +492,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.439Z",
+      "creationDate": "2022-09-07T10:50:28.439Z",
+      "deletedDate": null,
       "id": "12a9a767-43e3-48ab-bac9-8a9aa43292cb",
       "organizationId": null,
       "folderId": null,
@@ -436,6 +516,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-28T04:59:49.760Z",
+      "creationDate": "2022-09-28T04:59:26.837Z",
+      "deletedDate": null,
       "id": "13bd6b2a-c94f-40f4-a195-79b75dbd02b8",
       "organizationId": null,
       "folderId": null,
@@ -456,6 +540,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.416Z",
+      "creationDate": "2022-09-07T10:50:28.416Z",
+      "deletedDate": null,
       "id": "13f0f785-c3e2-4147-a1c3-c0f0933c86dd",
       "organizationId": null,
       "folderId": null,
@@ -484,6 +572,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.434Z",
+      "creationDate": "2022-09-07T10:50:28.434Z",
+      "deletedDate": null,
       "id": "13f99fb3-904e-4ca1-9858-d6f3eeadaec3",
       "organizationId": null,
       "folderId": null,
@@ -504,6 +596,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-04-09T11:04:15.524Z",
+      "creationDate": "2023-04-09T11:01:59.956Z",
+      "deletedDate": null,
       "id": "1558b00a-1789-4a1e-96c8-e536a1ef7c20",
       "organizationId": null,
       "folderId": null,
@@ -525,6 +621,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-12-11T14:35:13.320Z",
+      "creationDate": "2022-09-07T10:50:28.404Z",
+      "deletedDate": null,
       "id": "15d3a20a-86b9-47ee-82ec-1f71933ad0e3",
       "organizationId": null,
       "folderId": null,
@@ -545,6 +645,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.435Z",
+      "creationDate": "2022-09-07T10:50:28.435Z",
+      "deletedDate": null,
       "id": "15dd9a05-e21c-4272-84e4-f3e2a5e38523",
       "organizationId": null,
       "folderId": null,
@@ -565,6 +669,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.417Z",
+      "creationDate": "2022-09-07T10:50:28.417Z",
+      "deletedDate": null,
       "id": "167fe7b5-56c5-4858-960a-ad4bf2e20de1",
       "organizationId": null,
       "folderId": null,
@@ -585,6 +693,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.441Z",
+      "creationDate": "2022-09-07T10:50:28.441Z",
+      "deletedDate": null,
       "id": "16b4bb47-b1f5-403e-bab3-45aa2b422351",
       "organizationId": null,
       "folderId": null,
@@ -605,6 +717,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.441Z",
+      "creationDate": "2022-09-07T10:50:28.441Z",
+      "deletedDate": null,
       "id": "17bb33bc-ea43-474d-9636-356e85645dca",
       "organizationId": null,
       "folderId": null,
@@ -634,6 +750,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.406Z",
+      "creationDate": "2022-09-07T10:50:28.406Z",
+      "deletedDate": null,
       "id": "18035870-a512-4228-99e9-eb14f127d6a8",
       "organizationId": null,
       "folderId": null,
@@ -655,6 +775,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.441Z",
+      "creationDate": "2022-09-07T10:50:28.441Z",
+      "deletedDate": null,
       "id": "1892033f-5bc1-4fe6-8386-5134278aa619",
       "organizationId": null,
       "folderId": null,
@@ -675,6 +799,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-05-03T15:36:32.313Z",
+      "creationDate": "2022-09-07T10:50:28.438Z",
+      "deletedDate": null,
       "id": "1b79b881-8429-428c-8b2a-81e9a9926caa",
       "organizationId": null,
       "folderId": null,
@@ -695,6 +823,15 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": [
+        {
+          "lastUsedDate": "2022-10-06T15:40:59.317Z",
+          "password": "2.X60E9buXJhjY/wQPmfJWBg==|hkEXk011X+ExFUnJBPYopw==|RkNB2hJCAOn4nggVO7fCzGsuJ8fXOp5By4tn72MZgaA="
+        }
+      ],
+      "revisionDate": "2022-10-06T15:41:00.154Z",
+      "creationDate": "2022-09-08T14:07:29.562Z",
+      "deletedDate": null,
       "id": "1c11795b-1772-496c-901f-486c89169a4d",
       "organizationId": null,
       "folderId": null,
@@ -715,6 +852,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-10-04T05:18:49.257Z",
+      "creationDate": "2022-09-07T10:50:28.481Z",
+      "deletedDate": null,
       "id": "1c2a4104-f4ba-48d7-9b0c-dba926e9651e",
       "organizationId": null,
       "folderId": null,
@@ -735,6 +876,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.404Z",
+      "creationDate": "2022-09-07T10:50:28.404Z",
+      "deletedDate": null,
       "id": "1c2c18fa-291b-44d9-99ee-59683f3786a4",
       "organizationId": null,
       "folderId": null,
@@ -755,6 +900,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.446Z",
+      "creationDate": "2022-09-07T10:50:28.446Z",
+      "deletedDate": null,
       "id": "1e184a4e-26ae-476b-bdad-2cae32fab985",
       "organizationId": null,
       "folderId": null,
@@ -775,6 +924,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.433Z",
+      "creationDate": "2022-09-07T10:50:28.433Z",
+      "deletedDate": null,
       "id": "1f89728c-ea9e-4fad-9fa7-9643e79f22f3",
       "organizationId": null,
       "folderId": null,
@@ -795,6 +948,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.434Z",
+      "creationDate": "2022-09-07T10:50:28.434Z",
+      "deletedDate": null,
       "id": "2193adc9-a683-4c3e-b0c3-09aacccbe53e",
       "organizationId": null,
       "folderId": null,
@@ -815,6 +972,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-10-29T11:58:54.580Z",
+      "creationDate": "2022-10-29T11:58:54.580Z",
+      "deletedDate": null,
       "id": "2289e4b5-d4ca-4edd-a5f4-7c1a74ce0c24",
       "organizationId": null,
       "folderId": null,
@@ -835,6 +996,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-08-16T15:37:59.386Z",
+      "creationDate": "2023-08-16T15:36:14.883Z",
+      "deletedDate": null,
       "id": "23e210f4-1d00-4b95-9e5d-d9fafc5b9249",
       "organizationId": null,
       "folderId": null,
@@ -856,6 +1021,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-09-03T09:11:22.749Z",
+      "creationDate": "2023-09-03T09:11:08.088Z",
+      "deletedDate": null,
       "id": "25eb3f02-354c-4eac-88ef-43e87512d8f9",
       "organizationId": null,
       "folderId": "258261ca-3754-486d-a202-404eac5e6272",
@@ -876,6 +1045,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.415Z",
+      "creationDate": "2022-09-07T10:50:28.415Z",
+      "deletedDate": null,
       "id": "26744ca5-06a8-4fac-b16e-eeee58e98db0",
       "organizationId": null,
       "folderId": null,
@@ -896,6 +1069,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-02-18T16:40:50.390Z",
+      "creationDate": "2023-02-18T16:40:32.436Z",
+      "deletedDate": null,
       "id": "281442db-b096-4e35-ad6b-3e5451160eee",
       "organizationId": null,
       "folderId": null,
@@ -916,6 +1093,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-12-07T13:28:40.084Z",
+      "creationDate": "2022-09-07T10:50:28.448Z",
+      "deletedDate": null,
       "id": "28d3e90a-1a51-42c1-9f6b-eb1268e7130e",
       "organizationId": null,
       "folderId": null,
@@ -945,6 +1126,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-08-16T03:51:30.596Z",
+      "creationDate": "2022-09-07T10:50:28.419Z",
+      "deletedDate": null,
       "id": "2adec637-7fe1-426f-b9ce-ec222533e703",
       "organizationId": null,
       "folderId": "604cf50e-adad-4f96-909a-3e02c699b0c3",
@@ -974,6 +1159,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.408Z",
+      "creationDate": "2022-09-07T10:50:28.408Z",
+      "deletedDate": null,
       "id": "2b102878-f2a0-4f0e-a6b5-10f1e26964bb",
       "organizationId": null,
       "folderId": null,
@@ -994,6 +1183,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.446Z",
+      "creationDate": "2022-09-07T10:50:28.446Z",
+      "deletedDate": null,
       "id": "2e07603e-72a3-4553-aaee-0ecdbf2a44b3",
       "organizationId": null,
       "folderId": null,
@@ -1014,6 +1207,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-07-13T15:33:45.684Z",
+      "creationDate": "2022-09-07T10:50:28.442Z",
+      "deletedDate": null,
       "id": "2fa539fe-5521-476e-af9e-b8b15b2f42be",
       "organizationId": null,
       "folderId": null,
@@ -1034,6 +1231,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-02-06T18:15:29.999Z",
+      "creationDate": "2022-09-07T10:50:28.432Z",
+      "deletedDate": null,
       "id": "3262c99f-1d7e-4381-bdca-5274bd7e21e3",
       "organizationId": null,
       "folderId": null,
@@ -1054,6 +1255,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.401Z",
+      "creationDate": "2022-09-07T10:50:28.401Z",
+      "deletedDate": null,
       "id": "3322f7f5-be31-4136-a76a-14d4be571ca7",
       "organizationId": null,
       "folderId": null,
@@ -1074,6 +1279,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.421Z",
+      "creationDate": "2022-09-07T10:50:28.420Z",
+      "deletedDate": null,
       "id": "341ebf86-69d7-4f52-9bb9-0b63ae878912",
       "organizationId": null,
       "folderId": null,
@@ -1098,6 +1307,19 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": [
+        {
+          "lastUsedDate": "2023-02-24T16:25:24.918Z",
+          "password": "2.+tCQ4oAXOM9W2DG6awhF4Q==|8ZISCje7c0zH6dczoLIQTg==|W3N7Sd+l9DyN3u7gJcR/bSCHlYj6+PHW1Bf4XDRl8c0="
+        },
+        {
+          "lastUsedDate": "2022-10-27T09:25:24.299Z",
+          "password": "2.J7Xw3V7pOdIQJkrNgD6wBQ==|/uOpM/L4xuWL2kgSm1t5+g==|oE36rTCF4ZZ/TC9QUQt/AJ26fVD5LkL0vs7466M88b8="
+        }
+      ],
+      "revisionDate": "2023-02-24T16:25:25.684Z",
+      "creationDate": "2022-09-07T10:50:28.419Z",
+      "deletedDate": null,
       "id": "3519df14-c7d6-483c-afe4-0bf9a2eb19c7",
       "organizationId": null,
       "folderId": null,
@@ -1119,6 +1341,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.415Z",
+      "creationDate": "2022-09-07T10:50:28.415Z",
+      "deletedDate": null,
       "id": "351f2338-c116-4c33-9786-74ec27724944",
       "organizationId": null,
       "folderId": null,
@@ -1139,6 +1365,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.445Z",
+      "creationDate": "2022-09-07T10:50:28.445Z",
+      "deletedDate": null,
       "id": "37c35c3d-e099-49d6-9d2d-9917e575e6fe",
       "organizationId": null,
       "folderId": null,
@@ -1159,6 +1389,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.402Z",
+      "creationDate": "2022-09-07T10:50:28.402Z",
+      "deletedDate": null,
       "id": "39501e4b-eee2-45b2-8395-f77bacda61dc",
       "organizationId": null,
       "folderId": "258261ca-3754-486d-a202-404eac5e6272",
@@ -1179,6 +1413,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-11-27T02:35:01.618Z",
+      "creationDate": "2022-09-07T10:50:28.407Z",
+      "deletedDate": null,
       "id": "39d87729-cdf6-4583-97b0-afeca8ca03f6",
       "organizationId": null,
       "folderId": null,
@@ -1199,6 +1437,34 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-10-16T15:02:17.578Z",
+      "creationDate": "2023-10-16T15:02:05.427Z",
+      "deletedDate": null,
+      "id": "3ba6ccf7-460c-49f7-b54d-d9cc97dfb9dd",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "2.srj3pEyUDSbF/9d4c08QAQ==|MnwDNTslHSLUFfGPC+/W2g==|bOW2Fp1GoajVQyFDicJ8Kv1ysVd/WDgtXeFln+JHm/M=",
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "2.uPkMk5ezlopzbpybIMbjYQ==|OfoVaMMsxPkAdqRs/Ods/1y++g5xd5DaQ9Ao2E5B3Ec=|Y8Zzhyh6SmuTGXl3/Y6Jlxoxu7pwkaMvRs49YWLjQII="
+          }
+        ],
+        "username": "2.7Kdthh3FPhEosSYn0QbJlw==|XEDHdiVETnnMjk/dmvI3dsNhSb2BUBNrAbnAE7KSk4I=|KfgqnABBIV0rdIkWRUF2IT9YpQFQqEs6yhMGo60mxOE=",
+        "password": "2.vN9ubz5rB2avPP4FujtoWw==|OmvfeKafJ61JOXlDljCrlA==|Ole7B/LyhAEwx5tvV0va0RO9g++S3jOh1SP9taiM6Zo="
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.423Z",
+      "creationDate": "2022-09-07T10:50:28.423Z",
+      "deletedDate": null,
       "id": "3ba9b302-bbe5-45bb-a6c8-0ed882e64a30",
       "organizationId": null,
       "folderId": null,
@@ -1219,26 +1485,10 @@
       "collectionIds": null
     },
     {
-      "id": "3c3234d9-3970-448c-bd14-7c45ddcef187",
-      "organizationId": null,
-      "folderId": null,
-      "type": 1,
-      "reprompt": 0,
-      "name": "2.9H5NRHbrcunxF95jjQRHGg==|z1CDi6YPo2U6gMkCVor7Vw==|hJyrLP1doi/GoWQi5nLkRr0/Y8iPcocdgcliRJ+Rm9I=",
-      "favorite": false,
-      "login": {
-        "uris": [
-          {
-            "match": 2,
-            "uri": "2.iq6FDzw3WH1bwyLtht/yfw==|pfklZbUj/Q7v9x2R33rZ+paJLunA5ukBuQp1qV5U+2g=|AbSOHwZxwIcq+sOt3MxHMJl++HQEGkwPnDtCj/TdGBc="
-          }
-        ],
-        "username": "2.BG49yDNHNYWNdhQmfc2R5Q==|UkYpqhbHMrISLpJFEQsIPg==|xta0Zw4rFhPnXHm1pkdqPK6EzzGKjrtZrH35hEGHEIs=",
-        "password": "2.FCBOObM7gI6Et/SS+26TcA==|EVYr3gbKkkm1Q0yls794Jw==|42SVq7xPiEWeUUWFyzIdqj7Se2DX7bPE3aA6RYgvpDM="
-      },
-      "collectionIds": null
-    },
-    {
+      "passwordHistory": null,
+      "revisionDate": "2023-07-09T17:03:08.152Z",
+      "creationDate": "2023-07-09T17:03:08.151Z",
+      "deletedDate": null,
       "id": "3d1a5a02-1cf3-48d3-82d6-e1eb08cd0fdc",
       "organizationId": null,
       "folderId": null,
@@ -1259,6 +1509,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.442Z",
+      "creationDate": "2022-09-07T10:50:28.442Z",
+      "deletedDate": null,
       "id": "3d35e271-af86-493e-bccc-b626a5584176",
       "organizationId": null,
       "folderId": null,
@@ -1279,6 +1533,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.411Z",
+      "creationDate": "2022-09-07T10:50:28.410Z",
+      "deletedDate": null,
       "id": "3d49b3aa-d5d4-4899-ad13-9f0764c2f978",
       "organizationId": null,
       "folderId": null,
@@ -1299,6 +1557,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-12-12T13:04:04.983Z",
+      "creationDate": "2022-12-12T13:03:56.381Z",
+      "deletedDate": null,
       "id": "3db789d0-0cc1-4864-b30d-5f2208ca55bc",
       "organizationId": null,
       "folderId": null,
@@ -1319,6 +1581,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-02-07T04:04:52.431Z",
+      "creationDate": "2023-02-07T04:04:52.426Z",
+      "deletedDate": null,
       "id": "4135ce37-f189-4dcc-8db7-3a88b3a34706",
       "organizationId": null,
       "folderId": null,
@@ -1339,6 +1605,35 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-09-26T14:04:15.018Z",
+      "creationDate": "2023-09-26T14:04:15.017Z",
+      "deletedDate": null,
+      "id": "435a828c-058d-4767-a61d-ceb881f226d2",
+      "organizationId": null,
+      "folderId": null,
+      "type": 2,
+      "reprompt": 0,
+      "name": "2.GpbhOfn5M/Lu2tYORM+ohw==|vSwQ0+gDsT0Uq6bCzkuZGt7Cs/f9M48Q3AL7nGu6uxI=|5MSO/W/aeajJfpH0t0+46sCyU8MOsdQbJmRnQ1GtVeA=",
+      "favorite": false,
+      "fields": [
+        {
+          "name": "2.hWH/vEX5yNQsnriHy91rhA==|LlWVe14c6pBI9/7xDndcwg==|OSG1LVUyQrmHEZWkGaD7mtzc5STvrBL9iej5FYk4B0A=",
+          "value": "2.HwieyXuJytGOpZbqC11PCA==|wQ11CuGv8X9kPJ3hD6sYoOybT3w8EnxvBJ9LSJgK1cE=|+AKbyFnc96OhW21QEK8utN+XrIhFsdoj175EXxE9FYU=",
+          "type": 0,
+          "linkedId": null
+        }
+      ],
+      "secureNote": {
+        "type": 0
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.414Z",
+      "creationDate": "2022-09-07T10:50:28.414Z",
+      "deletedDate": null,
       "id": "43925031-4f3d-48cf-9440-8af9f9205628",
       "organizationId": null,
       "folderId": null,
@@ -1359,6 +1654,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.481Z",
+      "creationDate": "2022-09-07T10:50:28.481Z",
+      "deletedDate": null,
       "id": "439266e3-e7d2-43ad-bae8-2d9af6b58980",
       "organizationId": null,
       "folderId": null,
@@ -1379,6 +1678,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-08-18T04:06:27.483Z",
+      "creationDate": "2023-08-18T04:04:15.539Z",
+      "deletedDate": null,
       "id": "43b27124-0765-4979-b492-bee9235ed292",
       "organizationId": null,
       "folderId": null,
@@ -1400,6 +1703,34 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-10-15T19:58:55.078Z",
+      "creationDate": "2023-10-15T19:58:55.076Z",
+      "deletedDate": null,
+      "id": "43fd8a29-cc51-4ed4-90a0-b5925ba89ba3",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "2.GI2J328AX4qQGPzMynbzhA==|t7WFHpr88rEmz3nDmsZOTA==|miD82/WVAYkYLKkzbMGY/M17dWAb3bey1HevJkZ+hZU=",
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "2.uXy2oGTqa2dCFC7+xa8qig==|Dp6WOxHnq2HJeeYboApvGVT2jLN72PaudSbin66t6zc=|1Hq9myrfYcXEG5Tm6z0qU9ZO8wwL5ybHnJuO/C7AHdM="
+          }
+        ],
+        "username": "2.UJE8MS5QMT99LXkEolB/IQ==|giBWhxkbz6PHk5ifd/QO6w==|RlpGyUYlQuGCPz2bU812aFy7ym28QZgFP9rkSN4fcX8=",
+        "password": "2.1f/ZWUqkvUxIZClJTukCsA==|ydFrk+xp1Gi9BLjMxl+c8g==|iXb7wX0Dh+gSzuNqajnARb27/grDaA3CwbZqSAl7arg="
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.405Z",
+      "creationDate": "2022-09-07T10:50:28.405Z",
+      "deletedDate": null,
       "id": "44c21219-0490-48d2-b6b5-397e8c2a9836",
       "organizationId": null,
       "folderId": null,
@@ -1420,6 +1751,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-03-11T02:53:08.162Z",
+      "creationDate": "2022-09-07T10:50:28.415Z",
+      "deletedDate": null,
       "id": "45df343d-7275-4c98-9a74-20ae6a8b752f",
       "organizationId": null,
       "folderId": null,
@@ -1440,6 +1775,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.446Z",
+      "creationDate": "2022-09-07T10:50:28.446Z",
+      "deletedDate": null,
       "id": "45f9567d-1796-41b2-b964-067a6765419d",
       "organizationId": null,
       "folderId": null,
@@ -1460,6 +1799,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-10-30T11:06:25.026Z",
+      "creationDate": "2022-10-30T11:06:25.026Z",
+      "deletedDate": null,
       "id": "46348777-8aec-429f-bd8f-b54c9e32c874",
       "organizationId": null,
       "folderId": null,
@@ -1480,6 +1823,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.438Z",
+      "creationDate": "2022-09-07T10:50:28.438Z",
+      "deletedDate": null,
       "id": "48d08ddb-6d5f-4a0f-8d51-dc8b56b81f1f",
       "organizationId": null,
       "folderId": "604cf50e-adad-4f96-909a-3e02c699b0c3",
@@ -1507,6 +1854,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-11-23T12:29:37.755Z",
+      "creationDate": "2022-09-07T10:50:28.440Z",
+      "deletedDate": null,
       "id": "49086c0b-754e-40bf-979b-e01a653b6814",
       "organizationId": null,
       "folderId": null,
@@ -1527,6 +1878,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-03-20T12:16:59.036Z",
+      "creationDate": "2023-03-20T12:16:59.024Z",
+      "deletedDate": null,
       "id": "4afb5c33-492f-4f77-a2d6-bacc6dfc39d3",
       "organizationId": null,
       "folderId": null,
@@ -1547,6 +1902,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-11-12T09:16:48.417Z",
+      "creationDate": "2022-09-28T16:57:27.843Z",
+      "deletedDate": null,
       "id": "4b701446-21c3-40b4-b3bb-1bf9b3c0aff8",
       "organizationId": null,
       "folderId": null,
@@ -1582,6 +1941,15 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": [
+        {
+          "lastUsedDate": "2023-04-14T12:40:19.089Z",
+          "password": "2.prYx861wg9sxzhqu/ty7UA==|YF1oEjMw+BYZGWykCoU1NQ==|2bOO/ii3fe1AhcECfw5m2/F6cuYHtbGIKvtXOxU87Z4="
+        }
+      ],
+      "revisionDate": "2023-04-14T12:40:18.323Z",
+      "creationDate": "2023-04-14T12:30:57.740Z",
+      "deletedDate": null,
       "id": "4e06b31d-fa89-422e-98ba-a3bfa49375c2",
       "organizationId": null,
       "folderId": null,
@@ -1611,6 +1979,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-02-08T04:55:32.867Z",
+      "creationDate": "2023-02-08T04:55:18.624Z",
+      "deletedDate": null,
       "id": "4e0aa6e2-8272-40be-b7e5-031b988a6ed0",
       "organizationId": null,
       "folderId": null,
@@ -1631,6 +2003,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.422Z",
+      "creationDate": "2022-09-07T10:50:28.422Z",
+      "deletedDate": null,
       "id": "4e7b8d62-0d0d-4d1a-8457-e2e4772e5b4f",
       "organizationId": null,
       "folderId": null,
@@ -1651,6 +2027,15 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": [
+        {
+          "lastUsedDate": "2022-12-14T05:09:12.808Z",
+          "password": "2.JLtFI3OUD1z/CHSmJUxShQ==|GyaO9Oz1/Aw4HDVOyDSFM+WhqMBFf+SnyiDGJuUWy1E=|bubknPSYvs29fdrWGlLBmWOPGdIQ6W2UnMKkRpnntZE="
+        }
+      ],
+      "revisionDate": "2022-12-14T05:12:14.467Z",
+      "creationDate": "2022-12-14T05:08:58.783Z",
+      "deletedDate": null,
       "id": "52967f9a-05b8-4bf2-8f3d-a638016cfd88",
       "organizationId": null,
       "folderId": null,
@@ -1671,6 +2056,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-07-21T07:00:27.775Z",
+      "creationDate": "2022-09-07T10:50:28.436Z",
+      "deletedDate": null,
       "id": "533a47eb-e291-4d46-a1c9-9b9f906efa4a",
       "organizationId": null,
       "folderId": "258261ca-3754-486d-a202-404eac5e6272",
@@ -1695,6 +2084,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.425Z",
+      "creationDate": "2022-09-07T10:50:28.425Z",
+      "deletedDate": null,
       "id": "54460732-67f7-4ddd-afed-46634fab8f11",
       "organizationId": null,
       "folderId": null,
@@ -1715,6 +2108,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.439Z",
+      "creationDate": "2022-09-07T10:50:28.439Z",
+      "deletedDate": null,
       "id": "5900ed14-641b-4001-8f0c-86a6ee6c9f8d",
       "organizationId": null,
       "folderId": null,
@@ -1735,6 +2132,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.409Z",
+      "creationDate": "2022-09-07T10:50:28.409Z",
+      "deletedDate": null,
       "id": "59c35182-cab1-4ddc-b4a0-e7d25d889bf2",
       "organizationId": null,
       "folderId": null,
@@ -1756,6 +2157,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.414Z",
+      "creationDate": "2022-09-07T10:50:28.414Z",
+      "deletedDate": null,
       "id": "5e77bf7a-474e-4629-8a87-8d222f157181",
       "organizationId": null,
       "folderId": null,
@@ -1776,6 +2181,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-01-12T07:13:19.912Z",
+      "creationDate": "2023-01-12T07:13:11.276Z",
+      "deletedDate": null,
       "id": "5f33a480-b237-40f0-b1a6-7f4f3daaaf57",
       "organizationId": null,
       "folderId": null,
@@ -1796,6 +2205,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.426Z",
+      "creationDate": "2022-09-07T10:50:28.426Z",
+      "deletedDate": null,
       "id": "5f4d15ba-4337-456f-9f15-2fbb7cca53e0",
       "organizationId": null,
       "folderId": null,
@@ -1816,6 +2229,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.440Z",
+      "creationDate": "2022-09-07T10:50:28.440Z",
+      "deletedDate": null,
       "id": "5fb0337c-cce4-4f11-982e-b66655470ae4",
       "organizationId": null,
       "folderId": null,
@@ -1836,6 +2253,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.421Z",
+      "creationDate": "2022-09-07T10:50:28.421Z",
+      "deletedDate": null,
       "id": "5fe5b867-dfa5-419b-86fb-7384c5426b4d",
       "organizationId": null,
       "folderId": null,
@@ -1856,6 +2277,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-11-26T07:19:20.124Z",
+      "creationDate": "2022-11-26T07:19:20.124Z",
+      "deletedDate": null,
       "id": "6000b1ba-820b-4bea-b360-b7ea6a811cc4",
       "organizationId": null,
       "folderId": null,
@@ -1876,6 +2301,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.428Z",
+      "creationDate": "2022-09-07T10:50:28.428Z",
+      "deletedDate": null,
       "id": "6009cc59-0ee2-44e6-b691-50bc173897a3",
       "organizationId": null,
       "folderId": null,
@@ -1896,6 +2325,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-10-30T07:04:43.083Z",
+      "creationDate": "2022-10-11T07:36:41.659Z",
+      "deletedDate": null,
       "id": "600fd71b-1c96-4020-a2e8-fcd381979556",
       "organizationId": null,
       "folderId": null,
@@ -1916,6 +2349,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.437Z",
+      "creationDate": "2022-09-07T10:50:28.437Z",
+      "deletedDate": null,
       "id": "60b94378-9ce4-4868-b66b-a8813fa17f0f",
       "organizationId": null,
       "folderId": null,
@@ -1937,6 +2374,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.420Z",
+      "creationDate": "2022-09-07T10:50:28.420Z",
+      "deletedDate": null,
       "id": "621be384-3ec1-4444-ad93-6b93aebfcd6c",
       "organizationId": null,
       "folderId": null,
@@ -1957,6 +2398,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.429Z",
+      "creationDate": "2022-09-07T10:50:28.429Z",
+      "deletedDate": null,
       "id": "62f9408e-5c53-4309-a512-c27c55061dbb",
       "organizationId": null,
       "folderId": null,
@@ -1977,6 +2422,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-02-10T06:26:12.276Z",
+      "creationDate": "2023-01-16T08:21:32.006Z",
+      "deletedDate": null,
       "id": "63625406-1366-4e21-a3ca-9fcd24f64131",
       "organizationId": null,
       "folderId": null,
@@ -2005,6 +2454,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.425Z",
+      "creationDate": "2022-09-07T10:50:28.425Z",
+      "deletedDate": null,
       "id": "63851ac5-be32-4c7a-87dc-4fd5587ee9e6",
       "organizationId": null,
       "folderId": null,
@@ -2025,6 +2478,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-02-02T15:07:39.870Z",
+      "creationDate": "2022-09-07T10:50:28.427Z",
+      "deletedDate": null,
       "id": "6504ebd2-5b37-4e1d-8f7b-9ec9bb1e10bf",
       "organizationId": null,
       "folderId": null,
@@ -2046,6 +2503,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.426Z",
+      "creationDate": "2022-09-07T10:50:28.426Z",
+      "deletedDate": null,
       "id": "6530e449-679c-47aa-9bc8-80e647de026d",
       "organizationId": null,
       "folderId": null,
@@ -2066,6 +2527,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-01-17T07:19:46.930Z",
+      "creationDate": "2023-01-08T15:01:43.560Z",
+      "deletedDate": null,
       "id": "6689ef4a-aebe-4199-ad0c-0f70ef1247bc",
       "organizationId": null,
       "folderId": null,
@@ -2086,6 +2551,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.425Z",
+      "creationDate": "2022-09-07T10:50:28.425Z",
+      "deletedDate": null,
       "id": "674788ae-3f31-44e1-a13c-a7fbd8ca7f9c",
       "organizationId": null,
       "folderId": null,
@@ -2106,6 +2575,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.411Z",
+      "creationDate": "2022-09-07T10:50:28.411Z",
+      "deletedDate": null,
       "id": "679b4efd-30c4-4423-b0da-04d857da8498",
       "organizationId": null,
       "folderId": null,
@@ -2126,6 +2599,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.427Z",
+      "creationDate": "2022-09-07T10:50:28.427Z",
+      "deletedDate": null,
       "id": "6aee8a98-a4e4-4223-8423-54ebb33397de",
       "organizationId": null,
       "folderId": null,
@@ -2146,6 +2623,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-11-23T12:35:16.161Z",
+      "creationDate": "2022-11-23T12:28:18.994Z",
+      "deletedDate": null,
       "id": "6b037024-bc1e-47dc-a7c4-80282d67b577",
       "organizationId": null,
       "folderId": null,
@@ -2174,6 +2655,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.419Z",
+      "creationDate": "2022-09-07T10:50:28.419Z",
+      "deletedDate": null,
       "id": "6b3d68fe-d0d5-4cc5-82f2-f5978d9b1a08",
       "organizationId": null,
       "folderId": null,
@@ -2194,6 +2679,15 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": [
+        {
+          "lastUsedDate": "2023-02-11T08:10:49.270Z",
+          "password": "2.iTdXTBllZHf/Ft1rtjZr6w==|zQnUgN3IQJwthxn7qqX5Ig==|yk83lfAwDErnPRdebZPbxlvk5Z8JJqiyJpJ9Uzd0Pdg="
+        }
+      ],
+      "revisionDate": "2023-02-11T08:10:49.617Z",
+      "creationDate": "2023-01-15T05:29:36.056Z",
+      "deletedDate": null,
       "id": "6cbdbaac-7ead-48df-bc07-e14a453f4388",
       "organizationId": null,
       "folderId": null,
@@ -2214,6 +2708,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-10-14T02:00:12.261Z",
+      "creationDate": "2022-09-07T10:50:28.401Z",
+      "deletedDate": null,
       "id": "6dbe4c70-0644-4c9a-994e-46d1fb317d22",
       "organizationId": null,
       "folderId": null,
@@ -2234,6 +2732,19 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": [
+        {
+          "lastUsedDate": "2023-09-24T05:14:19.043Z",
+          "password": "2.XbxQ+sxvppuac2w2rz2qqw==|iX8zUwcZ69QSEctWGwlGNw==|kNH3ybWa5UN78GZ6Co3um/YKbFf3uiUaYFuU/xJoAx8="
+        },
+        {
+          "lastUsedDate": "2023-09-07T10:26:10.191Z",
+          "password": "2.U2wKOnuqDiN/o0EmwDAMww==|fKuqoNymzXhzmGC37DKZWw==|ZwAAsBmKxOxRS8TfD/c48FuVN0lXDJGSf7eytx/bGoo="
+        }
+      ],
+      "revisionDate": "2023-09-24T05:14:20.232Z",
+      "creationDate": "2022-12-12T08:56:33.546Z",
+      "deletedDate": null,
       "id": "6e625197-35ef-4c19-9fcb-1f4510743f4b",
       "organizationId": null,
       "folderId": null,
@@ -2258,6 +2769,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.422Z",
+      "creationDate": "2022-09-07T10:50:28.422Z",
+      "deletedDate": null,
       "id": "6ee0f195-bac9-4ab7-9363-d263dfed90ca",
       "organizationId": null,
       "folderId": null,
@@ -2278,6 +2793,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-11-14T16:46:54.882Z",
+      "creationDate": "2022-09-07T10:50:28.429Z",
+      "deletedDate": null,
       "id": "6f0a3ac1-b274-4f2f-9e90-39956beb4310",
       "organizationId": null,
       "folderId": null,
@@ -2298,6 +2817,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.413Z",
+      "creationDate": "2022-09-07T10:50:28.413Z",
+      "deletedDate": null,
       "id": "72adbb56-a8fc-4b47-8b8b-d29da37e323f",
       "organizationId": null,
       "folderId": null,
@@ -2318,6 +2841,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.440Z",
+      "creationDate": "2022-09-07T10:50:28.440Z",
+      "deletedDate": null,
       "id": "7401009b-5121-4ca1-b00e-d891c3ef8fa1",
       "organizationId": null,
       "folderId": null,
@@ -2338,6 +2865,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-10-23T08:32:06.083Z",
+      "creationDate": "2022-10-23T08:21:10.651Z",
+      "deletedDate": null,
       "id": "7407145c-4d1e-4664-9560-35b7d89207d5",
       "organizationId": null,
       "folderId": null,
@@ -2358,6 +2889,15 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": [
+        {
+          "lastUsedDate": "2023-04-10T04:22:00.310Z",
+          "password": "2.HLETpXqIj7RygZGP29yfag==|sBIDw/ryMGTIUjfCFnTcLA==|eHCQR0o8bLURHFIpZ7nQ6h0twkS3lhXn4rYOSIunoA4="
+        }
+      ],
+      "revisionDate": "2023-04-10T04:22:00.973Z",
+      "creationDate": "2022-09-07T10:50:28.423Z",
+      "deletedDate": null,
       "id": "74381827-7584-41ba-8892-f045b8bd929b",
       "organizationId": null,
       "folderId": null,
@@ -2378,6 +2918,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.448Z",
+      "creationDate": "2022-09-07T10:50:28.448Z",
+      "deletedDate": null,
       "id": "74bcc845-b2ce-4f33-8907-e82fb12ef931",
       "organizationId": null,
       "folderId": null,
@@ -2398,6 +2942,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.417Z",
+      "creationDate": "2022-09-07T10:50:28.417Z",
+      "deletedDate": null,
       "id": "76a402f2-e90e-4ac4-92d7-e918412fb6e6",
       "organizationId": null,
       "folderId": null,
@@ -2418,6 +2966,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-12T09:01:43.593Z",
+      "creationDate": "2022-09-07T10:50:28.404Z",
+      "deletedDate": null,
       "id": "76b6ec36-bad0-422b-8276-795c48985a96",
       "organizationId": null,
       "folderId": null,
@@ -2438,6 +2990,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.424Z",
+      "creationDate": "2022-09-07T10:50:28.424Z",
+      "deletedDate": null,
       "id": "76ca307f-fbe5-4b18-9e19-2d3e091c38c2",
       "organizationId": null,
       "folderId": null,
@@ -2458,27 +3014,35 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-10-13T15:30:35.847Z",
+      "creationDate": "2022-10-18T05:26:34.857Z",
+      "deletedDate": null,
       "id": "77970c41-b9c0-46a8-84b5-2845bae1e1bc",
       "organizationId": null,
       "folderId": null,
       "type": 1,
       "reprompt": 0,
-      "name": "2.TVuBMG3JyJv1T3BgKJZxXw==|cM3S3juS60miqt6poYt3Qw==|b92ndfIHgtIae1Jdc3z66CjYXOArTIOsoNvtpucILVs=",
-      "notes": "2.LYMKMD/nfvm961QZ78gf3Q==|AjwQm6II5A5YzCBnTlZyrA7h2HVq696/+/KRrEydwPA=|yTLVplLpWth7vZNHFvXMOvNDevX70Qc6hS6vzc431SA=",
+      "name": "2.8901p/APPpwsXXzpdbl5+A==|w6Z0m0wCHcO0ejtukT7Pkw==|Yi7OMAKB/vcCagFr8LnoXSTwd59C0upgD4+6pm9F7so=",
+      "notes": "2./dxwfg28+pLC+dITwZ4P1Q==|2D+uoiSk64GJ4an61ZBewTMAwP5oi7anbz4TM7kpVWM=|e4Xa6gNgcaiu039iG6KKkddulfLy/aXpm/M8huKYi7o=",
       "favorite": false,
       "login": {
         "uris": [
           {
             "match": null,
-            "uri": "2.S36N/EAVqPXgqqlh5teyCw==|rUcOopaz9FYmwkANCITj86L9PoISJEyu9a1Zg4Dd1Qg=|7q1U8vcAfuqQGcUkZU+l0sN8oEnN8TERs985Ct9cxI0="
+            "uri": "2.h3b5O4zB83nitQ6no8NjFw==|s9mO+3mACWqNgzhjVL7B/O153PyRUXtwWwkzSMewxRNbZJUnQYTMzlzMK/t9+CFX|aoGv7mTeysokBEMxqJAhWiqYmlqeHhQKs/fumvUnro0="
           }
         ],
-        "username": "2.yQUmIPy5oUG6sxQTgcXmfg==|utlHKRyN3LWNxfZOg5ikckupq/picLWYcp6dB6IhWWk=|onZ/bh68UBVQYgVEDRPRy6JACHhQTvEliVo83g5A8jw=",
-        "password": "2.j4ZOKxBu/ixUERlpmFbn6w==|5UuPLz2x0oWmbnrnXS+IOQ==|S2aDNrUcCg2vQh+AfkrvsID/kRVfJjr5fLlFaNUlx+s="
+        "username": "2.0qwgKa+/E2nr4LGnhOLvsA==|yQir+kiLLEi3I+vMHdg5bpL3VAbWtPF/GcXZtOpYyHg=|22aHX7Go4FwtR33+WgZ3ZS48M/hY0n3psJWKGLAh1EU=",
+        "password": "2.Z19J4jZzkPvSzenSsfDWNQ==|T/GlCIlzkJMiUHW+s40k5w==|MbNa6Dr5UivtyU3jzAz2YdVZbnWBtMRD5XPIx39mMcw="
       },
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-11-29T12:33:52.486Z",
+      "creationDate": "2022-11-29T12:33:52.458Z",
+      "deletedDate": null,
       "id": "787ff0c5-fa06-4d2c-8283-06a6382a571b",
       "organizationId": null,
       "folderId": null,
@@ -2499,6 +3063,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.423Z",
+      "creationDate": "2022-09-07T10:50:28.423Z",
+      "deletedDate": null,
       "id": "789926f3-50bd-4a9c-816d-b24f5febf288",
       "organizationId": null,
       "folderId": null,
@@ -2519,6 +3087,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-11-28T16:17:42.500Z",
+      "creationDate": "2022-09-07T10:50:28.418Z",
+      "deletedDate": null,
       "id": "7926a3d7-66a4-47e4-876a-9eb29bd776cd",
       "organizationId": null,
       "folderId": null,
@@ -2539,6 +3111,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-07-08T04:44:08.646Z",
+      "creationDate": "2022-09-07T10:50:28.445Z",
+      "deletedDate": null,
       "id": "7a2c9c81-74a7-426a-9692-62b4e05ce1de",
       "organizationId": null,
       "folderId": null,
@@ -2559,6 +3135,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.445Z",
+      "creationDate": "2022-09-07T10:50:28.445Z",
+      "deletedDate": null,
       "id": "7ab7ab9a-fe5b-4db6-b20a-c86de697b1c3",
       "organizationId": null,
       "folderId": null,
@@ -2579,6 +3159,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.430Z",
+      "creationDate": "2022-09-07T10:50:28.430Z",
+      "deletedDate": null,
       "id": "7e428c70-6f96-4285-81d9-d2e58157ea30",
       "organizationId": null,
       "folderId": null,
@@ -2599,6 +3183,34 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-09-27T03:16:22.181Z",
+      "creationDate": "2023-09-27T03:15:56.378Z",
+      "deletedDate": null,
+      "id": "7f5978ee-14d5-4c5a-b0c4-d24c23479c3a",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "2.PZBAz1kmuK6kGk5BYyuNsg==|s32AaOx4qU8JzXFD85gNag==|BfvwMPBG8bXxuA1DIH9f7xo1DAFceUMshRU+6LHEqa0=",
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "2.MEPzJn9HlQPwwvd7BNHY8Q==|WBGJ6nhnnfYhGg3/6vEHvn4iPbC2Fp68etjtwLpKZLg=|XVvUYQHiLjdyO+xYo2KMe0ATYMv0a6qZ4tpf9JFYT5A="
+          }
+        ],
+        "username": "2.03XUaQnVeYM15i3hrB2Neg==|HlRdjbE2mKOh/wi+3VVWIg==|FXnjZrwXuTFzFg6EzDj1eRGWqtv1FywgWLi3/3GDzXA=",
+        "password": "2.uCk+HEyKAgR8BIJGFX01CQ==|suR8vuEstBddEdYVV64xQQ==|szQq6iTyyueDJ7H1psUBPcFAB+sGK7fWqcRKSL3dWgI="
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.444Z",
+      "creationDate": "2022-09-07T10:50:28.444Z",
+      "deletedDate": null,
       "id": "806832b0-f21c-4e89-b648-de489bbbd8a1",
       "organizationId": null,
       "folderId": null,
@@ -2619,6 +3231,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.417Z",
+      "creationDate": "2022-09-07T10:50:28.417Z",
+      "deletedDate": null,
       "id": "80ee63cf-0982-4a4b-a765-7868e63f2ff6",
       "organizationId": null,
       "folderId": null,
@@ -2639,6 +3255,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-29T05:17:14.527Z",
+      "creationDate": "2022-09-29T05:17:14.526Z",
+      "deletedDate": null,
       "id": "811dd169-b374-45e7-a7bc-21983df48340",
       "organizationId": null,
       "folderId": null,
@@ -2659,6 +3279,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-12-28T15:25:27.137Z",
+      "creationDate": "2022-12-28T15:25:14.738Z",
+      "deletedDate": null,
       "id": "81399683-949d-4e16-ba76-903f4d7a96f3",
       "organizationId": null,
       "folderId": null,
@@ -2679,6 +3303,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-12-05T06:23:43.954Z",
+      "creationDate": "2022-12-05T06:23:43.953Z",
+      "deletedDate": null,
       "id": "8192e014-8cb9-49d7-8366-2151dc0d1d73",
       "organizationId": null,
       "folderId": null,
@@ -2699,6 +3327,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.403Z",
+      "creationDate": "2022-09-07T10:50:28.403Z",
+      "deletedDate": null,
       "id": "8250c679-f3a3-437f-9ec2-187425ac1e24",
       "organizationId": null,
       "folderId": null,
@@ -2719,6 +3351,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.431Z",
+      "creationDate": "2022-09-07T10:50:28.431Z",
+      "deletedDate": null,
       "id": "82c842cb-de40-429b-8920-05f9fe211c47",
       "organizationId": null,
       "folderId": null,
@@ -2739,6 +3375,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-12-12T10:38:00.094Z",
+      "creationDate": "2022-12-12T10:37:39.908Z",
+      "deletedDate": null,
       "id": "8425dfe0-0d33-4eab-a13b-e1c975eadbcd",
       "organizationId": null,
       "folderId": null,
@@ -2759,6 +3399,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-10-28T09:58:23.340Z",
+      "creationDate": "2022-10-28T09:57:57.213Z",
+      "deletedDate": null,
       "id": "849f124b-3ce8-4163-b876-bd377720be74",
       "organizationId": null,
       "folderId": null,
@@ -2779,6 +3423,15 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": [
+        {
+          "lastUsedDate": "2023-08-29T18:23:14.850Z",
+          "password": "2.j82d6dDgZY9foEeTWRgSfA==|FRMjNM7YlXmYxq1+Sk7Xww==|3oQ74iq8/K1XjXPKtsvGe1+igAWsP1QJF21WuBFnXCc="
+        }
+      ],
+      "revisionDate": "2023-08-29T18:23:15.088Z",
+      "creationDate": "2022-09-07T10:50:28.421Z",
+      "deletedDate": null,
       "id": "84bc5889-ae77-4d0b-8097-cb37cbc74d1f",
       "organizationId": null,
       "folderId": null,
@@ -2799,6 +3452,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-08-28T17:39:44.850Z",
+      "creationDate": "2023-08-28T17:39:44.842Z",
+      "deletedDate": null,
       "id": "85f480d3-76ab-495f-85cf-22657af69a47",
       "organizationId": null,
       "folderId": null,
@@ -2819,6 +3476,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.431Z",
+      "creationDate": "2022-09-07T10:50:28.431Z",
+      "deletedDate": null,
       "id": "890c1a6c-3415-47f3-9a0e-46cbc3801a46",
       "organizationId": null,
       "folderId": null,
@@ -2843,6 +3504,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-11-14T16:47:11.854Z",
+      "creationDate": "2022-09-07T10:50:28.439Z",
+      "deletedDate": null,
       "id": "89a1f7e4-29d9-4369-88cd-f04d1183f690",
       "organizationId": null,
       "folderId": null,
@@ -2863,6 +3528,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-04-30T06:35:27.867Z",
+      "creationDate": "2023-04-30T06:28:44.745Z",
+      "deletedDate": null,
       "id": "8c088a08-7943-41b7-9851-02efab7c3028",
       "organizationId": null,
       "folderId": null,
@@ -2883,6 +3552,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.443Z",
+      "creationDate": "2022-09-07T10:50:28.443Z",
+      "deletedDate": null,
       "id": "8cac1138-3b5d-4f55-babf-9fbb8f984a4b",
       "organizationId": null,
       "folderId": null,
@@ -2903,6 +3576,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-08-28T07:45:13.931Z",
+      "creationDate": "2023-08-28T07:45:00.117Z",
+      "deletedDate": null,
       "id": "8dc89b2d-02d8-4166-b454-cd625dec36d2",
       "organizationId": null,
       "folderId": null,
@@ -2923,6 +3600,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-02-06T18:15:20.831Z",
+      "creationDate": "2022-09-07T10:50:28.432Z",
+      "deletedDate": null,
       "id": "901dde9c-4d1c-48af-86f9-b47c00f9d5be",
       "organizationId": null,
       "folderId": null,
@@ -2943,6 +3624,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.439Z",
+      "creationDate": "2022-09-07T10:50:28.439Z",
+      "deletedDate": null,
       "id": "91eebad9-1267-4885-9887-3aa4f654cfb5",
       "organizationId": null,
       "folderId": null,
@@ -2963,6 +3648,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.444Z",
+      "creationDate": "2022-09-07T10:50:28.444Z",
+      "deletedDate": null,
       "id": "91f54a87-dad9-4a85-8128-89f5dfb410ad",
       "organizationId": null,
       "folderId": null,
@@ -2983,6 +3672,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.416Z",
+      "creationDate": "2022-09-07T10:50:28.416Z",
+      "deletedDate": null,
       "id": "92176a61-458a-46d9-8d67-9a2e367d5515",
       "organizationId": null,
       "folderId": null,
@@ -3003,6 +3696,15 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": [
+        {
+          "lastUsedDate": "2023-02-18T12:12:39.380Z",
+          "password": "2./yku+7jR48+duAC/hs0d3Q==|v4Rd+p5SGj9oCvYxFL3iFg==|q9uO/HnOGNjwobbRHUDgFfYNfbXzqeGpSD7T9qjtRhg="
+        }
+      ],
+      "revisionDate": "2023-02-18T12:13:05.572Z",
+      "creationDate": "2023-02-18T12:12:19.830Z",
+      "deletedDate": null,
       "id": "9291110b-51a2-422f-a7ec-dd6794918463",
       "organizationId": null,
       "folderId": null,
@@ -3023,6 +3725,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-03-23T11:41:32.360Z",
+      "creationDate": "2023-03-23T11:41:20.800Z",
+      "deletedDate": null,
       "id": "9296679b-9a7f-437e-a2c0-080a739fd765",
       "organizationId": null,
       "folderId": null,
@@ -3043,6 +3749,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-02-17T07:05:22.455Z",
+      "creationDate": "2022-09-07T10:50:28.406Z",
+      "deletedDate": null,
       "id": "934d4b60-1434-4627-ad45-3019db00efdb",
       "organizationId": null,
       "folderId": null,
@@ -3063,6 +3773,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-05-09T04:16:10.865Z",
+      "creationDate": "2023-05-09T04:16:10.853Z",
+      "deletedDate": null,
       "id": "9366e08d-5802-414e-9d22-1bd283e1357a",
       "organizationId": null,
       "folderId": null,
@@ -3083,6 +3797,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-07-18T13:51:46.298Z",
+      "creationDate": "2023-07-18T13:51:12.216Z",
+      "deletedDate": null,
       "id": "95563eaf-808b-4d83-9b77-7d6f475877d9",
       "organizationId": null,
       "folderId": null,
@@ -3103,6 +3821,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-10-07T00:11:09.964Z",
+      "creationDate": "2022-09-30T16:02:30.982Z",
+      "deletedDate": null,
       "id": "955c879a-6d4a-4607-a1a4-c8620cb1525c",
       "organizationId": null,
       "folderId": null,
@@ -3138,6 +3860,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-01-29T16:15:28.931Z",
+      "creationDate": "2023-01-21T14:17:33.680Z",
+      "deletedDate": null,
       "id": "973722a5-d131-4121-b3fa-867bfd6c272f",
       "organizationId": null,
       "folderId": null,
@@ -3167,6 +3893,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.434Z",
+      "creationDate": "2022-09-07T10:50:28.434Z",
+      "deletedDate": null,
       "id": "97fdf535-07de-467c-b424-3b5db644b4d3",
       "organizationId": null,
       "folderId": null,
@@ -3187,6 +3917,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-04-18T03:22:18.187Z",
+      "creationDate": "2023-04-18T03:22:17.991Z",
+      "deletedDate": null,
       "id": "983f6ee7-5877-4d51-9900-8ad33208bad8",
       "organizationId": null,
       "folderId": null,
@@ -3207,6 +3941,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-11-23T12:29:14.145Z",
+      "creationDate": "2022-09-07T10:50:28.423Z",
+      "deletedDate": null,
       "id": "984a9691-c45e-494f-9dcf-d9904fbd0e60",
       "organizationId": null,
       "folderId": null,
@@ -3227,6 +3965,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.418Z",
+      "creationDate": "2022-09-07T10:50:28.418Z",
+      "deletedDate": null,
       "id": "98c61c8b-0803-4cbf-8721-0ee6b3a7e81e",
       "organizationId": null,
       "folderId": null,
@@ -3255,6 +3997,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-10-19T08:33:02.562Z",
+      "creationDate": "2022-10-19T08:33:02.561Z",
+      "deletedDate": null,
       "id": "99c4235a-3053-48ef-aefc-c244f9d73d79",
       "organizationId": null,
       "folderId": null,
@@ -3275,6 +4021,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.412Z",
+      "creationDate": "2022-09-07T10:50:28.412Z",
+      "deletedDate": null,
       "id": "9a2eadef-4cb0-4f7f-8f5a-1b52fa342440",
       "organizationId": null,
       "folderId": null,
@@ -3295,6 +4045,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-10-28T10:34:24.544Z",
+      "creationDate": "2022-10-28T10:34:24.543Z",
+      "deletedDate": null,
       "id": "9a94607d-2038-400b-8503-3532e2d6e62d",
       "organizationId": null,
       "folderId": null,
@@ -3315,6 +4069,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-10-19T08:22:11.943Z",
+      "creationDate": "2022-09-07T10:50:28.420Z",
+      "deletedDate": null,
       "id": "9af2cc45-bb08-4e0b-95dc-df275f70f1cb",
       "organizationId": null,
       "folderId": null,
@@ -3336,6 +4094,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-09-03T14:31:43.477Z",
+      "creationDate": "2022-09-29T15:39:47.557Z",
+      "deletedDate": null,
       "id": "9bba60ee-6f8c-48d6-92a4-2284ac7df29a",
       "organizationId": null,
       "folderId": null,
@@ -3360,6 +4122,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-12-09T02:37:04.808Z",
+      "creationDate": "2022-12-09T02:36:49.719Z",
+      "deletedDate": null,
       "id": "9cc761a9-ba0b-4696-bb97-b8b9dc31782f",
       "organizationId": null,
       "folderId": null,
@@ -3380,6 +4146,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-06-28T18:03:08.543Z",
+      "creationDate": "2023-06-28T18:02:33.028Z",
+      "deletedDate": null,
       "id": "9d609a66-3485-4b21-9474-079b23f132af",
       "organizationId": null,
       "folderId": null,
@@ -3400,6 +4170,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.412Z",
+      "creationDate": "2022-09-07T10:50:28.412Z",
+      "deletedDate": null,
       "id": "9d99e3a3-7225-4274-afad-f67be9cbe54a",
       "organizationId": null,
       "folderId": null,
@@ -3420,6 +4194,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.440Z",
+      "creationDate": "2022-09-07T10:50:28.440Z",
+      "deletedDate": null,
       "id": "9fd3ed05-4187-498a-baf8-d8622c603621",
       "organizationId": null,
       "folderId": null,
@@ -3440,6 +4218,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.405Z",
+      "creationDate": "2022-09-07T10:50:28.405Z",
+      "deletedDate": null,
       "id": "a046af81-2c27-4c8f-b22a-0a0c4b97038e",
       "organizationId": null,
       "folderId": null,
@@ -3460,6 +4242,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.436Z",
+      "creationDate": "2022-09-07T10:50:28.436Z",
+      "deletedDate": null,
       "id": "a0c28e0d-12a5-4eb3-a3d3-eab96e901925",
       "organizationId": null,
       "folderId": null,
@@ -3480,6 +4266,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-06-29T13:15:09.613Z",
+      "creationDate": "2022-09-07T10:50:28.428Z",
+      "deletedDate": null,
       "id": "a10f98ae-f8de-47da-b2f3-b0bed0a79899",
       "organizationId": null,
       "folderId": null,
@@ -3507,6 +4297,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.415Z",
+      "creationDate": "2022-09-07T10:50:28.415Z",
+      "deletedDate": null,
       "id": "a18f3edc-a774-479b-8244-9c307b22ea71",
       "organizationId": null,
       "folderId": null,
@@ -3527,6 +4321,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.408Z",
+      "creationDate": "2022-09-07T10:50:28.408Z",
+      "deletedDate": null,
       "id": "a3429ba2-589d-4b6e-b52d-d1bc3baee2fc",
       "organizationId": null,
       "folderId": null,
@@ -3547,6 +4345,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-01-18T16:41:10.997Z",
+      "creationDate": "2022-09-07T10:50:28.424Z",
+      "deletedDate": null,
       "id": "a513748d-4555-48e7-a67c-ec3e5f429065",
       "organizationId": null,
       "folderId": null,
@@ -3571,6 +4373,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-11-14T16:46:43.297Z",
+      "creationDate": "2022-11-14T16:46:20.474Z",
+      "deletedDate": null,
       "id": "a5b1beae-72e9-43a5-bb5c-fe4778215ebf",
       "organizationId": null,
       "folderId": null,
@@ -3591,6 +4397,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.419Z",
+      "creationDate": "2022-09-07T10:50:28.419Z",
+      "deletedDate": null,
       "id": "a6502675-a0e8-4fe3-8f34-0473483945fc",
       "organizationId": null,
       "folderId": null,
@@ -3611,6 +4421,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-02-18T16:09:57.793Z",
+      "creationDate": "2022-09-07T10:50:28.431Z",
+      "deletedDate": null,
       "id": "a690d67a-99ea-4f30-93a6-572704f3c29d",
       "organizationId": null,
       "folderId": null,
@@ -3631,6 +4445,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.444Z",
+      "creationDate": "2022-09-07T10:50:28.444Z",
+      "deletedDate": null,
       "id": "a6a93034-2766-4d02-b7fc-ca80f958260c",
       "organizationId": null,
       "folderId": null,
@@ -3645,46 +4463,62 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-10-16T16:56:09.742Z",
+      "creationDate": "2023-08-25T17:20:02.625Z",
+      "deletedDate": null,
       "id": "a70d72e8-d08e-4931-bf24-d228997cdfe9",
       "organizationId": null,
       "folderId": null,
       "type": 1,
       "reprompt": 0,
-      "name": "2.cwp3ee7xKqMBQLTkewqkTA==|Zg++RtgdwGJYfRRX9IBGog==|DeKXYhnclD8qKgHlopG0L8Z9vFLVEPK+bkUyXTts0RI=",
+      "name": "2.bFOR5fYqH6doueOYPXbD6w==|Azkm2Dp4G++DSdYJUicZQg==|nxAwhdwybRbIkF41OoEJMvx8qkf5IyoFLf/eJW6R4pQ=",
       "favorite": false,
       "login": {
         "uris": [
           {
-            "match": 0,
-            "uri": "2.+bh+zwkGzwcUU+T+M19yzw==|Fqh0DYgQWPbigblC6qlVFTlxS0/v+Shilv2A+OQ9rKw=|4OTGKaRutCRrb7G28Iqcnr+Ge8c9czgCCcAEcddabS8="
+            "match": 1,
+            "uri": "2.1KB4XJgYgtEoCLB+1PduYQ==|fdp9t0n/JATmRPXMjgsmONuOcENFWuJSYjxrE4iJfsI=|fqRy4lht8QeRxrZ01KUZYolYCmKToJKkYunIxkB3Jk4="
           }
         ],
-        "username": "2.Wz8V49Gka5NCdhyywz2bdQ==|T+tSDkQZEcxiP/OOeHIPXq74tZO19VzKWtts//PHSPs=|R5HdLIhVY4aocXSUPx6wwJt0l9+9HD6Z55KSqYzLxVE=",
-        "password": "2.WBGzOmRLgjjmwAGeW+UyGQ==|B3gpFJsUKj0e+4dgWE+tfQ==|xvr5l8Q0oIyc6r1odCxsinBYwcknhEFtZxHsRt7lxgM="
+        "username": "2.vHfoJSG+q39SaUXuNZ9xoQ==|Mt6oZHFTZWX0Qm8wQyL1N0LB8cw0hkuh3pYqlWxeU+o=|9HdTttwuD34Lt2eiLperkzo8DceQrypbdh7sFJQgpvE=",
+        "password": "2.jTF2sPcoZShgqsj6VzJSeg==|0B5RVQT9cWelas7rW7gXMA==|J4MqZk221Z62BYjgqX0AFFfCCE7HYX5He0KfKdoZQcg="
       },
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-10-09T15:32:23.107Z",
+      "creationDate": "2022-09-07T10:50:28.430Z",
+      "deletedDate": null,
       "id": "a799e461-e1fc-44e9-8955-80734bf5f79e",
       "organizationId": null,
       "folderId": null,
       "type": 1,
       "reprompt": 0,
-      "name": "2.kMIChlZ9Gf20Nm/+1AAwOQ==|E4tF+Fw8gL5EPbXbDCbOJQ==|N79dFosC7U4j9r7UbAo31AMQymazrxt5ZHjIjjtUdY0=",
+      "name": "2.tjgTjFMgr1f16Tca0VwH+w==|CSX/mN+mYv2baYNBqBYp+w==|fnwij+hCwxjf5DJGGpLnrg0BXY7pIm/FhSD6JrBoBg4=",
       "favorite": false,
       "login": {
         "uris": [
           {
             "match": null,
-            "uri": "2.aAD/h/KJB489vwxxBkJtYg==|+lwDNKlAP4fXLbC9iBLtFu/2GIW1nEZ15UEmOL6nS6s=|xg5iv/69ZHgGLtk+P8FGkdOb5rgz0FAeLeX8RtdBEkQ="
+            "uri": "2.QsFIFy+DbYdytWg/BfFa0Q==|V/OMyEXM7BUUPeNkqz7Xrj4OtNBhogY33UBLax4vF/o=|QLCpKtR4ESNMKqMWOXPXmvX8HZ5dHyMcxHCMetJ99fk="
+          },
+          {
+            "match": null,
+            "uri": "2.K/ZV0R6gs17XmfKjYqBkBw==|ofkXGuglIqBr6bojabkcyDvbPDtWl25pPyiTw4OBe38=|OW/9tnZ02gDg3WnDN27PkO8aH8gletySOpfl9mya0Rc="
           }
         ],
-        "username": "2.a/m6lfUUK97WoemZa8LzxQ==|U8kW2rzQ3eVGBIGuE1TjnQ==|GZ5NG6aXVUVIh2PBa/etvVcvesElktfHhQlVn4mof2Y=",
-        "password": "2.tNvgmG9mCa1I+SdLtgO7Wg==|iP4Qd6522X8NLSIQhnz3Ug==|myaZHeCI/bT6YFD/TW7S76K7i6x4Z6WPR7aRg9J6lmE="
+        "username": "2.5U9u0JIDgcBgGl9TrW7rYQ==|FVQYehMKKG+TtkO+rmLB0g==|SXcP92rzzWRAB48JhelK60WLgBpb2tHpzHjIQSzOiLM=",
+        "password": "2.3k9OmixlaH8yTcoeuLG13Q==|6RFSeMx6sEtjCzFb8q5OGg==|oH8dOSv9/8RycMTa2rgV8Wni23+Tz2on/zvnQ8NEQNA="
       },
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.425Z",
+      "creationDate": "2022-09-07T10:50:28.425Z",
+      "deletedDate": null,
       "id": "a825becb-21cc-4daf-9936-1dbfe093318c",
       "organizationId": null,
       "folderId": null,
@@ -3705,6 +4539,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-07-03T15:02:50.021Z",
+      "creationDate": "2023-07-03T15:02:20.817Z",
+      "deletedDate": null,
       "id": "a8462de1-3c55-4856-b82c-3448b1484f42",
       "organizationId": null,
       "folderId": null,
@@ -3725,6 +4563,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-06-01T13:30:22.819Z",
+      "creationDate": "2022-09-07T10:50:28.422Z",
+      "deletedDate": null,
       "id": "a8e6a99f-ab42-4445-8a70-7c45290bf364",
       "organizationId": null,
       "folderId": null,
@@ -3749,6 +4591,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.416Z",
+      "creationDate": "2022-09-07T10:50:28.416Z",
+      "deletedDate": null,
       "id": "aa8ef4d3-884e-4505-a742-5f1fb00290f7",
       "organizationId": null,
       "folderId": null,
@@ -3778,6 +4624,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-01-06T07:44:23.165Z",
+      "creationDate": "2023-01-06T07:43:11.795Z",
+      "deletedDate": null,
       "id": "aaffd1d4-7cb6-4562-80be-ae6965459f76",
       "organizationId": null,
       "folderId": null,
@@ -3798,6 +4648,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-08-16T06:01:12.153Z",
+      "creationDate": "2022-09-07T10:50:28.442Z",
+      "deletedDate": null,
       "id": "ab005ea4-894a-47e5-a1f4-d591e21650d4",
       "organizationId": null,
       "folderId": null,
@@ -3846,6 +4700,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-04-08T09:26:54.345Z",
+      "creationDate": "2023-04-08T09:25:53.620Z",
+      "deletedDate": null,
       "id": "abae6003-1815-49e9-bae8-a10116b8d8d9",
       "organizationId": null,
       "folderId": null,
@@ -3870,6 +4728,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-03-23T08:42:25.879Z",
+      "creationDate": "2023-03-23T08:42:25.878Z",
+      "deletedDate": null,
       "id": "ac69b9a0-3bcc-4581-8904-e1db872c6fb6",
       "organizationId": null,
       "folderId": null,
@@ -3890,6 +4752,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-12-16T09:55:45.479Z",
+      "creationDate": "2022-12-16T09:55:45.404Z",
+      "deletedDate": null,
       "id": "aeb73374-815c-401b-9618-d6405f797ec8",
       "organizationId": null,
       "folderId": null,
@@ -3910,6 +4776,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.431Z",
+      "creationDate": "2022-09-07T10:50:28.430Z",
+      "deletedDate": null,
       "id": "aefb4de3-346c-43e2-8136-c89fc0ca603f",
       "organizationId": null,
       "folderId": null,
@@ -3930,6 +4800,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.430Z",
+      "creationDate": "2022-09-07T10:50:28.430Z",
+      "deletedDate": null,
       "id": "af2088e8-3efd-43ef-affe-89137659a573",
       "organizationId": null,
       "folderId": null,
@@ -3950,6 +4824,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.417Z",
+      "creationDate": "2022-09-07T10:50:28.417Z",
+      "deletedDate": null,
       "id": "af2fa4c3-83b5-49f8-94ee-740ae5970aa2",
       "organizationId": null,
       "folderId": null,
@@ -3970,6 +4848,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-10-02T08:24:32.306Z",
+      "creationDate": "2022-10-02T08:24:32.305Z",
+      "deletedDate": null,
       "id": "afeb1fb6-e006-4191-b447-257ca65978e6",
       "organizationId": null,
       "folderId": null,
@@ -3990,6 +4872,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.443Z",
+      "creationDate": "2022-09-07T10:50:28.443Z",
+      "deletedDate": null,
       "id": "b0cd02db-03f0-4c8d-b7c8-e2f27ceee746",
       "organizationId": null,
       "folderId": null,
@@ -4004,6 +4890,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.413Z",
+      "creationDate": "2022-09-07T10:50:28.413Z",
+      "deletedDate": null,
       "id": "b136dff9-45cb-47c9-ba5e-a55b98a3176b",
       "organizationId": null,
       "folderId": null,
@@ -4024,6 +4914,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-02-22T15:02:18.432Z",
+      "creationDate": "2023-02-22T15:02:04.412Z",
+      "deletedDate": null,
       "id": "b21272e0-562c-4d88-9569-035b766a9447",
       "organizationId": null,
       "folderId": null,
@@ -4044,6 +4938,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-10-09T07:31:44.427Z",
+      "creationDate": "2022-09-07T10:50:28.406Z",
+      "deletedDate": null,
       "id": "b307c387-30bd-491f-87f0-4032c2f0b108",
       "organizationId": null,
       "folderId": null,
@@ -4064,6 +4962,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-11-13T13:39:57.523Z",
+      "creationDate": "2022-09-07T10:50:28.448Z",
+      "deletedDate": null,
       "id": "b3b0fd9b-67ef-4ece-ad37-e6f3a396fb87",
       "organizationId": null,
       "folderId": null,
@@ -4084,6 +4986,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.406Z",
+      "creationDate": "2022-09-07T10:50:28.406Z",
+      "deletedDate": null,
       "id": "b4541982-b369-4504-8281-da1177552649",
       "organizationId": null,
       "folderId": null,
@@ -4104,6 +5010,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.441Z",
+      "creationDate": "2022-09-07T10:50:28.441Z",
+      "deletedDate": null,
       "id": "b54e7566-fc3c-4243-a298-622fd6ce7274",
       "organizationId": null,
       "folderId": null,
@@ -4125,6 +5035,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.411Z",
+      "creationDate": "2022-09-07T10:50:28.411Z",
+      "deletedDate": null,
       "id": "b5a6ba93-56f5-44aa-acc7-414b5abf92cb",
       "organizationId": null,
       "folderId": "604cf50e-adad-4f96-909a-3e02c699b0c3",
@@ -4145,6 +5059,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.426Z",
+      "creationDate": "2022-09-07T10:50:28.426Z",
+      "deletedDate": null,
       "id": "b7c30fbc-0902-49e1-a1c3-6a85506441d0",
       "organizationId": null,
       "folderId": null,
@@ -4165,6 +5083,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.424Z",
+      "creationDate": "2022-09-07T10:50:28.424Z",
+      "deletedDate": null,
       "id": "b8253fb3-c4a4-436f-8367-35242e73e928",
       "organizationId": null,
       "folderId": null,
@@ -4185,6 +5107,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-08-03T11:07:51.396Z",
+      "creationDate": "2023-08-03T11:07:51.395Z",
+      "deletedDate": null,
       "id": "b8d5690a-b590-458f-b0f9-842e78b96e1d",
       "organizationId": null,
       "folderId": null,
@@ -4205,6 +5131,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-02-18T16:46:03.220Z",
+      "creationDate": "2023-02-11T17:13:18.986Z",
+      "deletedDate": null,
       "id": "b92b0705-1106-4715-9cec-d0946d6ac453",
       "organizationId": null,
       "folderId": null,
@@ -4225,6 +5155,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-10-03T09:45:17.339Z",
+      "creationDate": "2022-09-07T10:50:28.404Z",
+      "deletedDate": null,
       "id": "b986a522-202c-400a-a670-d97c943b2b4e",
       "organizationId": null,
       "folderId": null,
@@ -4245,6 +5179,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-01-15T08:54:22.795Z",
+      "creationDate": "2022-09-07T10:50:28.427Z",
+      "deletedDate": null,
       "id": "baeddf69-8f54-4e52-a305-f2c0216c0aa0",
       "organizationId": null,
       "folderId": null,
@@ -4269,6 +5207,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-04-24T08:10:43.321Z",
+      "creationDate": "2023-04-24T08:10:18.485Z",
+      "deletedDate": null,
       "id": "bd04522e-ff4d-4cdb-8895-7ae96cf3ac30",
       "organizationId": null,
       "folderId": null,
@@ -4289,6 +5231,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.436Z",
+      "creationDate": "2022-09-07T10:50:28.436Z",
+      "deletedDate": null,
       "id": "bf0a00c9-f924-4ce3-b1d4-a6f17d7c0a4e",
       "organizationId": null,
       "folderId": null,
@@ -4309,6 +5255,34 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-10-12T15:58:04.031Z",
+      "creationDate": "2023-10-12T15:57:40.379Z",
+      "deletedDate": null,
+      "id": "bf245719-0828-4a37-80d9-c903b6452485",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "2.npA/QW7rVv4O9jug+OcfeA==|B1oWY9SznLyeH92yHJ4ldQ==|1elU8XqEQKohc7S/6PX3bxFfy7x+8UTjIY8Jv3Y5FGQ=",
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": 0,
+            "uri": "2.3q9mXxfgayDWniBM9l6Abw==|zU8W0vUi6R2BpPPbnPD9Zas5AppvUdIv2fJkS1Nyv4Y=|zbzlM59JvKiV/ULXtIqPaLhZVw4aGR/96DhvjV1ZYx4="
+          }
+        ],
+        "username": "2.X+Xo8wl9t2/fqhieKIqEXg==|o7Uz1WBRjOm2EmcJn+x9VRWots4hGNQno44eAJ9FvD0=|vHXjMquhkVh4dU5XuUhyom+XgDbGLjU9isjTDicHI0A=",
+        "password": "2.VoPhjw+rJYNcprO1Mx44zw==|S4wr1Vm6x9wvNSzz8F6eIA==|VDZzaUapjgA8NJKLn0oHyvGXS00SwoWAUZF2gs4mYJ0="
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.431Z",
+      "creationDate": "2022-09-07T10:50:28.431Z",
+      "deletedDate": null,
       "id": "bf34da4a-718c-4af6-b8bf-304fb7074f5d",
       "organizationId": null,
       "folderId": null,
@@ -4329,6 +5303,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-01-17T10:42:02.319Z",
+      "creationDate": "2023-01-17T10:42:02.318Z",
+      "deletedDate": null,
       "id": "bf5d4ac1-85fb-48a3-8dd0-d3c3289b489b",
       "organizationId": null,
       "folderId": null,
@@ -4357,6 +5335,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.438Z",
+      "creationDate": "2022-09-07T10:50:28.438Z",
+      "deletedDate": null,
       "id": "c0d7a4a8-2f36-4c23-87fa-8bc5ab0c4310",
       "organizationId": null,
       "folderId": null,
@@ -4377,6 +5359,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-10-18T03:50:30.620Z",
+      "creationDate": "2022-09-07T10:50:28.419Z",
+      "deletedDate": null,
       "id": "c2d5370b-7f52-4d70-9158-e7cded21917d",
       "organizationId": null,
       "folderId": null,
@@ -4397,6 +5383,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-03-08T13:52:03.115Z",
+      "creationDate": "2023-03-08T13:51:48.584Z",
+      "deletedDate": null,
       "id": "c46810c2-0133-4e84-869f-c07cde9ea7fa",
       "organizationId": null,
       "folderId": null,
@@ -4417,6 +5407,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-12-18T15:21:16.770Z",
+      "creationDate": "2022-12-18T15:21:03.662Z",
+      "deletedDate": null,
       "id": "c4d0b3eb-741c-4c4f-b8ea-0fd242ccf52e",
       "organizationId": null,
       "folderId": null,
@@ -4437,6 +5431,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.445Z",
+      "creationDate": "2022-09-07T10:50:28.445Z",
+      "deletedDate": null,
       "id": "c52d0e7d-9792-4cd7-bcc7-5dd74a90de81",
       "organizationId": null,
       "folderId": null,
@@ -4457,6 +5455,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.444Z",
+      "creationDate": "2022-09-07T10:50:28.444Z",
+      "deletedDate": null,
       "id": "c570164f-b32a-4966-89c4-bd757ed4345f",
       "organizationId": null,
       "folderId": null,
@@ -4477,6 +5479,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.446Z",
+      "creationDate": "2022-09-07T10:50:28.446Z",
+      "deletedDate": null,
       "id": "c6546b1e-27ad-4144-a338-9b569e4c9f1f",
       "organizationId": null,
       "folderId": null,
@@ -4497,6 +5503,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.407Z",
+      "creationDate": "2022-09-07T10:50:28.407Z",
+      "deletedDate": null,
       "id": "c65d0748-9b54-47ab-aec0-aad567c8735c",
       "organizationId": null,
       "folderId": null,
@@ -4517,6 +5527,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-10-09T12:19:35.540Z",
+      "creationDate": "2022-10-09T12:19:18.927Z",
+      "deletedDate": null,
       "id": "c66f268d-d36c-4759-b04f-043c9b1fc282",
       "organizationId": null,
       "folderId": null,
@@ -4537,6 +5551,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.405Z",
+      "creationDate": "2022-09-07T10:50:28.405Z",
+      "deletedDate": null,
       "id": "c6d4236f-0e1e-426b-984e-0285b4dde8e9",
       "organizationId": null,
       "folderId": null,
@@ -4557,6 +5575,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.405Z",
+      "creationDate": "2022-09-07T10:50:28.404Z",
+      "deletedDate": null,
       "id": "c73f42da-eb12-41b1-bbe3-5062487144af",
       "organizationId": null,
       "folderId": null,
@@ -4577,6 +5599,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.481Z",
+      "creationDate": "2022-09-07T10:50:28.481Z",
+      "deletedDate": null,
       "id": "c7a4a988-13d3-4fe8-98af-5ce79c766a96",
       "organizationId": null,
       "folderId": null,
@@ -4597,6 +5623,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.480Z",
+      "creationDate": "2022-09-07T10:50:28.480Z",
+      "deletedDate": null,
       "id": "c833427c-0d95-400b-8653-bdb774d3b335",
       "organizationId": null,
       "folderId": null,
@@ -4617,6 +5647,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.409Z",
+      "creationDate": "2022-09-07T10:50:28.409Z",
+      "deletedDate": null,
       "id": "c84bc19b-fafa-452f-9d9c-e3c7c3083da9",
       "organizationId": null,
       "folderId": null,
@@ -4637,6 +5671,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.439Z",
+      "creationDate": "2022-09-07T10:50:28.439Z",
+      "deletedDate": null,
       "id": "c971a1b0-29a0-49e8-87d5-582535f78b6b",
       "organizationId": null,
       "folderId": null,
@@ -4657,6 +5695,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.405Z",
+      "creationDate": "2022-09-07T10:50:28.405Z",
+      "deletedDate": null,
       "id": "c9c8f406-3fc4-461a-b1c7-96bdb960c4b7",
       "organizationId": null,
       "folderId": null,
@@ -4677,6 +5719,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-10-02T09:27:14.097Z",
+      "creationDate": "2022-09-07T10:50:28.420Z",
+      "deletedDate": null,
       "id": "cacf6a4f-2602-4bc4-a0ef-8a8c97363f4d",
       "organizationId": null,
       "folderId": null,
@@ -4706,30 +5752,34 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-09-27T03:09:05.983Z",
+      "creationDate": "2022-09-07T10:50:28.481Z",
+      "deletedDate": null,
       "id": "cbfbaba0-7838-4300-a59f-126440b55fb4",
       "organizationId": null,
       "folderId": null,
       "type": 1,
       "reprompt": 0,
-      "name": "2.e4TelTR/NisVdTJAhVLMFw==|1vCKFIX4zhlw9/cVV9M6oQ==|ullJzXJrj3fHYmS85pib8z40ub5rpt5W7YiSHkC8CiA=",
+      "name": "2.JiBa9hT7ZVwBsPnTzj5AoA==|Kz/NQJLVnMsOipZDS3EHWg==|zUCpuKibIhqwK/+DGU+hiBYI/o8FUlbohzcjpf5SSw8=",
       "favorite": false,
       "login": {
         "uris": [
           {
             "match": null,
-            "uri": "2.kHBSCgiKbyB95WOTor/Tdg==|RwpfynB+BiD3XPCLcqYIDrTDv6WFCx0/UI9Mc6gzSy4=|Ikv/m8auCFgE4uKG4oJOYalMVR3V8kytDSiQLy+Mggw="
-          },
-          {
-            "match": null,
-            "uri": "2.K5c2irkfcTlPqdeys7vg6Q==|f0T+uQ6465dOASHKzyxX3Oe32F+9ccUKa0/Eu1x2LTs=|DdhfIEvE+lXQ9Pw1pSvKLxIbeguAlr1DiNKng2N9kUg="
+            "uri": "2.dCMaqx+zOm/6EACW+uOUCA==|HVOkSphPbgHpoURYsoCDtMb0j76T2dXePxd4DQno1Bo=|p9BSESsi44+s6C98dOKYljGLo02yoPUZoKD/2BkDVtk="
           }
         ],
-        "username": "2.8Efen0RrFekqypfJZGPVfA==|WhJ7XIbbgYG40lGQgVsxzNVRP7SeFD5jjqSxKVokHds=|9A2BUNnvkzM1q3amtcY1LxVZdO48755AP2l636PuQA0=",
-        "password": "2.snGgPQKxTVA7pMykAm0h3Q==|cLwWALPv0esapvOyXipkRA==|is8T4VcwVIezXVhrk4GskO6PD4JHukKGNJu3WrAV/FY="
+        "username": "2.2OMrXI/o2PtGiYTms4/sJg==|W4urVbQDZF7MpjPHv1omWjbdENqJijR4ZEGqod6CHEk=|bZiK9xeIOHFwek0Epegx0CihTIPRLC1Sp3MVW3cvE78=",
+        "password": "2.lb6/skBVW6PuK8AkhGq0Vw==|vtFscFysudx774dIifB7fg==|tFGhtDgl5W8/C4zSkO25ZXox5dSHmWLvXCmWEZED/f8="
       },
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-20T10:06:47.941Z",
+      "creationDate": "2022-09-07T10:50:28.429Z",
+      "deletedDate": null,
       "id": "cc3b249f-8988-44d1-b6bd-15f139c60bbb",
       "organizationId": null,
       "folderId": null,
@@ -4750,6 +5800,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.481Z",
+      "creationDate": "2022-09-07T10:50:28.481Z",
+      "deletedDate": null,
       "id": "cc85a355-8b97-48da-9649-ce82c7268ca6",
       "organizationId": null,
       "folderId": null,
@@ -4770,6 +5824,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.447Z",
+      "creationDate": "2022-09-07T10:50:28.447Z",
+      "deletedDate": null,
       "id": "cce5240c-d9f8-494a-b000-dc45018b30dd",
       "organizationId": null,
       "folderId": null,
@@ -4790,6 +5848,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.408Z",
+      "creationDate": "2022-09-07T10:50:28.408Z",
+      "deletedDate": null,
       "id": "cd2ec3d2-f015-4d62-bd83-b8048df9d296",
       "organizationId": null,
       "folderId": null,
@@ -4810,6 +5872,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.421Z",
+      "creationDate": "2022-09-07T10:50:28.421Z",
+      "deletedDate": null,
       "id": "ce92aac0-fa62-4ec5-8139-35a2249d5e15",
       "organizationId": null,
       "folderId": null,
@@ -4830,6 +5896,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.442Z",
+      "creationDate": "2022-09-07T10:50:28.442Z",
+      "deletedDate": null,
       "id": "cec3985d-f7ed-47ee-9ef5-4182650f8dee",
       "organizationId": null,
       "folderId": null,
@@ -4850,6 +5920,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.435Z",
+      "creationDate": "2022-09-07T10:50:28.435Z",
+      "deletedDate": null,
       "id": "cee77bb9-e2fe-4357-a40e-63e9d1c2ccc8",
       "organizationId": null,
       "folderId": null,
@@ -4870,6 +5944,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.429Z",
+      "creationDate": "2022-09-07T10:50:28.429Z",
+      "deletedDate": null,
       "id": "cf59871c-84a5-4bf6-8f6a-d31ded5ce3b0",
       "organizationId": null,
       "folderId": null,
@@ -4890,6 +5968,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.443Z",
+      "creationDate": "2022-09-07T10:50:28.443Z",
+      "deletedDate": null,
       "id": "cf5b8580-1007-4db0-9254-f9c21a600131",
       "organizationId": null,
       "folderId": null,
@@ -4910,6 +5992,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-03-28T17:50:55.124Z",
+      "creationDate": "2023-03-28T17:50:55.018Z",
+      "deletedDate": null,
       "id": "d06be927-f10d-4ee7-aca2-0a6c61ed8eb1",
       "organizationId": null,
       "folderId": null,
@@ -4930,6 +6016,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-08-25T17:12:29.335Z",
+      "creationDate": "2022-10-12T05:32:52.248Z",
+      "deletedDate": null,
       "id": "d0cc513c-f80e-4161-a866-1c7870890ebc",
       "organizationId": null,
       "folderId": null,
@@ -4950,6 +6040,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-05-05T12:55:42.753Z",
+      "creationDate": "2023-05-05T12:55:24.551Z",
+      "deletedDate": null,
       "id": "d10a4aa6-ebd9-41ae-ba1b-944c47f0f16d",
       "organizationId": null,
       "folderId": null,
@@ -4970,6 +6064,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.480Z",
+      "creationDate": "2022-09-07T10:50:28.480Z",
+      "deletedDate": null,
       "id": "d1bc3d3e-b15f-4e8d-9187-af25aababa07",
       "organizationId": null,
       "folderId": null,
@@ -4990,6 +6088,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-08T09:02:50.828Z",
+      "creationDate": "2022-09-07T10:50:28.414Z",
+      "deletedDate": null,
       "id": "d2271781-c69c-4c25-8955-49bb2c81ce75",
       "organizationId": null,
       "folderId": null,
@@ -5019,6 +6121,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-10-12T05:33:01.541Z",
+      "creationDate": "2022-09-07T10:50:28.410Z",
+      "deletedDate": null,
       "id": "d251a982-1376-441b-8454-2486c753ef3c",
       "organizationId": null,
       "folderId": null,
@@ -5039,6 +6145,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.413Z",
+      "creationDate": "2022-09-07T10:50:28.413Z",
+      "deletedDate": null,
       "id": "d2a61816-e342-4116-921e-11701d8ca5fd",
       "organizationId": null,
       "folderId": null,
@@ -5059,6 +6169,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-10-13T03:59:21.038Z",
+      "creationDate": "2022-10-13T03:59:21.037Z",
+      "deletedDate": null,
       "id": "d4546b45-aedd-4cde-b262-fa04df541497",
       "organizationId": null,
       "folderId": null,
@@ -5079,6 +6193,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-24T00:59:09.067Z",
+      "creationDate": "2022-09-07T10:50:28.410Z",
+      "deletedDate": null,
       "id": "d59caa9d-e6a6-4fbc-9b7e-79326ba39ffe",
       "organizationId": null,
       "folderId": null,
@@ -5100,6 +6218,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.408Z",
+      "creationDate": "2022-09-07T10:50:28.408Z",
+      "deletedDate": null,
       "id": "d7414cad-5dd9-4220-935e-396386b9b5fb",
       "organizationId": null,
       "folderId": null,
@@ -5120,6 +6242,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.428Z",
+      "creationDate": "2022-09-07T10:50:28.428Z",
+      "deletedDate": null,
       "id": "d7a2e391-5d97-4cf5-a835-2d07ea243c54",
       "organizationId": null,
       "folderId": null,
@@ -5140,6 +6266,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.425Z",
+      "creationDate": "2022-09-07T10:50:28.425Z",
+      "deletedDate": null,
       "id": "d822fcff-1739-498e-838f-7d2e6c8fe3f9",
       "organizationId": null,
       "folderId": null,
@@ -5160,6 +6290,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-10-31T04:40:20.262Z",
+      "creationDate": "2022-09-07T10:50:28.448Z",
+      "deletedDate": null,
       "id": "d8d66e50-309d-44b7-a356-4f63946c809f",
       "organizationId": null,
       "folderId": null,
@@ -5181,6 +6315,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.414Z",
+      "creationDate": "2022-09-07T10:50:28.414Z",
+      "deletedDate": null,
       "id": "d941337a-2caa-4ab1-8769-737396b40260",
       "organizationId": null,
       "folderId": null,
@@ -5201,6 +6339,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.430Z",
+      "creationDate": "2022-09-07T10:50:28.430Z",
+      "deletedDate": null,
       "id": "da28651b-7d01-4f87-928d-6ab560b048f8",
       "organizationId": null,
       "folderId": null,
@@ -5221,6 +6363,19 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": [
+        {
+          "lastUsedDate": "2022-10-08T18:06:35.268Z",
+          "password": "2.NbrNJ6pgwRF3R/b0lNC7YA==|JNEzQ3e5evHC6+TAjJ1j8g==|KgcgtfeasJKKs+6jgBCubChokAJw1nEXhvOKBlrygn4="
+        },
+        {
+          "lastUsedDate": "2022-10-08T18:02:45.110Z",
+          "password": "2.RFe4BjQm+lwL6EeBwqEPtQ==|7LNEqw8Sy7SRjCUt2A8ocQ==|6XGUitbLIezjF9p+bvU+iA60HT6YqnEX+/K/Zr545pw="
+        }
+      ],
+      "revisionDate": "2022-10-08T18:06:35.452Z",
+      "creationDate": "2022-09-07T10:50:28.438Z",
+      "deletedDate": null,
       "id": "dadb5ba7-018b-4f17-9a39-f0dc33a79559",
       "organizationId": null,
       "folderId": null,
@@ -5241,6 +6396,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.441Z",
+      "creationDate": "2022-09-07T10:50:28.441Z",
+      "deletedDate": null,
       "id": "dc0e5a12-a22d-43b1-aa2a-c5a30ef2a0c3",
       "organizationId": null,
       "folderId": null,
@@ -5261,6 +6420,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.411Z",
+      "creationDate": "2022-09-07T10:50:28.411Z",
+      "deletedDate": null,
       "id": "dc5e98a5-9629-4715-8e9d-612d654eb3c0",
       "organizationId": null,
       "folderId": null,
@@ -5281,6 +6444,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.404Z",
+      "creationDate": "2022-09-07T10:50:28.404Z",
+      "deletedDate": null,
       "id": "dd005785-1846-4ec6-a43b-8b9c6a4c1151",
       "organizationId": null,
       "folderId": null,
@@ -5301,6 +6468,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-11-17T08:44:14.570Z",
+      "creationDate": "2022-09-07T10:50:28.430Z",
+      "deletedDate": null,
       "id": "ddc82156-3688-4870-87ca-e597b9bff0cc",
       "organizationId": null,
       "folderId": null,
@@ -5325,6 +6496,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-03-26T07:03:45.538Z",
+      "creationDate": "2023-03-26T07:03:19.343Z",
+      "deletedDate": null,
       "id": "df8e5655-34e5-48c2-8f36-882017f30535",
       "organizationId": null,
       "folderId": null,
@@ -5345,6 +6520,15 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": [
+        {
+          "lastUsedDate": "2022-10-26T10:56:37.425Z",
+          "password": "2.nMLK0I4Rr9ZYXLmVWz49NA==|aY5AOfJDS/oGzaD3pfyAZg==|sUZadqvU01URbvxG89ol9b0qWzj0arhrT+PuTA9mzgE="
+        }
+      ],
+      "revisionDate": "2023-03-20T12:18:55.386Z",
+      "creationDate": "2022-10-26T10:53:31.658Z",
+      "deletedDate": null,
       "id": "dfe8edf3-09e1-42bb-9b42-044d2edb425a",
       "organizationId": null,
       "folderId": null,
@@ -5365,6 +6549,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-11-09T11:58:46.649Z",
+      "creationDate": "2022-11-09T11:58:35.823Z",
+      "deletedDate": null,
       "id": "e0f3168c-a430-4049-8f1b-828b670f7b5e",
       "organizationId": null,
       "folderId": null,
@@ -5385,6 +6573,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-08-21T13:45:50.335Z",
+      "creationDate": "2022-09-07T10:50:28.407Z",
+      "deletedDate": null,
       "id": "e1f9588f-735b-404b-909f-194921e63983",
       "organizationId": null,
       "folderId": null,
@@ -5411,6 +6603,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-20T12:48:03.613Z",
+      "creationDate": "2022-09-20T12:47:21.411Z",
+      "deletedDate": null,
       "id": "e35c2f4c-31ad-4ecc-a09d-49f21eca6521",
       "organizationId": null,
       "folderId": null,
@@ -5435,6 +6631,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.403Z",
+      "creationDate": "2022-09-07T10:50:28.403Z",
+      "deletedDate": null,
       "id": "e3ccd1c0-5a02-4840-8445-442c6382bafc",
       "organizationId": null,
       "folderId": "258261ca-3754-486d-a202-404eac5e6272",
@@ -5455,6 +6655,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-10-25T07:58:08.412Z",
+      "creationDate": "2022-10-25T07:57:43.001Z",
+      "deletedDate": null,
       "id": "e46f5cd3-5ac8-42a4-9875-ec020a8ef94a",
       "organizationId": null,
       "folderId": null,
@@ -5475,6 +6679,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.443Z",
+      "creationDate": "2022-09-07T10:50:28.443Z",
+      "deletedDate": null,
       "id": "e48ef61c-f3a0-4b91-a7a9-dd10364bfd2a",
       "organizationId": null,
       "folderId": null,
@@ -5495,6 +6703,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.407Z",
+      "creationDate": "2022-09-07T10:50:28.407Z",
+      "deletedDate": null,
       "id": "e647e543-41df-455b-a20c-cc78e4f33644",
       "organizationId": null,
       "folderId": null,
@@ -5515,6 +6727,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-13T06:37:02.203Z",
+      "creationDate": "2022-09-13T06:37:02.202Z",
+      "deletedDate": null,
       "id": "e6930ef1-d291-45b7-abcc-2d4841a3675e",
       "organizationId": null,
       "folderId": null,
@@ -5535,42 +6751,54 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-10-17T17:01:43.454Z",
+      "creationDate": "2023-08-16T03:46:47.707Z",
+      "deletedDate": null,
       "id": "e7003eb9-1339-43bb-9120-0756d7d5ff38",
       "organizationId": null,
       "folderId": "258261ca-3754-486d-a202-404eac5e6272",
       "type": 1,
       "reprompt": 0,
-      "name": "2.DYvc+C96NQGXxrTZxsguNQ==|QiU5dOADZ9LAskTa2dPHlQ==|+iFxdhrzqWI7Yu4I1INgjOsLQFA9UvMR5Uet+nMpgjE=",
+      "name": "2.BQW8Y8FRAuyqBvxW/hFzEg==|V3GXfnblOGdZljbAeZWJ9w==|Fabhg6wtkwI8QoOjatDaI0WjIDJpSHr8lqHT8K1LawE=",
       "favorite": false,
       "login": {
         "uris": [
           {
-            "match": 3,
-            "uri": "2.lm4UVfGao14GPddJJtin4g==|HLQ0UC7b1u3cppn5rMtnqUd3vNsDSIBIUbPzsl99MqA=|UjK96Ts2kt7MYFN8TaeZ75wHUUNyVy40b6uCARDrPcg="
+            "match": 2,
+            "uri": "2.WdeQbcG6oasM+w9huBGMMg==|nZjLRBzqNbSSa+/StwVpi2jh/A0TR4lZlFm0szBpGQY=|2I2hAyfV4a856/dX++2c2n8rfspDs5lc4wX40ZHu6T0="
           },
           {
             "match": 2,
-            "uri": "2.TUCvSsHE4OEZ710miPNK+A==|/U6lo5laAfwink/Q1eJ3b/y7a/C2/vEDbMd/D5vnRDc=|Cd+h0sTWfWGzATU0y3Y2fOkOpxvoN5znYA/M5yQfyZw="
+            "uri": "2.+ceWmk6/LJ4vzDJTtnixkg==|1FW75Vz9siyAZx5O8VH/7AHe4dm6gAJvkRreX6uLyK4=|Zdij3k8olZUFF8eiDZ7WrXLiBGdcNOv01DRYYTQKZyg="
           },
           {
             "match": 2,
-            "uri": "2.WLtU3WYQGfhY+c4E1GTyIQ==|hgl8IHaGymXtW4Ujl+kLyA4NaTUjP1ytkxWiHyLBR+w=|aTUAwMFNlWHUkblzqw0ylmPxl/XXrsRrMkfBFdhOJOk="
+            "uri": "2.ugLQxIkvSB1OjrksCDg2Fw==|MQfo39TIQ0fv/GJwXZgF7u1Zj5aRyj1qBLymtLfWZnQ=|7nIpKthjnjijItZ/Xv6xFjezHmExx59x9iKi6w25uwI="
           },
           {
             "match": 2,
-            "uri": "2.d1y3BTR/5Fu8P+TdZUWUFg==|DX3JVdioNTXQ0JAzwo0KvzXhYrX/w9oAgn3OLUC65x4=|K4Ugb7mNygfXZ4MQ1yx1EBrKaio0NpQWhN7B3Dp3JQM="
+            "uri": "2.YZ3kPZvLDg9KwpjiKOM1AA==|QkJArOaQE1q/t/T8csPnuPyPpA5vfNZZSeoIKVWjeH4=|L7NFtf2HggcfQ8jfd6Z3vnEFQVJcvneERUXO44NxHfI="
           },
           {
             "match": 2,
-            "uri": "2.6hb9MgBqp1nIS4PybdvrKw==|uoGjXuBM2+M/K65U2mK2zx3HVFx8PMLyl867AfcrifU=|gXBgo0p2ddksdB65PPtPfB3Hxpo1i+x3LzBMkcGgEOQ="
+            "uri": "2.upOtFUvrZyO5p4weS4chrw==|Ox457XRzStXbuU117jDptUr8/NL9uF9/a2DmMt2r540=|PRVl/FFj/PlUVu7rQbZ/44F5mdmloRsib+lWTm/Lpo4="
+          },
+          {
+            "match": 2,
+            "uri": "2.2kU/diRhjjtx/XDB3qmOiA==|E2bgH2Ios0r++1jBWCDLHh8Qj+fkGlIghCnx7GMkmuw=|1ZFzTO5bs6bCD1RQitvTFuDjsp7DnfSyFebGmbC5Zis="
           }
         ],
-        "username": "2.EoPRLize2FlhqIIeGdXVdQ==|s1E9WhIECAkqPSNE8x4EgA==|wkrte2uhEpRtpsLq41F9WxUew8p85MzXkkjFrokRjg8=",
-        "password": "2.U8/XIB3jZtuhkdZvNqHkiQ==|g2Fv3eD9ssakQKQJGScGag==|0ZKCwCbLU1H3/mqcMoGQ8T+Vw8NL1lyQfQuWrB85Lso="
+        "username": "2.f7i5El7II3k42orlermhfA==|jN/b5oN1L0J+7WGSLvTaLA==|wNjP4iCwoos33DABf1Uep3Gzs8X+ktpeaCo8VMnlZAs=",
+        "password": "2.pjqJ5ZbLtTUTshO+jhOrWw==|5eH9jkK/45E+4gMEa9NNZQ==|umxIozRqEKF6E65xNYPAUOm7qTizNJh2DezF4qmcwb0="
       },
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.408Z",
+      "creationDate": "2022-09-07T10:50:28.408Z",
+      "deletedDate": null,
       "id": "e8507704-d862-424d-a6c8-350ba30984be",
       "organizationId": null,
       "folderId": null,
@@ -5591,6 +6819,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.403Z",
+      "creationDate": "2022-09-07T10:50:28.403Z",
+      "deletedDate": null,
       "id": "e937bf08-178c-45d7-b4d9-1b6ad48c8af0",
       "organizationId": null,
       "folderId": null,
@@ -5611,6 +6843,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-11-01T01:11:36.736Z",
+      "creationDate": "2022-11-01T01:11:15.945Z",
+      "deletedDate": null,
       "id": "e9c07159-1797-4b12-a7fb-f086e403d4d0",
       "organizationId": null,
       "folderId": null,
@@ -5631,6 +6867,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.418Z",
+      "creationDate": "2022-09-07T10:50:28.418Z",
+      "deletedDate": null,
       "id": "ea8225cd-d487-4c3d-9815-e8a18be02a16",
       "organizationId": null,
       "folderId": null,
@@ -5651,6 +6891,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.413Z",
+      "creationDate": "2022-09-07T10:50:28.413Z",
+      "deletedDate": null,
       "id": "eb11a138-179c-4594-8d70-44092a6069b6",
       "organizationId": null,
       "folderId": null,
@@ -5671,6 +6915,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.446Z",
+      "creationDate": "2022-09-07T10:50:28.446Z",
+      "deletedDate": null,
       "id": "eb870694-085a-418a-b215-6d563aa0839e",
       "organizationId": null,
       "folderId": null,
@@ -5692,6 +6940,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.480Z",
+      "creationDate": "2022-09-07T10:50:28.480Z",
+      "deletedDate": null,
       "id": "ebb7818f-0caa-4941-b072-698e3721a180",
       "organizationId": null,
       "folderId": null,
@@ -5712,6 +6964,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.447Z",
+      "creationDate": "2022-09-07T10:50:28.446Z",
+      "deletedDate": null,
       "id": "ec4f3116-07db-4137-9a6b-f53d2d2e0496",
       "organizationId": null,
       "folderId": null,
@@ -5732,6 +6988,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.421Z",
+      "creationDate": "2022-09-07T10:50:28.421Z",
+      "deletedDate": null,
       "id": "ecebe163-47dc-487d-b27e-0365c7154122",
       "organizationId": null,
       "folderId": null,
@@ -5752,6 +7012,15 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": [
+        {
+          "lastUsedDate": "2022-10-04T04:34:57.275Z",
+          "password": "2.VTE2WTfWEo7wZa2NW9kIYw==|oE33nRA6BMN52DLQ0CRZGQ==|CoDnka5zH5MCEqGMLtwVpmufg4Cse8uTGN/31xePsOc="
+        }
+      ],
+      "revisionDate": "2023-07-21T11:06:31.771Z",
+      "creationDate": "2022-09-07T11:45:17.967Z",
+      "deletedDate": null,
       "id": "ed284ec7-d9bc-410a-98ff-ecfa48d28139",
       "organizationId": null,
       "folderId": null,
@@ -5776,6 +7045,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.428Z",
+      "creationDate": "2022-09-07T10:50:28.428Z",
+      "deletedDate": null,
       "id": "ed9c323b-e455-4d90-acb0-b806cdbe92cb",
       "organizationId": null,
       "folderId": null,
@@ -5796,6 +7069,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.437Z",
+      "creationDate": "2022-09-07T10:50:28.437Z",
+      "deletedDate": null,
       "id": "edf57d7b-dffc-4bbc-b5da-e87c6b42ce96",
       "organizationId": null,
       "folderId": null,
@@ -5816,6 +7093,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.435Z",
+      "creationDate": "2022-09-07T10:50:28.435Z",
+      "deletedDate": null,
       "id": "ee7821aa-fa26-47bb-b229-d9a1c0b540e3",
       "organizationId": null,
       "folderId": null,
@@ -5836,6 +7117,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-03-18T13:20:11.334Z",
+      "creationDate": "2023-03-18T13:19:13.014Z",
+      "deletedDate": null,
       "id": "ee799333-9d05-42ca-9a13-71e3cdf672a9",
       "organizationId": null,
       "folderId": null,
@@ -5856,6 +7141,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.417Z",
+      "creationDate": "2022-09-07T10:50:28.417Z",
+      "deletedDate": null,
       "id": "efb88b69-7501-4465-923c-33a3b0166761",
       "organizationId": null,
       "folderId": null,
@@ -5876,6 +7165,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.440Z",
+      "creationDate": "2022-09-07T10:50:28.440Z",
+      "deletedDate": null,
       "id": "f0054fdd-3980-48b4-a06f-46b716bbe271",
       "organizationId": null,
       "folderId": null,
@@ -5896,6 +7189,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-08-16T07:39:47.603Z",
+      "creationDate": "2022-09-07T10:50:28.409Z",
+      "deletedDate": null,
       "id": "f00bc7ad-4567-4eeb-b19b-245e26e370c7",
       "organizationId": null,
       "folderId": null,
@@ -5920,6 +7217,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-02-06T18:15:41.810Z",
+      "creationDate": "2022-09-07T10:50:28.411Z",
+      "deletedDate": null,
       "id": "f16e696d-aa5c-4438-a650-8128dae93e1b",
       "organizationId": null,
       "folderId": null,
@@ -5940,6 +7241,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-04-23T16:40:18.394Z",
+      "creationDate": "2023-04-23T16:40:18.394Z",
+      "deletedDate": null,
       "id": "f40f9762-c872-48b3-b048-1974de1d7e25",
       "organizationId": null,
       "folderId": null,
@@ -5960,6 +7265,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.402Z",
+      "creationDate": "2022-09-07T10:50:28.401Z",
+      "deletedDate": null,
       "id": "f50fa310-03d1-4dfe-a0c2-385617c57eb9",
       "organizationId": null,
       "folderId": "258261ca-3754-486d-a202-404eac5e6272",
@@ -5980,6 +7289,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-12-09T12:46:19.645Z",
+      "creationDate": "2022-12-04T09:51:56.089Z",
+      "deletedDate": null,
       "id": "f619dd53-0ff9-4417-a777-6fdf929e5ecb",
       "organizationId": null,
       "folderId": null,
@@ -6000,6 +7313,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.412Z",
+      "creationDate": "2022-09-07T10:50:28.412Z",
+      "deletedDate": null,
       "id": "f62c491f-c770-4bd3-94a1-5b740d737f9c",
       "organizationId": null,
       "folderId": "604cf50e-adad-4f96-909a-3e02c699b0c3",
@@ -6020,6 +7337,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.432Z",
+      "creationDate": "2022-09-07T10:50:28.432Z",
+      "deletedDate": null,
       "id": "f6891841-5230-4328-8d88-603a2d2a4f67",
       "organizationId": null,
       "folderId": null,
@@ -6040,6 +7361,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.412Z",
+      "creationDate": "2022-09-07T10:50:28.412Z",
+      "deletedDate": null,
       "id": "f69e609b-39bc-44d5-a149-07e289797b81",
       "organizationId": null,
       "folderId": null,
@@ -6060,6 +7385,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.410Z",
+      "creationDate": "2022-09-07T10:50:28.410Z",
+      "deletedDate": null,
       "id": "f71b822f-2333-4cd8-adb5-4a245f30eb2e",
       "organizationId": null,
       "folderId": null,
@@ -6080,6 +7409,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-12-14T05:11:48.234Z",
+      "creationDate": "2022-09-07T10:50:28.407Z",
+      "deletedDate": null,
       "id": "f72ad246-a6ce-42ba-bad1-055cd7a200c6",
       "organizationId": null,
       "folderId": null,
@@ -6108,6 +7441,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-12-14T05:14:32.747Z",
+      "creationDate": "2022-09-07T10:50:28.447Z",
+      "deletedDate": null,
       "id": "f7f30b0f-78f0-4da6-83d0-22bf4d45bed4",
       "organizationId": null,
       "folderId": null,
@@ -6128,6 +7465,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.445Z",
+      "creationDate": "2022-09-07T10:50:28.445Z",
+      "deletedDate": null,
       "id": "f8a81b32-64ba-4597-820f-00ec413b484a",
       "organizationId": null,
       "folderId": null,
@@ -6148,6 +7489,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.448Z",
+      "creationDate": "2022-09-07T10:50:28.448Z",
+      "deletedDate": null,
       "id": "f91a55d4-ea17-4acb-961e-6f4148598db7",
       "organizationId": null,
       "folderId": null,
@@ -6168,6 +7513,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-10-21T07:50:30.648Z",
+      "creationDate": "2022-10-21T07:50:08.611Z",
+      "deletedDate": null,
       "id": "fa613d45-d7aa-4f72-b0ed-fdee40a9b3d3",
       "organizationId": null,
       "folderId": null,
@@ -6188,6 +7537,54 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-10-11T17:13:55.652Z",
+      "creationDate": "2023-10-11T17:10:59.452Z",
+      "deletedDate": null,
+      "id": "fb2f33a3-6b69-46ba-afe6-a96275eb3c7e",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "2.YLnmIavXoSiD5ofcoRXbrg==|968RGhyt77gt09tr7ELnKg==|mzwHSvWs/5v3CNh/ZajdinqvNbtidPl9GhTmuNPVwwY=",
+      "favorite": false,
+      "fields": [
+        {
+          "name": "2.yjZSkZS62DVsRslsKLLjsw==|0zJmn+iXbyqW+EwaIDEQgQ==|qls8qmqoOnVgcznaO7yla/RVJwkajGhBxJIgl4IW/1Y=",
+          "value": "2.2imYfddynM4eLWb8SlzKOA==|Ydh9womKf8/mbOiayITYUw==|uikuCPv6gb1umu4Cbmpy7flTTDeWb0ukkw72wp1rAYg=",
+          "type": 0,
+          "linkedId": null
+        },
+        {
+          "name": "2.dyZh9AEqANfVwKdOevB/uw==|ZOgpzZbMD3gJGjsxnh5pVQ==|LVzPT3F0+qauZxEBW4N1uqYFoFgCsnMf6q4BgpaLR4I=",
+          "value": "2.qq27Pv6SDzq/ObGUGByMkA==|DeVFU6+snq/enQ9b3j+6rg==|/h3SaCMy99gH/bLUrXE2/CkJoQf6r6nJRW5eCAvDF8E=",
+          "type": 0,
+          "linkedId": null
+        },
+        {
+          "name": "2.PFuR9s88bktRVCXIJaMOSg==|FnlZtyLUdh0qGwLMODTE4w==|eSRAI3+Auta5I3mKbgqO0qZG6Q6osAYFsOe7bmtJC74=",
+          "value": "2.6Hn7skMWpRj/pPtLvG2EOw==|kmZYRP3zqUloZxbPsdrMiw==|LtjI3VfA8RSBcueAs5fxcVMaznA5MFJ4iXWxVVo3OlA=",
+          "type": 0,
+          "linkedId": null
+        }
+      ],
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "2.BSMtNR+1fRWOa2VlXuz3MQ==|F8qGFVevhkBjE/7rngbbm45NvSt9itrEw7BGgcNYXTs=|zbp039i/gEq+qS+TZOb9DXwQkdKb7LydtaMqKAnska4="
+          }
+        ],
+        "username": "2.6nLxFaJjJ7xiuhEKAKSaEg==|+vgVJkybHBGnbUyrAQCEvg==|QgbvfG2SALm8tFN3Z134XFYPXP8LRvTENMCjuNCr5WM=",
+        "password": "2.NTdEv0c8N5iicjde6Qor3g==|ty7pzYca7/HfLONfSDKn4A==|10WyL9qGXTaQWrrprm5BeRRk9NNerIyPvDcvxk/pWnY="
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.421Z",
+      "creationDate": "2022-09-07T10:50:28.421Z",
+      "deletedDate": null,
       "id": "fc02890e-87da-4e52-b28d-0746b6cb6b59",
       "organizationId": null,
       "folderId": null,
@@ -6208,6 +7605,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-10-30T17:46:19.719Z",
+      "creationDate": "2022-10-30T17:45:40.582Z",
+      "deletedDate": null,
       "id": "fc8d3764-0131-498a-bdb9-3f4f699e11b2",
       "organizationId": null,
       "folderId": null,
@@ -6228,6 +7629,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-07-02T18:02:26.363Z",
+      "creationDate": "2023-01-03T10:18:44.558Z",
+      "deletedDate": null,
       "id": "fd28db23-09ec-4aab-8cc2-323734c92094",
       "organizationId": null,
       "folderId": null,
@@ -6256,6 +7661,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2023-08-16T06:01:03.788Z",
+      "creationDate": "2023-08-16T06:01:03.601Z",
+      "deletedDate": null,
       "id": "fea55ba2-a2d9-4a09-bd86-47f774a88dd8",
       "organizationId": null,
       "folderId": null,
@@ -6276,6 +7685,10 @@
       "collectionIds": null
     },
     {
+      "passwordHistory": null,
+      "revisionDate": "2022-09-07T10:50:28.479Z",
+      "creationDate": "2022-09-07T10:50:28.476Z",
+      "deletedDate": null,
       "id": "fec437b2-f9f4-41e3-a5bc-aa2e77219b2f",
       "organizationId": null,
       "folderId": null,
