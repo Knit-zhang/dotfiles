@@ -34,6 +34,7 @@
 |ffmpeg|main|视频编码|
 |losslesscut|extras|无损剪辑|
 |dbeaver|extras|数据库管理|
+|pandoc|main|标记语言转换器|
 
 ## 快速恢复
 
