@@ -1,6 +1,6 @@
 {
   "encrypted": true,
-  "encKeyValidation_DO_NOT_EDIT": "2.eXTbf3EkENmVv99+V9IgiQ==|+wzqGSYA6MKyRUg/y1jFyFL40MkJoaCPUVcuIdiW4DgnPZbw4XNJ8LqM8AV4ZNCa|dJIRN7nI6AR+DTUI/biMuLtC5XU2IJRIVul0OG7sriM=",
+  "encKeyValidation_DO_NOT_EDIT": "2.p14Ca+myPsDntRASsr2ykw==|QYqMJ3mgQ7J2AjY5rFQlYexIB+VhKIAzzYtXnl3dsApfzsgbITl+Z0oRtb783UTz|KseRKkMFhcvViyNMON6h3yg9BIMUsNoOgsvm1bbvOjU=",
   "folders": [
     {
       "id": "258261ca-3754-486d-a202-404eac5e6272",
@@ -14,7 +14,7 @@
   "items": [
     {
       "passwordHistory": null,
-      "revisionDate": "2022-09-07T10:50:28.427Z",
+      "revisionDate": "2023-11-05T15:32:50.898Z",
       "creationDate": "2022-09-07T10:50:28.427Z",
       "deletedDate": null,
       "id": "0036497f-952d-42ea-9f04-b7ccdb014064",
@@ -22,17 +22,18 @@
       "folderId": null,
       "type": 1,
       "reprompt": 0,
-      "name": "2.b0t4C7yrfaPjjZYDsmwEOA==|vsDrXfAK6KYvJoRG+zOIbaxzD+v6vl0Vq8p3GYaN1LM=|kHg4ERzhwR5A90keGh9K29xijeANNjNPvYxMX443S7E=",
+      "name": "2.tjEscoZCZCaB+VBd5Iiexg==|wKWsxVfImy7UoZOdZmHXoA==|+I3Cars5CR8p6a9YgnDInPrHcbuPUdj/bjQHoExMMyU=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
-            "match": null,
-            "uri": "2.VTiGJP4rXYFyTnyJRGPpjA==|ZmZJSzOmaPhG+u+8UrP/3vbBxVPWsAShOytsAg+tv+4obKcgJLn+97ADUNDrbRPl|LDCbrvRowqjw2T1TYMYVy07yuRawLc3MTmdPPxjUX8I="
+            "match": 0,
+            "uri": "2.C7M8qJL5l9jzBhj58qaG7w==|yVT7j4pNoAn96Cs7F8JDIWFX9HnMTM5g4sI68u14uCk=|AwGp2dJ44ZNGfxN+eA/0Vj/WmtEbN5mMRwZgJIyQXDc="
           }
         ],
-        "username": "2.a1ewonpHbcn5XfEPNnI6yQ==|YgBBIZlvhJ0/sw33Yw9n94OfP2CLwJxaoLBoWg5pITY=|lMYjAX6lVsuWGepWHZ0Q0HURrBDCvAqj5NRD5c11rbo=",
-        "password": "2.R2Ht5AzmUvYra6zyvENq2w==|4wWWxnDNRLxQ55rxfs95GA==|rX29JxhOkhRmKv57C0TRkDsI0yi90iuO/fMES76gcds="
+        "username": "2.PHqqPkSsgnBJSD+wyyJHBA==|P9Nym4hSe/G1ycU7ipqVuhf2pIsub+/C5/w2/42dx7c=|/no+zANeD/24tXFpHT4XQvlw9SJ59JaR7ecI9GwOAw4=",
+        "password": "2.mADwEQKNPy9QZGyzUuEaVg==|3Ipfznmawgk0LwF9IlnsEg==|EHCkrpln39+SjqxPKdds5d7T42lYD/t5OEFhzhKWitg="
       },
       "collectionIds": null
     },
@@ -49,6 +50,7 @@
       "name": "2.k5gDsARK8MlI++pN2+aPEA==|bYKzHTLkV/TNozh9d69Vbw==|5SXoDM+bCj1Fea29744qaZs9mmALpij0aIriIJ/w9aY=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -73,6 +75,7 @@
       "name": "2.54cTxtHhs+qSLYT6GzmJvw==|USChqa+xvaUNk9gak6Ghgg==|WCbkj6a76BJSNBdPR1APx2PuAmW/QkckvUQbE2DxFtA=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -102,6 +105,7 @@
       "notes": "2.Aqzc8kHwblUDXFS+a1TQDw==|uY/R2wcYZlvkQaYrims9SiMHcalCudTUBcGIHxfuJbs=|aWGsD5u6z1U6lNOJeymc4VEgfyUHdfs55FX1uMySRt8=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -126,6 +130,7 @@
       "name": "2.Cw8qRcg2vv+rx5H1qnWXYg==|C7CjjUnXFk/a9wfYZSo4q2dTpALZEe8APAPeUQFILz8=|+AZud4qxtnTz40ILS8bxVYUVsWIshs7+kT3Y+v3MwGk=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 2,
@@ -150,6 +155,7 @@
       "name": "2.NVPGbkMDChPKj0u7jzJctQ==|Q1YK0kuQ3hLOstzTZNCQ2w==|fK8rx169SgKR5LCPG+nbccK+hAQDXnhCB33gdTISon4=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -158,6 +164,31 @@
         ],
         "username": "2.RiuCwztkH8+qKtP6y0TSdg==|jEI8qgwTZ7/E4uSKTFuqeQ==|D7XiomGihgCjOGknOmoGDoqOIFgJxQgvj6q4NijDG/c=",
         "password": "2.j1pfVm2aBbLICpQZc/3pFw==|/BIMRcjX4iM3lzs/QRdW5w==|ZNnEKsvZx89EozZX3RS8SC+90CGwobXJJn1APmpdpME="
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": null,
+      "revisionDate": "2023-11-09T06:20:14.845Z",
+      "creationDate": "2023-11-09T06:20:05.425Z",
+      "deletedDate": null,
+      "id": "0a1f34fc-3a47-4610-bb4a-b8788f247ecb",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "2.enSwM6rGjqJuYJwB2unj3w==|BYMklf9wqiowy6g4/k5dsw==|BHP3hfBYR1cxKMy+hiZAJPsgzG28hjtHZz5Ky83oiaE=",
+      "favorite": false,
+      "login": {
+        "fido2Credentials": [],
+        "uris": [
+          {
+            "match": null,
+            "uri": "2.k2NHgyTcgyNP9WWGZ27BhQ==|K54Ijn0D1qSQFrXx7oMXgiegm3iIN54i8Kz+bMr5zvM=|RC6E56JdoBejmStBoUP33qbhfC/0n4kluLgtnnskADU="
+          }
+        ],
+        "username": "2.Q+qgz3yeoxISMr5/LrNU7g==|huT+g0HeJVTIBpzt50z47g==|9yg+oA9gt0olx5X1haJeJo0S4nyusJgr8ppNkzjkPwM=",
+        "password": "2.YS1bgmROME07DeWUnLpK2Q==|K1QXQV1xf4T6hs65edmP/w==|GefLG79fL3p24Ba+48hYSqKGFfOfRIjnEtew6TGbTN8="
       },
       "collectionIds": null
     },
@@ -174,6 +205,7 @@
       "name": "2.c/W6+k3eTEFrogozRmoZYw==|+Knuma7bxcZppMEYnqCqPg==|n7hkayMEWzGeFl7YnKxNRnPK1phnWGTypqpmzFXhZ78=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -198,6 +230,7 @@
       "name": "2.5yjnx8vPWBtq3I8PilmlFA==|uf2SRUlBWfe1TB7U+w3hRQ==|4lXGhubxZk9iT+eStUvcc43LTiC6Ui9jAw9BZSR5ajI=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -222,6 +255,7 @@
       "name": "2.Xqb5jrz8jh0HCc7XTwezOQ==|j5BE22FCF+qVjvIoixCr5w==|Ko4rIlqGPli2aoszEKN+BKLqF2QPbhSsxuLF64qiVmQ=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -246,6 +280,7 @@
       "name": "2.IrSTi6v30oh8c0q+52RvuA==|LROJqCE0NI5xDnvrUgmEEw==|Ayc6u3XP64xG4p9qXDf1zl8H08orKGkcW7EonUXPei0=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -278,6 +313,7 @@
         }
       ],
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 2,
@@ -303,6 +339,7 @@
       "name": "2.w8rqMk9xoqkkugcrKhfkng==|v5V1Q5G3Pe3gkDyhRYFLvw==|+hCIbEerpNc9J4Kf7WRVYRjg+l92mCgsOkBEUWG1uSw=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 0,
@@ -327,6 +364,7 @@
       "name": "2.qOF8W4HcVLO3QAF8hc57sg==|/5uQSv8jNI+ldku00FimZw==|dpGruXtpCv4ehi2EShhbtL0TfpUmhbDLLD8cxZ6uX44=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 2,
@@ -351,6 +389,7 @@
       "name": "2.Rr0RR2kIMIFtX9oxjNRUEw==|8a8VRhXknai293U7fDHqUg==|1KIbp+1XnzBrfogjspo4fxBR93vIBgcq5KNLcVV+tvI=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -383,6 +422,7 @@
         }
       ],
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 2,
@@ -407,6 +447,7 @@
       "name": "2.6UHwq6jETDlQKKOBGfEN2A==|o7R7gmKF9oUeAkMjUMwqIQ==|zmj97jJfUhxzlyYJiUBDTYhG+y56K728YraV2QrZtis=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 0,
@@ -431,6 +472,7 @@
       "name": "2.SR8BjFDC6ELTP4kaC4MLXA==|uyct0Nhvk6U+t5EyyHSW4A==|6qE5uYDz+EOWQSjqTve8DokgS1Yae3xsyyEQ+SgTjSQ=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -455,6 +497,7 @@
       "name": "2.g+amJuT3migsK9Ws/RMJjA==|qYM0n/d59qpz6LUiw+lJ3YEcsk+Ba7DcMH6p9QeqfZo=|cVPJPEGIncuaKUFSKo2/APguwz9EMNBhGsrUkCjgNBU=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -504,6 +547,7 @@
       "name": "2.yrjf50FkLb0A05albEskYw==|92yCdhB9qXjkRt/WByvlFg==|o2i4JNCn/7PssEuFvM3RCT7zmd5amQUORXQkDeG8Dvc=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -528,6 +572,7 @@
       "name": "2.1wpyo17qKbR/pRdP6E1wyw==|zD98G5rJtfjTKIkbDz54Fw==|al2P9yIjYo0EWN8Lz3uoSHtqYFHIdheYj1djygRCCZI=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 0,
@@ -552,6 +597,7 @@
       "name": "2.grx586U27+TsFP0kUbg83A==|bZWZDEu2G0ESgDKcvKtt2w==|MRp8YiLKg1QzdzCddOnQepa7xdeln5xWdb7lzxC/8Ls=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -584,6 +630,7 @@
       "name": "2.ZvQXX15G/oCgMAeGG6QRXA==|0IN/sjH55B6LlOubYd2gRg==|6YWIqMVBsbTSWA8LbfkFFcA76xffhAbspp5yXomvM/c=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -608,6 +655,7 @@
       "name": "2.tCXD+LGrg862TTHCjsxRhw==|GHlWwo8Bz0CAWWTHNERzQg==|PdysP5Lf5di9+8Dy0Z2lm8KRrvBnZ0Ft3/80l9z2NJc=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -633,6 +681,7 @@
       "name": "2.gDavA0K4x8ph38pgr0uSnQ==|1N81mImvTljXKEpX1/Lz/w==|5GA+vlabOUqp1Q/XdZZM8G53b31cQbswc68H090hWxc=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -657,6 +706,7 @@
       "name": "2.N0bvYWRCxfumROy5EgHqRg==|5pAqotw90BhKeqcZE6AOUg==|nSM/m8wqqQbiI8hs9BvfGKz8QnFtjG4FrrrDQXis7Og=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -681,6 +731,7 @@
       "name": "2.CxFZdqjsb3L9aGlr1eiKvA==|UPdlmD7ji9lEf48K9r+IkA==|jsOGoSlHqoKqL8br+jhTyPRic2+XRrAqW3/144pZrSE=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -705,6 +756,7 @@
       "name": "2.Zh+7+ncNFX1w3EmmdMFH1w==|x9FGvNgtJ0ywBM+oDb1jcA==|Xq84a1cAPrUNutVIqaoWqsSleh8S220UvWM78wH0WLs=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -737,6 +789,7 @@
         }
       ],
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -763,6 +816,7 @@
       "notes": "2.B+7N0rLMHegCca1ey34pKw==|uQ7DRWYCv6CtTne70vrvlw==|jK0MwmIUzDZlseWicR/mJ8Nl1KtIupa4VOfztc91o8Q=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -787,6 +841,7 @@
       "name": "2.pS/lVxykSlgg/uPjRvtn/w==|cBeZk0p/sXXH3/8u/oJk7Q==|WUYGPpCPHvL7Uz4lCtfYt636DKot08jRj5XIwTdSnZw=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -811,6 +866,7 @@
       "name": "2.lBufk0l+Zv5hbYlD7f3z7w==|gsUskc9Tw6/R8kWklC/NIg==|rZYpzmWaNFBQ7C+VUFzZONEBvG2QNsEsEjugRz5ipow=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -840,6 +896,7 @@
       "name": "2.ESW/2U//PoniVtQHqX7YDg==|O23eTAMPRFatT8WL2N7ygA==|ZhhfC45mN7KTv9U9QKgOxXxLSV+F0RPitFR2ACE66AU=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 0,
@@ -864,6 +921,7 @@
       "name": "2.kpo02BQSMcaI+Y7nKd+7Xg==|uKFn70mkTiQcpbvfpjTBtw==|nd3+xL3duvRSNNC14WwC6y6dI9gFFazELPTY4k4k/8k=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -888,6 +946,7 @@
       "name": "2.OWmBeXUdtLUFGYNgYod5hA==|Sr8oiXabhcz8fud5FAfsWg==|UHSXlREAfcZz/7FGCqeJmg8cUbWYFbKdU1I9mRbRRus=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -912,6 +971,7 @@
       "name": "2.ygtfV4teGddMQXtbK8IB9A==|B3GmAJ6D44wov3+tljwroA==|GIkTpcQjTb50lGv7ly2W4hM2zHo55WUb2R2VqZiDwgE=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -920,6 +980,32 @@
         ],
         "username": "2.IX/Dymp1N9DwjpJRejpr0w==|fxgPICYIU7IFhdatIOgNoQ==|FvbwLQYy3Lkcy6vHlfyBPjRUk6zJsFT0ezR9Bc++fBU=",
         "password": "2.TXwlrmvjP4CygrU92KTrow==|JZZeT3eotogYqqFpYbzgqA==|tsMDMBuNI/jPdwN209WW/D8LY98XYEf92xk0ECt30wg="
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": null,
+      "revisionDate": "2023-10-20T17:20:39.692Z",
+      "creationDate": "2023-10-20T17:16:15.759Z",
+      "deletedDate": null,
+      "id": "1e558b00-25f7-4daa-8e40-c52cc848f312",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "2.IzH4X2l70Gv0P3Evp3xUrA==|5t8wPFU1VHE+gb3jBJDTHg==|Y7yDJpmrSri/iJtaBZacwK4ZAcLwdlQxF6Z/jLf/yBQ=",
+      "notes": "2.K/5GLgiHfh8Z7iHDlWpIkw==|EGpamCLVsntgjY9/s44eKA==|iQLWweA3qVzwKdIKoNguDHkYbMeeCDALH/labqhx2fw=",
+      "favorite": false,
+      "login": {
+        "fido2Credentials": [],
+        "uris": [
+          {
+            "match": null,
+            "uri": "2.j4TvufpHYd9IPpstt82mLQ==|r5R2s5VDyTNWLTBUpwlal4w6kqmrfZRoqBOcnhx8IQ0=|AbDsTtEb5cgI6wolBJ+dc0bE4YZYzdl2tOEnK04hGnA="
+          }
+        ],
+        "username": "2.VRqROXY/LS/aXoqczXs7pA==|xmnWviLcRqKsXY7zDGy9rw==|eMnovhD/g8nCRIOjsDqgNobGbQ9Q48xWIqi3OD+sneo=",
+        "password": "2.TKidjmXfL4WWjYEulL22Ww==|v1pBGR9yuXbg89I+w22Ssw==|TknDwyzZKc5nlYCzYis1acqKrCP+BisnPrZ9h3Fdx1U="
       },
       "collectionIds": null
     },
@@ -936,6 +1022,7 @@
       "name": "2.GWsnB4yEvw5/ZUBRvh9Www==|Z0ngFPIqx2WhNbpTIfF0ww==|psBU6zq9ucFRgNuqwD/KDDnTi3wDps46FlVUrUj/kSQ=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -960,6 +1047,7 @@
       "name": "2.UUD7G06Vd0/YR9uu/XVs9A==|UUOW2tcQp13N+itBP4OZgg==|J0mVwLQoQyZKCKKA/QhjLS2Rz1G0I3bs+YnVrCX0nrY=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -984,6 +1072,7 @@
       "name": "2.WPCc2DO4GqLTO5EPi1JWFQ==|xe0Kgv/SLYQ6WREf/aix8w==|S4tYf5np9bbfsYFvnCOLsF2E4P62wCsFMn7kUd5PI8o=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -1008,6 +1097,7 @@
       "name": "2.4+AyXDbuRYhT0pAGzFpbJg==|owxcSHd2CocixEwW3JiSOw==|l4H0Zpcuh4yDOp+CEoG2Bdude3zMXlmvzhfR/7NU3CI=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -1022,7 +1112,7 @@
     },
     {
       "passwordHistory": null,
-      "revisionDate": "2023-09-03T09:11:22.749Z",
+      "revisionDate": "2023-11-02T07:42:43.298Z",
       "creationDate": "2023-09-03T09:11:08.088Z",
       "deletedDate": null,
       "id": "25eb3f02-354c-4eac-88ef-43e87512d8f9",
@@ -1030,17 +1120,18 @@
       "folderId": "258261ca-3754-486d-a202-404eac5e6272",
       "type": 1,
       "reprompt": 0,
-      "name": "2.ergQYySwuyRXem3gq0DdEw==|QtWuHxk8N1prLP0xIuLNmw==|ZqIBR7Xb5yvnEHRNZz5EIjiK16TdQVa1gxfIsY91EPg=",
+      "name": "2.VJpGv+tvowipICyFr7oHmw==|Bw2VftYfhq1e+OEX7NcNHQ==|XlG1MTYQcX/CJjStPTVWLrWLR7weq5gUQ4OMYGSxnGo=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
-            "match": 2,
-            "uri": "2.EdWW9ZEqLFakCpv/dpL9Vg==|kb4ABWYiu9llwz4RdZFE29RDvhWrMaE/nvKZVPtk780=|xt1GgGB6X514A2xVwjpB0hQCCazDTZpoU8Y2TvAWbcM="
+            "match": 4,
+            "uri": "2.j6VN50sruj5EwNF85mPSlg==|0shkeeB/n84MeX92HBaZLrz/ezpMurUOT2T6qPFULio=|JLqSIYwyEAaP6KWkbKnlToJPBEKrnU7Rp68594S20qo="
           }
         ],
-        "username": "2.VcPTT+9n9oV980CVgOEEHw==|dRiXN2SIM5Ty2fCcCzqVuSTb7ScCZzJymGSXTdUKBIs=|7YsYeF0SwoUwAYTRNS4GReW/k9A5KQ9H1ArAC93J2go=",
-        "password": "2.CROjHSAkf4chZ2+BwzbOJA==|QvgVkcHq3hNhBeNpHf2l4A==|STenLZzgtkKgODN6qXDyznVT8qYtystO7vzyDq/HEZM="
+        "username": "2.2GUc21W/iPh9hjX7r5u1yQ==|9CQxtPX82alyq62QBy4XRFfdOSSqf0uC2dWxeFaN+OM=|irderbeXvA5gxJ97dh348EeRBsUKxfNbhTvcidODgN4=",
+        "password": "2.qUpx7NMLpS9ObT8U2Gol3g==|Jw+VlAraBmHb8qzPc8IiRg==|aip5PAll87qDVDfXKXNQUu2ACCz2Y19ZPKenWZFQwvY="
       },
       "collectionIds": null
     },
@@ -1057,6 +1148,7 @@
       "name": "2.IPMmh6APmWb3ILm5E017lg==|KJ2LckeWqFnl8GR+hJ2jRQ==|ub9F3rwkJN1nMpu5U1k9Dia430YElGuvKtEFUTU2mqw=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -1081,6 +1173,7 @@
       "name": "2.bfFBtkllHl0dHtGVcQpAbg==|Erd+wNwpGKz7ddBRWdjALw==|ZnidClRe4mthIxop7TKbu6FoUvYpx90Su7a0r69pvqs=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -1113,6 +1206,7 @@
         }
       ],
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 2,
@@ -1146,6 +1240,7 @@
         }
       ],
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -1171,6 +1266,7 @@
       "name": "2.jfFjZCqHMuplqbxWRBy5Aw==|KUA1e7lqxOgIe186ad8RCQ==|DkP5fpCPe6j0Uew1FOWCSMYbsnG43FOM2Vqtm0d2LcI=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -1195,6 +1291,7 @@
       "name": "2.ePyrGTU4Ic2mvTNpbH0QhA==|uHx7eraVWNLBWT4rM3jQhQ==|TJsK8zNuaPH6qXWijbKXV8C0+s0RhMHvgBsofbL/nDI=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -1219,6 +1316,7 @@
       "name": "2.YaGaXLdSu6T9/xGvC7W6qw==|J/et/9j65EOe7DidhlDibg==|bRaRJLRm53GADsEXLs9EXA2yo6YY0DHV5XmYGSpVa6A=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -1243,6 +1341,7 @@
       "name": "2.wNvP7fG1ZKHIf72s+Xj3eg==|kPIFyjy0ITreFeR9QFzgVHD1jEswlIXu0OJPhpHHP4A=|hpBMv72LT63fdOgGQKOzthP/XsToUXzBGH/VazrBJmM=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -1267,6 +1366,7 @@
       "name": "2.ODSjGciRwOhQMfo5bAENog==|8N6Z1CCgsVIOKmKVLty3pA==|m9EDL01I8b3GaTxrSeYYPvOREk/9/DJUhI9pcyKJGX0=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -1291,6 +1391,7 @@
       "name": "2.SUKcNvNlNJFXuZKmCYfPpg==|SYYB0dcbOgHZ96oL0XMF3w==|b6u+T1l36ffBo5mFeioJlhUfAs13eZQcwejZ8fO6cL4=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -1328,6 +1429,7 @@
       "name": "2.+K9Rv7MVBUteZQoC3jY7iQ==|kzC6KYp/eahucFfuzKAh1g==|KoyXysvvcOAQtquOw4KhpQPDO8wv/Pjn088NfpSEg8c=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 0,
@@ -1353,6 +1455,7 @@
       "name": "2.Ohdrvy6ACzjEDpOUwp2c6A==|P83GSL7lzCoifc41sw7gYA==|6ShBzR0mZbrZCpxlhxKCrDFOKqmK3VQjgpxf062iSIs=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -1377,6 +1480,7 @@
       "name": "2.B7WumGXRKzYqesmXDBbhqA==|p8Snvenk3VS09oGixsK7pg==|yuyBAVoTmVcC9Saj4kKPY78LhYPA1twFHnbPRAqEjbc=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -1401,6 +1505,7 @@
       "name": "2.ybkf4ulnMm/65ro9T46Eqw==|dTY+s+9M/9++5mjraCSIeQ==|RB5rETWCj8/svNk4aE+qtH2SQw1nTjmKgRBqdAmmW6E=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -1425,6 +1530,7 @@
       "name": "2.OBdbLCuHJa4lj7YC8HESkA==|NjTo/iD0cDknv4eS/cUr+A==|GmJV3egWmSXW554Ra/2Z9bskffrXLbh+Mt9GmPPVCZE=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -1449,6 +1555,7 @@
       "name": "2.srj3pEyUDSbF/9d4c08QAQ==|MnwDNTslHSLUFfGPC+/W2g==|bOW2Fp1GoajVQyFDicJ8Kv1ysVd/WDgtXeFln+JHm/M=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -1473,6 +1580,7 @@
       "name": "2.j/nTxQcwpqeywQiiahE5xw==|cbh+wKZzqf2ZC5J86h5btw==|eDhgf8XHZGZXgHQKhyRQLoliyQDkvsAQB+1E698YW4g=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -1486,25 +1594,26 @@
     },
     {
       "passwordHistory": null,
-      "revisionDate": "2023-07-09T17:03:08.152Z",
-      "creationDate": "2023-07-09T17:03:08.151Z",
+      "revisionDate": "2023-11-12T16:41:47.960Z",
+      "creationDate": "2023-11-12T16:41:47.931Z",
       "deletedDate": null,
-      "id": "3d1a5a02-1cf3-48d3-82d6-e1eb08cd0fdc",
+      "id": "3bcc3445-3e72-4ccd-9215-28a927728c2f",
       "organizationId": null,
       "folderId": null,
       "type": 1,
       "reprompt": 0,
-      "name": "2.CAX8E7CqzXXnBO7t0tlCww==|HM0ovx2/N9rUAM9UYjdGEg==|Sr3iSLZWWq5ABethmkUSzfCL9B0yDfBHzWKWDbNxLXs=",
+      "name": "2.gLOAyu7kqai0XjtYbdMuVQ==|W0wyiglTBulmcHRZxvc1dA==|dxxQlVZodIi2dyePub6VmeUzzoNjasCquUVigQ7Hve0=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
-            "uri": "2.iLXJudJpmgfe9SIWV1C7ZA==|o4tNxYXL39EhnIrjNyiUurLLG0VTGbW61UUsybBmlfQ=|2sBpqrgrDfyEyY2IRtHH5uqRS4lXBjrpATxUfpxVEXA="
+            "uri": "2.ae1IaZnS+gGzaiUHVUWP9g==|xyNe+0aMbB01rIWEJFqzKm+sTkQn7MoZS5CrJTRiets=|6k8dDaHEtxmRuTCGOdvkrNM+EsFjS588W8gfQ/GTeio="
           }
         ],
-        "username": "2.Y8upzeD1u7tr9heXUROE8Q==|ZEwHNbzBYcnp38anq4j1nB1J7pbu4MQq6fn6/HOM6Vw=|hZdWxqK1aTWqOylo4EvvREnO/tzSgDa9hpEY08gHOmM=",
-        "password": "2.vaww3WS4y/GgDZoc0LXz2A==|Ax09gs35pOdKhPrjzzFZNQ==|JfMjrjiPs725mSQvGoEvuMPQq9LWedS+mJsj62yVKHo="
+        "username": "2.PQo5j7OH+bH074CUJPS39w==|n/nLggKEpCc9QN7uy3vkPBLF3w5WNz7soM53N5pglvs=|8wOPhRPzQvFkSV4yE3MdycXVhyLhpdrZ164qh+8mXKI=",
+        "password": "2.ld7P20oIMagmcP1g6S9fEg==|1WHPJwtZ1LWZ9eO3bdb0DA==|VZ9O9HgBeIVPCAxH6DfOUB6ierseN+5ZpidZt3QxEAo="
       },
       "collectionIds": null
     },
@@ -1521,6 +1630,7 @@
       "name": "2.eZJjEMS+/KmtAOEPnlVX1g==|a1a0MOFTISKwK+4BA+y8GA==|9gxoimVpgOv/jBgptkXAa+emIQ/L3hDrD9WJn6RGmBM=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -1545,6 +1655,7 @@
       "name": "2.ns/MlIfgLx+wqNh2WRKmKg==|2e0pzXW4myKgXpYTZpkkLw==|JGlwZHv2PUW2XNhN6rRqVgRxTiojjm9mWQozxA6HXhI=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 0,
@@ -1569,6 +1680,7 @@
       "name": "2.GEH6fFLldTsgNZTbvJV5pA==|pqKjVKPyv7MHm00jZ2TpFA==|G61b0ePD1Z+chMAtzf7FMoENXima9+hc5iczrzDclqE=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -1593,6 +1705,7 @@
       "name": "2.WokNJA92+XAwXUzMn7fdDg==|zYdJcdnSRYTeWGgT9EdCIw==|xUwKU4uNpHLIPMLdDL4nmPsO6KYnVPEoilAhomLJY5A=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -1601,31 +1714,6 @@
         ],
         "username": "2.jJYXvryDCEbNA57YepNNbw==|+4kE/8Nhe03GH83xd+EX1+zef45nOtg7y8GS0Uxpgz0=|KkxKMDu1EaEe438BUTPrrFubGZPHXfOtp+tNXIJE068=",
         "password": "2.BYPEupk6gK3Flm+KkcYIAQ==|jxNgE7TL2oz4oOys/Tl6TQ==|WMFVL5BmMp99uvLAdukA4uYgPH/NrWl26QucHvKCwvY="
-      },
-      "collectionIds": null
-    },
-    {
-      "passwordHistory": null,
-      "revisionDate": "2023-09-26T14:04:15.018Z",
-      "creationDate": "2023-09-26T14:04:15.017Z",
-      "deletedDate": null,
-      "id": "435a828c-058d-4767-a61d-ceb881f226d2",
-      "organizationId": null,
-      "folderId": null,
-      "type": 2,
-      "reprompt": 0,
-      "name": "2.GpbhOfn5M/Lu2tYORM+ohw==|vSwQ0+gDsT0Uq6bCzkuZGt7Cs/f9M48Q3AL7nGu6uxI=|5MSO/W/aeajJfpH0t0+46sCyU8MOsdQbJmRnQ1GtVeA=",
-      "favorite": false,
-      "fields": [
-        {
-          "name": "2.hWH/vEX5yNQsnriHy91rhA==|LlWVe14c6pBI9/7xDndcwg==|OSG1LVUyQrmHEZWkGaD7mtzc5STvrBL9iej5FYk4B0A=",
-          "value": "2.HwieyXuJytGOpZbqC11PCA==|wQ11CuGv8X9kPJ3hD6sYoOybT3w8EnxvBJ9LSJgK1cE=|+AKbyFnc96OhW21QEK8utN+XrIhFsdoj175EXxE9FYU=",
-          "type": 0,
-          "linkedId": null
-        }
-      ],
-      "secureNote": {
-        "type": 0
       },
       "collectionIds": null
     },
@@ -1642,6 +1730,7 @@
       "name": "2.6LPcshERUSy1gG2FmYDKRA==|eG43MCv9tDc2rUFFhhUc7w==|eGrVjSHvFhIk95wFEcdWB7yjFHz0Tbj+MtBAm0cNb0E=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -1666,6 +1755,7 @@
       "name": "2.CySA8UXK9j459YkVXe4eFQ==|zRHyWP0nhabC7pbKiYtuWg==|WIxzP1wn7seXcqwohAJ9SOs1nQ0DgaMQ/P1IZGiPa6k=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -1691,6 +1781,7 @@
       "notes": "2.1wCcn/mA9TcZP/QWmdenSQ==|Ti4cwnoee+48Bzkn+XIfoZPvDejSkZNYt7QD4JIC0K0=|1u4GtkR/nx1kwfqY+BdlzbiIxmStU8slovdYLt28X5E=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -1715,6 +1806,7 @@
       "name": "2.GI2J328AX4qQGPzMynbzhA==|t7WFHpr88rEmz3nDmsZOTA==|miD82/WVAYkYLKkzbMGY/M17dWAb3bey1HevJkZ+hZU=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -1739,6 +1831,7 @@
       "name": "2.MiCpSDK9cUan9QrQzuAQWA==|ue9QJ4Qqxq0ZHEOiN5WmdA==|ck7lZiwqvVaHm+Iov2YyPTbtBj0KVQkyeR8tn8uqF+4=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 3,
@@ -1763,6 +1856,7 @@
       "name": "2.ln5P5BWwECMu9GzlqzlLmg==|9vJl9IPhYKYtz9CxCVbumQ==|mTSoN7jhe62bBvUgzvdN31Ml4nTvsB1yD9h+fgSbKxM=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 0,
@@ -1787,6 +1881,7 @@
       "name": "2.5xzZ2bdY91K6aHU0UtsDfQ==|klT65pLYXQtlVfcWIhUhow==|kjE6CsZirOskYazGsgW9RrvZNXRsEV/5PUPmoVeWsoQ=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -1811,6 +1906,7 @@
       "name": "2.aORcDDUN9Qz4UtCi/uqtRw==|j5wPixyI0WmdyOFddW2vYw==|5KjkIenmU+6c3kYRk8x70Yk/wxPF29DkBCtkcSDP65E=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -1819,37 +1915,6 @@
         ],
         "username": "2.DReopHxIWDJw0DL0WnNDKg==|xfJwWRNZW0nYu2+7+aWCgA==|jbr3PaEAJ1LN2ToTKHeeGqfx+f4mkqzfeXIOXXQ6Sw4=",
         "password": "2.l2Mr6Qtr1q/A4d7m6qROhQ==|TfFx5vCLsM3gYboc7pWn1A==|hFqeA1SXMa89IcE+/s4Y/ZAB9iYXjOkPMM85jeEt6y0="
-      },
-      "collectionIds": null
-    },
-    {
-      "passwordHistory": null,
-      "revisionDate": "2022-09-07T10:50:28.438Z",
-      "creationDate": "2022-09-07T10:50:28.438Z",
-      "deletedDate": null,
-      "id": "48d08ddb-6d5f-4a0f-8d51-dc8b56b81f1f",
-      "organizationId": null,
-      "folderId": "604cf50e-adad-4f96-909a-3e02c699b0c3",
-      "type": 2,
-      "reprompt": 0,
-      "name": "2.RzxddIfThFn+VYQcFJuQCQ==|2c7X7APqwurd4buSA1l1EQ==|uVpu6f18W/FvMqDi+O0h3lHRWmCTYQD/0ToBaJp4IUA=",
-      "favorite": false,
-      "fields": [
-        {
-          "name": "2.hCpPAunNwwIZ5a80FQkoMQ==|PvrhfVydJeIGjWB+uafLRg==|iDu9Gq5SxKhvD8ca1+AKz529ACfYrx43y30i+uM0vcY=",
-          "value": "2.8NraIw0XhXmd9KNf0GUmNw==|l0k+ZPJ8S3OjH10daaCTcA==|9rqKf2UBOiJqQamNwjwtlZg5F+Jr2T7d45/vozBpo6A=",
-          "type": 0,
-          "linkedId": null
-        },
-        {
-          "name": "2.MTlJ2yuJQ0qxDcpGO6njwg==|NRw4J4e5WEvxF7I2yqKU4w==|3Q73fkO4oLp2G5/4zopK+LwxEDUJHh3TPgNXLfGugck=",
-          "value": "2.liat6RbW8Va/YlT8sJsMzw==|pX6XKD4YJZ1DuyRokoWQNGRrDdOuVrBDY3GeVUPSBOo9vxSYl390vPNNVqgUIRmyMZHI98FWOMUgakWUo1eiqA==|ovUr3gUkPOmLoGTjzS9V8BJys0coU3HK3AVDKsx3MRM=",
-          "type": 0,
-          "linkedId": null
-        }
-      ],
-      "secureNote": {
-        "type": 0
       },
       "collectionIds": null
     },
@@ -1866,6 +1931,7 @@
       "name": "2.Br5OPLmO18bC4FR1lHXmYg==|mvE78TPQnSTndnMqp5nVXg==|wVkpN1FkKVR+UuxXv1uTn2fWKLfAXa9s0igeVGrq04o=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -1874,6 +1940,31 @@
         ],
         "username": "2.K6kV+LLebWN71Ai+2HB5Fw==|jbmuZwfxAYhHfeDxGBcPctxwrtCbEiIKLQIwbeRlf8E=|SpJYJW4MLwBPw4WUF60yU6PXyQWlMkqRSQo47zQpXpM=",
         "password": "2.4tXRu58P9mEzlEVYC4W8pw==|fLzlJ58+sdSbyv6HPHELOA==|w4Ojjbk/x6dKVJ+5OY6OdN6u/FY3FqHaFsuKJLkD/VM="
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": null,
+      "revisionDate": "2023-11-09T14:58:25.291Z",
+      "creationDate": "2023-11-09T14:58:15.636Z",
+      "deletedDate": null,
+      "id": "49b26cd8-492b-48ec-8929-b0425b8b2023",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "2.aWgYRM/E1BNO7GDi6Eq8IA==|LoZ2Ogi2tv5HRoSDxBGggw==|MukUwoiOIb4PioRQ0QfMNz9yMn7ypuLpa6dFYPCpl+w=",
+      "favorite": false,
+      "login": {
+        "fido2Credentials": [],
+        "uris": [
+          {
+            "match": null,
+            "uri": "2.C4VNeR+S6oksJWKnw3Hdnw==|GP00LpGy6NANbPOaiQohl72a5EPmeL7rGGmf/ehzZLU=|b+zXdZd0wIdxB4wh8rJ8R7hwqtYxaWFJce1n05r4oLQ="
+          }
+        ],
+        "username": "2./SWu04TXYODAI02g/eHQtA==|7ihvgLOpFcYGzW11R9MxDXFlAlB/55+rnyc9556pm7M=|HOIfWXFwzWycTQdvF+4rywv6NntAzzl101eds2LQlNY=",
+        "password": "2.SlQ7YmGJhdGnB5n1OTi3Lw==|n48BEHMaR5uNo0FSo4/nNQ==|J6VSQI3muohVvIwX3J3qwSBcWfmyzik8sgjuf/BrK8I="
       },
       "collectionIds": null
     },
@@ -1890,6 +1981,7 @@
       "name": "2.+MGSK1UeCQuSAPHgTswa9w==|dISK90RwSogJG65FgQfKWw==|S2vtfksXUzWq8eh79y4VxYqTBctOZDFZgtSzxJJQ2Zw=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -1928,6 +2020,7 @@
         }
       ],
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 0,
@@ -1966,6 +2059,7 @@
         }
       ],
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -1991,6 +2085,7 @@
       "name": "2.OyqxrtoJC873o9z9mxaUMQ==|huKWK8HrnuKMnqDAhavjYA==|+FKzDuKijL6XciAjDs0naXpw9Q5vOKjCN18vmlaeCnY=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -2015,6 +2110,7 @@
       "name": "2.j+WoZnn+/J/o8ugVDFzngA==|5RDT/2G3WcwDiTTCXPlIuA==|UzIRhR3+RZDsFIg2xU6+lrG+3lyaVZVmwx8622XEBVQ=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -2044,6 +2140,7 @@
       "name": "2.sKRsx5XTzi2PZlPZIRAicA==|YPMBKnNPs5YQa71vdbhf1w==|hE9OWOZ3j6NbqX+Zp4a6uoVnaB+ekrfT6mAyxpkK5K4=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -2068,6 +2165,7 @@
       "name": "2.XGeUR9PeezuAuD3MlAjGQg==|x1Li9bn1nXlU5scyNwYH2A==|9ylAOarAD3rNrxbdbLvPMKnSkGriNTljJxcLSP8sdSM=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 2,
@@ -2096,6 +2194,7 @@
       "name": "2.4MoLgXqFyRlO+qDYaJJfQQ==|DQuH4NZ01Ogi3sGAOFhrcQ==|OaRTWpS+Fg6XKQgdZIBtlsF15xApJKD7JsDqZHO5eSo=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -2120,6 +2219,7 @@
       "name": "2.wszyeTrNg/f3wN4AhjxEeQ==|27zKIdhrmKJpbmXiSCEU8Q==|LeYBh82RzcV8+/bURJyS57ILHTMguvoKKgaFIQoAxnU=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -2169,6 +2269,7 @@
       "name": "2.m/huwECEwTEWxdCbAj1wyw==|tGUOxwFa6/rmPF3wlgAksw==|qQRwLx3vR2PhwYW2Xj98OpsFpluwor13VqOBF32tTis=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -2193,6 +2294,7 @@
       "name": "2.azJXEp5szz8uoa9RKrywQw==|gHEOVa/6uVpdhp0dlcP6vg==|dIL9JDWNh2vtVgLxXX2p/OSkZrjJBX7DxOiJgJDymJ8=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -2217,6 +2319,7 @@
       "name": "2.bUj08vHaTeaOaPe2q2azIg==|8ZH4Hu84SmQW2mG2iTcYWA==|VUoaWtEsVOigPQIl9sYyLHtwJDSQdvSpv22I6Zi7jDM=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -2241,6 +2344,7 @@
       "name": "2.5wRJO7vOZNZhawDRUTK82g==|/yw2QFwRawFC4YJggF52cg==|dRlgTyQAgDkYQbvFHq9Iolf6iqs8SiqqBOpunYJNsa4=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -2265,6 +2369,7 @@
       "name": "2.kq+oHPVqn7SUvRQKWl27oQ==|5+VWxe/jZE7VqAuMJU/e4A==|j7JJTnloGy89FtZum2iwURgU/m3trZzoH51MDFgbWUM=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -2289,6 +2394,7 @@
       "name": "2.AYGvNKl3UJjcnKPGhUt7JA==|8Oko30oOKn0VOzFMoXz9Zw==|CK0Hk8oI0PfAMWIopXAD0dZA/e2ROHEbfNxzYD5upkI=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 0,
@@ -2313,6 +2419,7 @@
       "name": "2.YivljTJlwy6ZxRwxrala7g==|UWrfBrgnH+kAKOgDMydgWw==|6VIaa2TvdawqY4BuJP4iKrxEkFvKiAypTlMY9Z+YXpo=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -2337,6 +2444,7 @@
       "name": "2.1oksM4oOqhI08wwc5XMZGQ==|oB+PJzpih+PJFbTthLq+11woSBdIj1lPbcLeI4J6E2g=|XygrSR24EWoADRQLlS8DgXSxnI0l1ZFY/z1in50uBxw=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 0,
@@ -2361,6 +2469,7 @@
       "name": "2.XWbI0hLAItvIaXKp36ARyQ==|UQHiQpYSqPNvMr3QzEw8gQ==|sWRQpKnpu37FlVNxNDrK8lQU5FxVTOo6QJdtAYTjLfw=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -2386,6 +2495,7 @@
       "name": "2.Q45OwoPtxgSZMWrw8A3Q9A==|U7iV7SpC3rfzaP4Bb29ntA==|+nssRO3nQyBTJ0fDsgD39y/o8SeP1xnSNGAoR8q5Wyk=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -2410,6 +2520,7 @@
       "name": "2.ftJdjchIZPb8BGYJrUwxBg==|6/nr5sJSwJe1KwcBfc9/YNCuBMrwpf87KAWOtOa0Nx4=|dFRp+pNXFbJjHOt0NtF43wyHKeTCMB41RkknaiB6D7I=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 2,
@@ -2442,6 +2553,7 @@
         }
       ],
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -2466,6 +2578,7 @@
       "name": "2.3hDHG9VCEAYS2+e291Ht7w==|to1xD9C0tv2xEQ82JxgmGQ==|cCg3NvKbe8EcIG/JfOH82yOuRnJ/l3KH1pl1hvH3xXg=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -2490,6 +2603,7 @@
       "name": "2.5zt7BUuXBd6f0oKF9zxJHw==|iJCXKV2hEyKgzU3aoqBkgQ==|u5QZ6GAyo8fVI1g1gS6P+zxgMdh94Y+AfVGHDwKyrPM=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -2515,6 +2629,7 @@
       "name": "2.WiGh7huPb/tQc6VUqA2CaQ==|2TUPFfCV7kcRVHh2KvtPKw==|+CmVPucPlSGlkj30F4JGp8rKR5QX1eOeGmjG3vvw0HQ=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -2539,6 +2654,7 @@
       "name": "2.3tu/r9pQryBpYADPN6erVg==|FVG4F5+JuQ75tNQ36GqCJQ==|S1CWgr0aLNU80Vt5ZYlHJjOtgw8EwRywUU5sM7PGGE0=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -2563,6 +2679,7 @@
       "name": "2.QkH0jn9O6kMAbsxx7ffz4A==|dIt4lssE3szJLpXwsyUy9Q==|VxdEDsVWjB87YsgYBVpv5ZFLTXE59d1h+q5LrUluMNI=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -2587,6 +2704,7 @@
       "name": "2.d2IbiZYXTp6ak5IPqoJiUw==|497JbRsTKUiMR8QfhUKHEg==|BSmQBoOutNDpSYeb+jU2P8TwidUV1Sc5XJmQbJo4Pdo=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -2611,6 +2729,7 @@
       "name": "2.QmKIUrhDvjpvZ4t0B5IZOA==|EkTt5GOk5dvTbyRjeoJbVz2qNOaKK6rZfFOfSVRUQ7g=|s0A3rxkFiapypzG/rDohHpGeJ3Vey6ffQ1MiK5m1fDM=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -2643,6 +2762,7 @@
         }
       ],
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 0,
@@ -2667,6 +2787,7 @@
       "name": "2.ec+ZB9tCaXRMnyWEDA86lA==|7zXbEHzKV17tZpqiWcFr1Q==|60/RAiearui2gdnfW3xkskHOiEU7oTGjRucBl6tLmpQ=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -2696,6 +2817,7 @@
       "name": "2.QFFesWBNw7o2VSpr2AbtCQ==|lLD9ltgXZJ6eYxNyFpRPKw==|vd5Y9iRBdUQ5BI8gFeoKxHJRil4KbxFPMDAdKzIipyI=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 0,
@@ -2720,6 +2842,7 @@
       "name": "2.KhIE8JqvjDlKrv7lszyOPg==|ixJ7sHwSUEDnCgoTkPDBvw==|maghM10eV02+yV1hHFRX0tTmULHrZYt7QEP10GcHXr0=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -2753,6 +2876,7 @@
       "name": "2.G5uehGdONC+YWnyvlcjSgQ==|5WA3EJhhZwLPAfZxBLn9Zg==|9bMiRz6OgjmNTUvbUc/jjqFP8BE1QrzrIlECxMgSIvc=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -2781,6 +2905,7 @@
       "name": "2.fuVloeojQEINGT9347aaqA==|N380maNrx4+kb8Dn8advbg==|nQmFh+gOEwwUoW5utgWYkBd8SY6dgyCb8cNEdnb0Ayw=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -2805,6 +2930,7 @@
       "name": "2.q+Mb8NAQ4fq57/fN9pAGTA==|PKMe42W7fMi0mXF9zXLsnw==|KX2HrdRZkvAUBfQcI/n1JMC/Oe5VBT8z5Idtw/EyNpI=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 2,
@@ -2829,6 +2955,7 @@
       "name": "2.tSj2LgQxabxDBxE7WCkiJg==|p7GigOSgFK26YOOuJFaMmg==|ljO3wDKKHkr6Y8mH5anA/J/vFYPiAIlTlf5U6iJF8aw=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -2853,6 +2980,7 @@
       "name": "2.9p/r6At0oq2NZ8Zk8LdtVg==|hMzQ9+iNAd4pVZH7HYKpxw==|mjzje2C3SUe0VwROhHjYuVxqmfFeQXlLynYIyaEkImg=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -2877,6 +3005,7 @@
       "name": "2.Mbaq6W/XIO9vBs/HSsdr/Q==|zaBbjVJaX4jpesBSG9IE8w==|aanzVbmufEaT4vBD5afbAVovZCtzVqq1d0lltXLu5rc=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 0,
@@ -2906,6 +3035,7 @@
       "name": "2.q+brtny1CkyUAhbA+tEvew==|sIF5jDhiPk21IWftmKgLEg==|zYgOzXEjk8aXxQ5AHeLIulUSySf2ORP5cFKxQXz3MNc=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -2930,6 +3060,7 @@
       "name": "2.GEClNK3DCgNBI1T1O1vnkw==|8YX9R7UCixNeJb3/xrMGmg==|OjJ/lqiJICbzPDaKNlly/RcBfCRiNTuTBlPysgWs96w=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -2954,6 +3085,7 @@
       "name": "2.xfivbQnEHk9Ik45F4PJXJA==|S7VX2MKh5J5rl3aCJKpCvw==|4jKnphoXByePaQ0n03GPCCaHnYkIbl7Jar0Z6RAm6aw=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -2978,6 +3110,7 @@
       "name": "2.jR4I9rPXW3hj1bGyOK5hog==|wFHn4I0t5ly8zai7DdMHfw==|AQVgGXu6Nos3L3/F+wH5Hgu2WyhS4qiAfwoibwsp950=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -3002,6 +3135,7 @@
       "name": "2.spBMYjefCgh0IbcwdkmoMA==|KFA2GAcRAQWhrgqQWsC8EA==|cWEhNtcj5Lm43fbXmLqHLA8m9iKWOAKlhThl4iJ5sYA=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -3027,6 +3161,7 @@
       "notes": "2./dxwfg28+pLC+dITwZ4P1Q==|2D+uoiSk64GJ4an61ZBewTMAwP5oi7anbz4TM7kpVWM=|e4Xa6gNgcaiu039iG6KKkddulfLy/aXpm/M8huKYi7o=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -3051,6 +3186,7 @@
       "name": "2./i6RuI6Ql8oyeU3J1AlFvA==|vFa4htcEn+ZssbjbclVRuA==|QZ0YeKxDqdg85wu/zrQ44Zg5pt2ErzQJPnrUFSzukow=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -3075,6 +3211,7 @@
       "name": "2.tZeL5H2X+3SOQqgJMySOuA==|mbmfYEsdBonHY6SKun2o1w==|QVCKw9iI33a8MR15+itkny+xmIHrla3edDT6a5QNeFk=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -3099,6 +3236,7 @@
       "name": "2.MQBTjhweE4JSFMDQXea6+w==|qMalYZ6mBgz2UyR3wwM6RQ==|S19VA4oTi6LzMkvIgNroaqZbOTQIDLIpdjhtSN27Ivg=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 2,
@@ -3123,6 +3261,7 @@
       "name": "2.pJlhKbT1Csj96+mrfIETJw==|y71hGfF5b58oWqnZby8HZQ==|EezeenijQ396nKU0tHm4uP0ImZywb7XysOXqD9S8ptM=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 0,
@@ -3147,6 +3286,7 @@
       "name": "2.J/wa5Pe1bSesUhsMrrpNeQ==|RuJOhmPNk/oM8CVQ4XiYAw==|zWBG1E9uVJ203EaICLz9SZWA9jYopf98Fttj8E4CJEE=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -3171,6 +3311,7 @@
       "name": "2./rCAH1pHYC6Xml7SmIzUaQ==|M5BW0wNUIH7/7PJt80CHbA==|6OaMiByfJP3zNggyuAlW5VgmI3qAeZTMc5vUTrkfqVY=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -3195,6 +3336,7 @@
       "name": "2.PZBAz1kmuK6kGk5BYyuNsg==|s32AaOx4qU8JzXFD85gNag==|BfvwMPBG8bXxuA1DIH9f7xo1DAFceUMshRU+6LHEqa0=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -3219,6 +3361,7 @@
       "name": "2.SFBv4U7VYZcyqGHIsZqi5A==|qlOSI6Mni+gcBiIBmZXNumTeBDyZw7QFFL11NoJSOgY=|Lxd/1qUUDiJrhxGp3do3MgbO1+rEbCTDnX461P3oUjU=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 2,
@@ -3243,6 +3386,7 @@
       "name": "2.1sk9BDJpvkUN+cN9Vk8Ajw==|JEgWq6XcXXzIe0lcgsFBxQ==|I5424KbGefiDW7Htp0ucHqTthHGdE8e6lJosjvIwVVU=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -3256,7 +3400,7 @@
     },
     {
       "passwordHistory": null,
-      "revisionDate": "2022-09-29T05:17:14.527Z",
+      "revisionDate": "2023-11-16T06:28:54.198Z",
       "creationDate": "2022-09-29T05:17:14.526Z",
       "deletedDate": null,
       "id": "811dd169-b374-45e7-a7bc-21983df48340",
@@ -3264,17 +3408,19 @@
       "folderId": null,
       "type": 1,
       "reprompt": 0,
-      "name": "2.oUvfPz2yJJTTyXgXoa+oGA==|84EdMLVoj6uxFwquft/1Xw==|gNElNLzA+kXX6j5ZcxYIIKbfuVhaJ/NSIxEBradFaPo=",
+      "name": "2.gz9XHtBLG7H4OpW/HPDXeQ==|V2jkf+dMq0FUKNN5/x9bKA==|pWb1kSagUKA4AHp2rpJDhwhUMGI7hEAD1H2+bRRHNYY=",
+      "notes": "2.aX828jlJvzFMdk1wCfBdDg==|G0uLYM1sLdwAoA9AYPyV4w==|0prGoNCMPeBnpGCVi48w1S4PdPGlofzGil4UL0VUo0o=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 2,
-            "uri": "2.sMJ/PXGYcJ3oTRb0tnVrPA==|e0cYqos8iiHO1/Z9kPdK5lSc/Vu0l/XzHpwi7Lu9GkI=|WiTZS/XpMnde113vdzjqeHeVgGT1rKTXd11MlwzZCl0="
+            "uri": "2./wQyUIEfMMLHF2FmIk5rAA==|32gmNxK1ZM2EGfG+pctS4kYKdBcTQPIj4Y25s0A9EEw=|O6e00YAOCwIT0L/tfCiV5AApzZ3DWewuxlN4o6FB3fw="
           }
         ],
-        "username": "2.4WVHpSV7HMefV/JZOw4sLg==|26ZmnOuwPqPgb6q9odeR+zexnMxY1v8rpkK3r7VSm/Q=|uKa1oDu1/uHtyRNNTbSyX5Dnq+bSOB7MPWMB7v+9URw=",
-        "password": "2.btl2rmIxA31sAluWT9TyUA==|nlPVPpuhRBOiciTxYtRmIg==|2NE18J9EW0jLvnMuG5fIEx06fcYUTISxZKSAZ6npYG4="
+        "username": "2.VbLl/Ii8VS2L15Ob8sLTVg==|Iel3x487qtqxaxDMNBR0byFTqdZh3ptRX0Cd7EKI7iI=|aqR3Xx3mwiAK3cBq6xFFp+VK0EnoRql3D2nyIJDIFYI=",
+        "password": "2.kNhHrerhm9qIQXDuzTHQcw==|uEqaiYbeX3vH9yEftvQEAw==|5kn+lWzAmsph6rdBEIU/PHb/qCz3SUyZcr8WZhN0OGc="
       },
       "collectionIds": null
     },
@@ -3291,6 +3437,7 @@
       "name": "2.cbGNKirK5RLZMhtMcMGEGg==|+BadZdQOiHGSCpHwr14JzA==|s8OrzX1hWqoTvNubrQbwe2ShlkgzjFU+SXp3vUzkRWA=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -3315,6 +3462,7 @@
       "name": "2.OiUoR8SoQva+v5stnmlA9g==|+BiF/qQhM5J2AylBKuT1tQ==|Qtp/JORzOpsBsRgBCii5pju2dfsRobFtYLyYKGgsaeE=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 0,
@@ -3339,6 +3487,7 @@
       "name": "2.lh0FrDJ2Lntzej75rh8BJg==|LmrxtWzQmXgczw8iyRhTlSHuD7PkiLT0oFbleyotmW0=|R+e3FFGMQRj3D+hv42RF4yzmafycTA5DUI2GAXl2lTo=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -3363,6 +3512,7 @@
       "name": "2.JoOB7g7ukkVwzTaWPu4LMg==|lMBOO30vy7DtPVP5WaBoyw==|cXqpTzL1ax6IQP2ScydT32rCRzCoqvh3ILAxF+kt+9c=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -3387,6 +3537,7 @@
       "name": "2.YaQ9X7SdTT9atWePEpbiFQ==|9rB9XD0en5e6K1FMkQl55Q==|6uTJ2aDPyMPvD7v2wBW8sEl1QMv2L1tbIBtZXginLPs=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -3411,6 +3562,7 @@
       "name": "2.05wGptaWIKfnGbLnsYv5uQ==|++g2yJcniQ4dfPH4RuHSaA==|AtQR98WwIRZLgVNMC6jcyo6sq8vypIrgcvRLZ4PNz6c=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 0,
@@ -3440,6 +3592,7 @@
       "name": "2.gFI2B+BNN7U/TT6seVu1uw==|3NJtUXIOQaskDKDJ+0f9WQ==|VcOHbKtX6dowWlxgn8I0TFKPYZ32HQv53e85B+R6W0k=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -3464,6 +3617,7 @@
       "name": "2.6muSEj/++Nwn4aFj+TEl4Q==|2AxLSmWgwEsYmTTv6ED/sg==|P90WmzM/L+4MJa5FtIP/SjH4sThih9QDGRxYs7wqVck=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -3472,6 +3626,31 @@
         ],
         "username": "2.3IdYlPD0lxw7MNArZoyUVg==|FqppmTjHEXJBApXuh6Rcj3NsuAxgYnnx08/ZZKMB3ek=|ajH3vrImiOEU66TjKm+DNvd/4yuOaUupM6lNvxsS0J4=",
         "password": "2.aFFbhqMLA5XAzVUXSV+3Iw==|9H+hV2zzxIBwZkK1xQvmgA==|oBSxUGMV7vIuOYciX7SsPzHuJKwJlU1C54x1Iikop10="
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": null,
+      "revisionDate": "2023-10-19T08:44:48.427Z",
+      "creationDate": "2023-10-19T08:44:33.914Z",
+      "deletedDate": null,
+      "id": "86e72f5d-ee17-4220-9e16-345db73ab4de",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "2.L09//ngs4I6gSndkQhlNaw==|uBwBk5H9+LBqjMXgtawE8Q==|cXtlw8BAJpsDRKih3nNPm476LfyfDpqSvQ+rt+0eP/k=",
+      "favorite": false,
+      "login": {
+        "fido2Credentials": [],
+        "uris": [
+          {
+            "match": null,
+            "uri": "2.7kLqmr9U/7+xI3T2cUWuIA==|RUftBciBA4abrISFG81RF/WXGtuh8k57TZduLXWfZ9M=|JnWTIvCczgo+xNMRSd9LVw9NIBgmyrEpr3fcikPtzWw="
+          }
+        ],
+        "username": "2.xpmu96YKl6fVTEBs5jHHwA==|SuQ8/Ce3SaKAjgHx2uXxcw==|y+pOQElxXCOOgvv6R9gntg6fFZdMv3zKrR4JvoLvF5o=",
+        "password": "2.n/nWyPhNgjdAp14s0ParaA==|zMgb0KMYWkERYkoX6cEPLw==|ZUBA+iyyTtGmTlT2yBOWCS5TLsUDiBNR4ZI2ZeJfSeI="
       },
       "collectionIds": null
     },
@@ -3488,6 +3667,7 @@
       "name": "2.QC9FecDLP7AeArpXLjNGLQ==|jC1ItJOWMRAWitxTSDBE9A==|PX3nx1DNTIlRmBz00tyEOiSZP0mzwp5aJxqUi+WxTz4=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 2,
@@ -3516,6 +3696,7 @@
       "name": "2.zrJeQxgzz9FxAUV5fPeBFA==|JjHTChdxf+I0eeHrCnOeWw==|1lYcyzecl57wCGGIFM0APX28CQqR/nTXuK/wdTzWMYI=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 0,
@@ -3540,6 +3721,7 @@
       "name": "2.Y/ZUgtu/uk6DLNiWxywHvA==|JshcXy/Dho7bT65U5vut1clN/Lh5F+GBXToTYzHP3PA=|nkomARsde0qWflsfvIngsxAJJVif9sinmaLHgzXVP+I=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -3564,6 +3746,7 @@
       "name": "2.dSAeMwmOPM4aKnFdIKmuJg==|puhFlRbmuIkx9IO3uotN4w==|k9EGOLBBzoP0CziJeO+iVAbD5Oe6YYqedr0qVU83O8A=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -3588,6 +3771,7 @@
       "name": "2.66LKaYs69l1QG/VNzpVsFA==|ZfjGIQ6lwmOhZIzreher7Q==|z0NMpMkMlnHA8DUlEhtnxCYArvIq57rDps2JnJtZF1Q=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -3612,6 +3796,7 @@
       "name": "2.iKBjw/ocIdxsAegV10rN1w==|Gdfdh0tgm45WxCgDkscJPQ==|aP6ZeumqeTJdmdSwZ5qVq1oH+uCJJJGgVjiEaHV6SMw=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -3636,6 +3821,7 @@
       "name": "2.2YMOgDIUbe9rtVkiBB92jw==|RPIpEKqwAHlF/wlP+FZb+g==|5s+jPK5TWGV6vUxW3rSllHJzqxrUQx3LjlFP2fmfeBM=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -3660,6 +3846,7 @@
       "name": "2.eaLNC4O/U8faZy0SnQrEaQ==|dYlB2IQfuS4TgwZdc45NQzE83fXNcnQMQOAUZruCJWE=|jRlcxK88zIwXGce4KY7H37uWeTpufxUCwUV8AOdmH6A=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -3684,6 +3871,7 @@
       "name": "2.j/95uGZuZPbxn4T9E+mx5Q==|Lea3KrGer3I1Ux03IC6tmA==|SWhE4iowtB2gYAdRdq9QPgTMci/SjoT1PSgWRtaHmSA=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -3713,6 +3901,7 @@
       "name": "2.A+3yMlfnwBbTpvuD6M5phg==|2Pa974BW8D3h9KGQ7rEwFQ==|nvTEuwhMYUkrGtcXbkFtxzVVoJYV6nDFgriABK4WM3o=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -3737,6 +3926,7 @@
       "name": "2.Arnq0me0NV7fW8HqIO9wtw==|HuzrpbrBRhEFx0knMID4ig==|RX2m252lsPt1nSylOcQefQ2R78yb+bFJ4GTLvQNWLwo=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -3745,6 +3935,30 @@
         ],
         "username": "2.TW8xZAlKB805bHOhKF7cLQ==|8eGXKc77mNYvHsJ2/tZWrA==|O/KfMKMB5M2dSaagJEUhJC+t49gylgOTA2/TSrNmoo0=",
         "password": "2.CNch/zNWfLP67rzC4PyzmQ==|c8s3snYlda/xLpgv2jkLhA==|0rPR7V4a32ZCUdRci9frlV8PAQ/zAYE73kNOo4vzhK8="
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": null,
+      "revisionDate": "2023-11-07T11:54:59.879Z",
+      "creationDate": "2023-11-07T11:53:55.516Z",
+      "deletedDate": null,
+      "id": "930cf157-a944-4a7f-894d-3cc8cf382366",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "2.0wtUctVd55LUABNzJ8CdPQ==|8R+G6cJjz/03xx9k3e6DJQ==|cOJmwu62om1da88/KQbxjIdH+mRWQ459n/dAh+WFRL8=",
+      "favorite": false,
+      "login": {
+        "fido2Credentials": [],
+        "uris": [
+          {
+            "match": 4,
+            "uri": "2.YO+ihq25/tmR1UK2b1BBHw==|i5PRywSCFwkrVaLa8jKxQ3fDfAy5tlbOHp/qei9IKNezXTDadbXIzaoOpFWHSSxe|5PVvoFR1hycQM2wACq44LUJ5uLpbCUkqYHP2zJNJtew="
+          }
+        ],
+        "password": "2.CGbUzF09qmSjss90k/mcMg==|488l/9SZ8CTfhVcuSHpN8dDT8lLd4L48pk2lKup1gg4=|MD25hFUAE35SzmJiAG3A5vl2uUTsVMbRmcuw4wMItq0="
       },
       "collectionIds": null
     },
@@ -3761,6 +3975,7 @@
       "name": "2.tNNfLe9KY0yzM5SaNo3GSw==|LlVJoyIhQdKHsa9JX+CSPg==|HmlVBWhvhaUS9ek+LJy9EjfWkS+Vm3qZ1wIRprF1NL8=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -3785,6 +4000,7 @@
       "name": "2.tT7HR0G8Znx0yNpZuv295Q==|ELLBQJNXPLCcBpP+IETOFg==|79nUNqsQaDTh9xdAYNPNpfnsKOpIqiB+RA7t2YyNK+c=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -3809,6 +4025,7 @@
       "name": "2.zHses6xSUmSr4rVjuwz2ug==|KMK+uKWESdCYwka1sNuzjA==|V29NYO8q5FXHsQnZIbmRjIdUX3Xrlz6ItHbuHXh+vas=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -3847,6 +4064,7 @@
         }
       ],
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 0,
@@ -3880,6 +4098,7 @@
         }
       ],
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -3905,6 +4124,7 @@
       "name": "2.7mMMn3v0nXF2NMyYNTMR1Q==|1Ki8FTDvyOUXLg57Te/Zzg==|4QBA6TU9g6hpj8vz2XOluqN1ef/nz7HlsB3mIaQDGsI=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -3929,6 +4149,7 @@
       "name": "2.SUt1iWndX+/UoLmkMeON0w==|34tfFjNIW4RZ2eExDJSkvg==|YebMo4zOIkPcuPNSlxLv1qOgcFX5WmzVowyKYvx6hGY=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -3953,6 +4174,7 @@
       "name": "2.693RHBbyrYAUfK1gE1QdVw==|E0Uu/U6j04VQYWq3RFJO7Q==|kvB7I9/dATZevAHjNU983J/A5H4t/nFMfsioAY6vLAA=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 2,
@@ -3977,6 +4199,7 @@
       "name": "2.Hfvi3hL+63XkvdCNU9SMvg==|TmAqOs61AStcrhL2Ox/yBg==|j/spZ4+Vks0pWb2aGM1u+1JPHUfwNXY6NHK6tINmyso=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -4009,6 +4232,7 @@
       "name": "2.6Ufnf09XsXl8WK7gSYazfQ==|+wt8I6ZxAw0dmryTK40JTA==|py85JxsCdkMrBPloYO4XJR/5jPnyFpa7zJiRrdI/9mo=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 2,
@@ -4033,6 +4257,7 @@
       "name": "2.3d24t1hyzcW/wzorx3xOYw==|AgZMCSf4QT1cxxpwx5H5sg==|9K6aOLvk/IAP9e8IIApgU3KpcfGSiEMtALhnB+wOTj4=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -4057,6 +4282,7 @@
       "name": "2.ELATpPnmdqzMl4xEneQcCQ==|WYhZS3mRG+VGNviB+99SbA==|B5MgL6e/cg1Zvhj1w/gvoL12E+xtgMqKL2Hfi7zDH3M=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 0,
@@ -4081,6 +4307,7 @@
       "name": "2.g6US5Vu546JcN6CQ5cYrlQ==|dbAv16xrzgb9td8flKI/QA==|vVDam+OoCP8w32u6vhQrFNffEI7ccMCXSXngOBc4Cko=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -4106,6 +4333,7 @@
       "name": "2.chz1S5ciZdxH4iCv+D6QvQ==|qbt1GXRUPsub/SVnnGBVR67SlQ+pWMWicoXfYLY5WDI=|Qh6ArHXK1tnvQYYnW/FQqYyRiHKQF5uBvswT+pWUyZk=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 2,
@@ -4134,6 +4362,7 @@
       "name": "2.9wPsA8t6ldBCW2iaP6Mh+Q==|84Rk2h2MV748C3ggUvWgBg==|R7CFJZagULSM08iQ+Unega2qvZZqGtMSozswfISKYkA=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -4158,6 +4387,7 @@
       "name": "2.8uOEVZdsb+a+NvE9rwKpKA==|ZfkgPZq0tK0wfvhex/YDlA==|3fhyjFLT0bQ4lDwjne9FVqbJVSeHjvSm9kI0z77S660=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -4182,6 +4412,7 @@
       "name": "2.XPEAewgATAvKxM9i5EVltw==|wB/wjxExxNy7u7zXpypWdw==|ygFkKfykcdF2eqseKVJ5KtSZYGlxICfv8woKpytxHzk=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -4190,6 +4421,31 @@
         ],
         "username": "2.2BbaHHM21MNvp2bDz7pUhQ==|T2sspIKyK/wUe81lApSgMWshst93rZARP8IFalTHjgw=|VXz7anhYzDs12XlTGQXXVqtJBLW89kRdvSwtaVkumKg=",
         "password": "2.AERRzPaur+96o3Cp2wrxSA==|3j3/02zixAkxr3pKiiNfeQ==|oCZH+3U4TEW6P5b1PsBEj6HO23GD7AcluIgurByPSro="
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": null,
+      "revisionDate": "2023-11-09T04:50:19.288Z",
+      "creationDate": "2023-11-09T04:50:07.397Z",
+      "deletedDate": null,
+      "id": "9dac1c5e-49f0-480b-885b-8e143d18bf27",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "2.S11mw7TVawKnoyGGERNHVA==|xnOh5Ic1UBrlR65zEaWXsw==|nMjGKFLiQZD0e7FM57bx1uzuPBs+h3H1EGAzUTkOQWk=",
+      "favorite": false,
+      "login": {
+        "fido2Credentials": [],
+        "uris": [
+          {
+            "match": null,
+            "uri": "2.75U6+RTgvw2XSciNZG5XTg==|3RXW8PX3FxlE5qcFKBkXlJIMuLNY7EfGQvAiW/ZhFiw=|8bGN88rjwWxqpNc6otkFAT+ibKUjRU7oTLXfsUXM+NI="
+          }
+        ],
+        "username": "2.m2DBdFQPIJoCktekbjnPFQ==|+7v2a9gIRUGfPtDNYmfsFQ==|kzcQf4w4UdpW6sVLP0JQIpJDyi7OyXBk89s5B6XeoGw=",
+        "password": "2.EuVAfBXV5jsJ3Z26yJRvHA==|vY2c/tCfVipqr4t8N32fug==|fKvjGxyP1ooXVb3y6QPH8z0x4D4SFAd4zvsOMUnzqsY="
       },
       "collectionIds": null
     },
@@ -4206,6 +4462,7 @@
       "name": "2.R1B6yVXDbCKoqN0bi9ySbQ==|NZPfKj0Y60ryoARg7w1uLg==|vY91AUJpb2fA02+AdCyIcvMo2/B/dOT7v9eMAMj8xSw=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -4230,6 +4487,7 @@
       "name": "2.l6MqZvA3cPA+4dZ8vTc86Q==|6yY3RjIKX4qxcfVg4unXTA==|VffnqbugebP9JPRlV76vPGSyLLGdII+gUAJ6oqqCbSw=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 3,
@@ -4254,6 +4512,7 @@
       "name": "2.W8i0oHkJQnsEgiuQrJwJig==|qt8uwtxzowjxjDdIDZRZTw==|RM4f+ms1MVMdpBHp6hICXY2pb7LTtzj8sPjO8cmn3T4=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -4278,6 +4537,7 @@
       "name": "2.nF0pwoEALuJMtg8Z6iTroA==|zFd+srHwZcNgNOv9A1nDVA==|8OJxpgzZLh0TL5dDI9qhcFYdoSrbOEHfXYX4rw/EcMU=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -4309,6 +4569,7 @@
       "name": "2.RsAzZxrSZWjZggbRoLZ08w==|vdaYKaZYWeKwBUZOcvcSdw==|/sKEkFhCU3JC2RSkBzSCIwCffgpefCXm+KDpI1KA7+0=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -4333,6 +4594,7 @@
       "name": "2.6vgfLruuCho6O33DraXwMg==|vuvkjalHQdPXiCnM4CfbfQ==|Tgtm1Pm/fLD2YRErGTCZ2KoQ5HYneYjAPTMdwzLJ8vs=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -4357,6 +4619,7 @@
       "name": "2.Qn//cmJtgy7Z8mi2R35cgw==|rOE3G+Xdnj5d1HHXyD/BbA==|QTh24KzEThNnJmdOjake698H93hyr50LSR7/dkrgiAI=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -4385,6 +4648,7 @@
       "name": "2.Zo+uDoUmgbqcsQk9Hc/xuw==|KzXMTh7kmKBCrUxt9DlS0A==|/+rue21MtsF7Q/6VZ/5v47xbDxVYb/QANzEeZD6VXEY=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 2,
@@ -4409,6 +4673,7 @@
       "name": "2.AvcoVApKsIp3JW9/JEvnPQ==|vBlwTCjQuv3P+tK6dphwyA==|fcjV/BQxj/k2+gzymCXXzz2GVbwk+vULhX/g+WINHjE=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -4422,7 +4687,7 @@
     },
     {
       "passwordHistory": null,
-      "revisionDate": "2023-02-18T16:09:57.793Z",
+      "revisionDate": "2023-11-04T01:41:09.892Z",
       "creationDate": "2022-09-07T10:50:28.431Z",
       "deletedDate": null,
       "id": "a690d67a-99ea-4f30-93a6-572704f3c29d",
@@ -4430,17 +4695,22 @@
       "folderId": null,
       "type": 1,
       "reprompt": 0,
-      "name": "2.zkws7qC5vxjm0AGkLHO07Q==|UmNUw6SMBh6K6Wlx24J0Gw==|UOjC5zBrjd48E2+RCwvMBbjLGP/3vBK1YpXgvIT31xc=",
+      "name": "2.eVWf9JAKZuMAoY1kT8cwHA==|HmsHXIU5CeHluN13tRdsOA==|UBfqfni46ToqMzffEOm99K4ghnXkbpLknbtx4+btCEg=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
-            "uri": "2.axjymBkE1UWcrUdtGRcfEA==|/eTO+NfSpLaA5VxXm0bm9G9qzP4LZSBiViuWqt0UFfc=|ClKCOmrGqO27//ivgO1JbzaxqFCO7bSLwKPAiDf+8Dc="
+            "uri": "2.u3KEyj3+5MASyskZ/qYoMQ==|qSQXU5epsj0I701YgExoMszCxMO3B2tfx4DOSjsmhyM=|K6tFpz5A5LL4lwaoviVDeriJAhoRcQ2ttHVTUZfzlUU="
+          },
+          {
+            "match": null,
+            "uri": "2.2WurnlTeD0ZX1Bb8aiLAPA==|vEWTGhw3HaEo/IrTJ2EjwCZAkU8meXxMUQeh6goQmb0=|RS8Ne2F2njNrUbkeGixpuB/aSX/rURmaAGSEpqeks28="
           }
         ],
-        "username": "2.8T6ZfLJ3n7l/FPofabQiTw==|GcLRdKCwkyjIqyBqhrCZrEXm+ZW4yp1cj9stVrBUP2M=|RPHIYyg2HbpNaFlJom7FCEXBl4KEkPIyeP9iEKQiXGs=",
-        "password": "2.5dX/j8HhpUmlbFyRGEKOyQ==|rJHb548o+OZsb4Lq1Wtn3g==|PguMvjMjuA/WaAQYK6kQqAndLRRZQMTTrgHwk8u830o="
+        "username": "2.RGAhtr0CQiCxLL8FxonGvw==|/THV/21+K9xB0YW8jD7IWAP+ozQGM6d6GlZj4Ta3Bus=|GYtQqF3fd24PDIv2CUIzws8ZbKqcQlMOj50S+4GPzGo=",
+        "password": "2.+N4r6cUgaXJyW76nhPV9iw==|QKKMTk1c8jmgEP/KVq/z2w==|c7gSXBIbu/LQ3la/m45+W1hgpW2eBu7I+af6QWJwV0o="
       },
       "collectionIds": null
     },
@@ -4475,6 +4745,7 @@
       "name": "2.bFOR5fYqH6doueOYPXbD6w==|Azkm2Dp4G++DSdYJUicZQg==|nxAwhdwybRbIkF41OoEJMvx8qkf5IyoFLf/eJW6R4pQ=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 1,
@@ -4499,6 +4770,7 @@
       "name": "2.tjgTjFMgr1f16Tca0VwH+w==|CSX/mN+mYv2baYNBqBYp+w==|fnwij+hCwxjf5DJGGpLnrg0BXY7pIm/FhSD6JrBoBg4=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -4527,6 +4799,7 @@
       "name": "2.M3SP33c+pqpXSbI2xjwR4Q==|3c4GQny9aEU5TWyPd6dbCQ==|oT9nYIQILvDuplrIO9akj+w6jt6lpJnE6Ge8xzvhCkg=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -4551,6 +4824,7 @@
       "name": "2.8ioibbUGzVlbnF16Kl1Ifw==|PUW7JcGxNyR7qmKD4WLPig==|M3hKuC7+pM0jxcMhBWT5Be1KBUc0sTF3SygnfHJx4vI=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -4575,6 +4849,7 @@
       "name": "2.jB290lw0Iupr3y5lpJW0mA==|kuYUsVJP0BHQXT8f42uNcsJQNjgQVGB/rw0A7vSixqA=|V7tvBwkEHswos9Or3H2t//qvOVlWhLULRIpmQxrmopo=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 2,
@@ -4611,6 +4886,7 @@
         }
       ],
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -4636,6 +4912,7 @@
       "name": "2.kOtzac4vumP3cbBhZ4FABQ==|1s6Jw8yQ1wt5yh4qNTLkyg==|mITD+l6wq2ju1klqARyr/MtnEtR6MLalRWIIKpZQasM=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 0,
@@ -4660,6 +4937,7 @@
       "name": "2.4SuSmf0ViENP765KQi/b7Q==|b8LW0zNJwnIhyZG+9UpJWQ==|5NVYcjyQqoLTIxbWSfGJ+WsFQouTd0+wdnpwTFXvIFg=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -4712,6 +4990,7 @@
       "name": "2.SqEN/wRYBwUs5CspjIsfFw==|083Fpf+8FhtDkqJTOkgnSg==|TliBEVF6c1XSuNYKmAwJPRBq3+Tlmi0mYpu2Snztsr8=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -4740,6 +5019,7 @@
       "name": "2.pgBXct7jb0SB7yU8700hDQ==|xl7iQIChiy3DQL0pw8CY2w==|t4OTLghKY8Uk8Drj0alxo5NlwEwSNdLsBX5bB8Nk+IU=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -4764,6 +5044,7 @@
       "name": "2.74e3H83m8FOa6wA9ZfDBjA==|p/g2k7G82jT/IM4UyDkjcg==|igxQqhdT3YhGGpXcBNXYXAC3AlL4GuiIhKwiQfgKQhA=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 0,
@@ -4788,6 +5069,7 @@
       "name": "2.vfVdySNVNYq+UutneixgOw==|Lbnr6jWUpcmuarlMxgstaQ==|ydsNEakgoVF7T96xteyPcjLddvmjyFn+WjXJItvTH4M=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -4812,6 +5094,7 @@
       "name": "2.coVgFPRR2O3uVkaTaB7PWw==|E56F+QcxVYzOeHmVG3H+Hg==|YWpFnLudpcWxG7Bech1VOIqmNGqbjINaBC8U1fID+as=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -4836,6 +5119,7 @@
       "name": "2.KmL8HRmd3NtpDEucFPnKDg==|U2M+Wp3FUuikFDxGNPOrfQ==|HdM2pGjqP+ZmsMozZkgilf/XQRkaRK8PXnv0UaDM0VU=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -4860,6 +5144,7 @@
       "name": "2.bknHRk9AO1/zoXP2Oncxyg==|5ge22/mP067ngjIWuDQ5AA==|yhBBPoMHiibCh3cONfdUmxevF5oHK9LhT3Ejsokon8w=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -4902,6 +5187,7 @@
       "name": "2.bF4uVWLJVZvvU9dsG5JUqw==|+lt2do4HhCPOOGpaQaEmgA==|81pN2uNHNYYmsj8rYEYCdQIT6HgxTlVTkFPtwi+BTaE=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -4926,6 +5212,7 @@
       "name": "2.HH6QMTGGUpdY3ZVVhWaARA==|Y+3YS8vWdnH192x2RUqAWA==|4WAf1PmewJobK2RiiVflaNhN0A14C/2F9l6PZ4sxTh8=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -4950,6 +5237,7 @@
       "name": "2.we9pjeDvnFk60Aev0VRkmw==|Iyssr7t4koxZmCh2jBQ4ZA==|CYpgysoXyhyoXCxJavFZA3wwGnsmxMuIt63mMgXr9/w=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -4974,6 +5262,7 @@
       "name": "2.egUzyJ0foZaHQCbnw760yg==|sC6BQ9/K88dof04KD+fH0Tvu6Vc+i2t2/hv/V9Mv4WQ=|GJU7ZJvBsHXiGFpbi3JurAjmo/1vkbcFXMY8VNTUwAw=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 2,
@@ -4998,6 +5287,7 @@
       "name": "2.Cq6p7SQ19wkTJZ19g8QsYg==|WUHYzhYEwCUMbaV9FGkAXQ==|IQhcAAPQI8s9T1x5jfxjIRhp7YMIyT322Esba1jj+GM=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -5022,6 +5312,7 @@
       "name": "2.kaO++xZInBVW5a7Jf736og==|83D/MhJ3d/vE8rlWpApKzA==|2O/X2yuwT1qbY5rvfIWhefm0FZJK1ZBWIM4FaOv2+5s=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -5047,6 +5338,7 @@
       "name": "2.cfCGUMQ81b4bjDnskkzy8Q==|Ym+WVcjHhzvozTms50mgPQ==|CgHbISbV96Z44TWiXd8ZLvW9Iscx0wpaMfZ8NP3I30Q=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -5071,6 +5363,7 @@
       "name": "2.QO/voJUyKB6HxB50U8LB6Q==|04611Xfh6ldu4NT87G6+qw==|OI8e36gobcJAom3b1rtUktBZnteadG8i9hLaB9sLdLo=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -5095,6 +5388,7 @@
       "name": "2.wc60e80TsD7rMF4uLPvtmg==|BI1IIKKXjNqTDBZlv2eKUg==|v4wJUUrJJdvpYelDH02YzaqBolzuB5F7V+Q+JWPRZCw=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -5119,6 +5413,7 @@
       "name": "2.UWB/pJsJ11tlHLTk4s0V8A==|tDQ2LZhvZAn3auXM9RSyHQ==|ltlrlG0lDwYBqcp1XmSwjYAZII/3plK0tC8pcxifCfw=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -5143,6 +5438,7 @@
       "name": "2.A2xOo9+VF6Mw6SDMJbHcew==|nGYJXuQvl1CUCIfalh3nFQ==|/4UxooSxCsrsM7IL+A1jxg8vupm0Fjvd87yKpWi6jik=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -5167,6 +5463,7 @@
       "name": "2.WuK7B2H0SED6MYNPPCNCoA==|IBUjFvYadvM4ykwdnyCNMw==|KtDfbgphBEFAa/496GEYVlaXJQs2oP8hD77Rmx7G7C0=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 2,
@@ -5191,6 +5488,7 @@
       "name": "2.BKSRatRO1QP1uJ0iYi7+lA==|NrtS+0xowfKFpGFkxf/KMQ==|fH1ojXqM5r+jvfY8WCawmHsC4Gr4Vb3js1gW89CtuRg=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 2,
@@ -5219,6 +5517,7 @@
       "name": "2.he+j5qOAqH9/DETOJEK//A==|aPeg3Lqm8PaN6cFk7swFPg==|7bJ7eUJcsn/Rd3FmnI0svgVtDFw3WxQ6C32VJNV8jz0=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 0,
@@ -5243,6 +5542,7 @@
       "name": "2.6pRnDFH6JMWAOsQOTqApFw==|j/ntEWasBo8otBCy1odoZA==|Vh+wPnZHRUt8QnhTQu5Mfbi8aI4it9MTssh3YvM4BGQ=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -5267,6 +5567,7 @@
       "name": "2.npA/QW7rVv4O9jug+OcfeA==|B1oWY9SznLyeH92yHJ4ldQ==|1elU8XqEQKohc7S/6PX3bxFfy7x+8UTjIY8Jv3Y5FGQ=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 0,
@@ -5291,6 +5592,7 @@
       "name": "2.xOfwU2GzCvP70bPU7223ow==|NDFa2AjHGEl417iVGJfJ1g==|nDuKXIXoRQ4sxMKaLf/iygOwlTUwED9H2GBaU9W539Q=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -5323,6 +5625,7 @@
         }
       ],
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -5347,6 +5650,7 @@
       "name": "2.0TtRs3bLDc+LDL0czQi6HQ==|DNEnIgPwWIRB7nf/hxAAjQ==|tRxl1E3n4G7Uap1fEDLAw2nCFMrzqYBBKYXMX5g1qfs=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -5371,6 +5675,7 @@
       "name": "2.vTZZI/Dx5hYy3F4AP5eTxQ==|pONI/yDOXSey7ECZql4ALg==|pH0psbtR+7Sw1Z47PIhkAS7pTEis0o/z2/xod5FyzNs=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -5395,6 +5700,7 @@
       "name": "2.0/VH/pU1ZikdZB7bo0DPaw==|otu1WHBBM84JSlRuGIEGQg==|NUezjSpJUFpCumWoFk/T5RbqBJmXroseojh+Zf+e7rs=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -5419,6 +5725,7 @@
       "name": "2.GYOFwPwd2gGAWJ/Cazf3qQ==|meGQ/OlJrTNV6OmuwWSIYg==|LvuIXCqsP2BProCM6GqlcBJk5BYxpRScLxYrAEvS7S8=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -5443,6 +5750,7 @@
       "name": "2.wufzqfTZA3ERDsW5tPYVZw==|5EsEvCf/Amh4avSn/6k2cw==|/rLLmYw1gR8H52P629znc/oqeiq9kTnLM/iuVvborF4=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -5467,6 +5775,7 @@
       "name": "2.bsNGNEpBuYdeg3KG6NIK1Q==|pi2/dxzfg/wOekQXMcuoEQ==|pL1+QhrnD0+m2s5al/UqniwVIEPWnsL4xa5NSaPbrGA=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -5491,6 +5800,7 @@
       "name": "2.OHjX6LAfRsp72EKBHUrCsA==|JgeDk7gh2Ypfyfu6nDh91Q==|k9+Hv+ZgiE/CHUJ9LRkbefBDXfz+K4Y7KLv8y/YHXKk=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -5515,6 +5825,7 @@
       "name": "2.jIzDxeq0S5St4j16Nevcng==|HOz9ExLCN1WUufpTBFsAAw==|KV3SE+ceCi6Co489YKNPsa2g4MDAGzeegUb/YCQYBq0=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -5539,6 +5850,7 @@
       "name": "2.mw5rzS9rb+Y1KgeR0/UVUw==|Y25UZngC7s755Dx9aM9KsA==|Gb3/f3Gd0SB149sop7ceB0MGXWPraTsQyjzmP33l/QM=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 2,
@@ -5563,6 +5875,7 @@
       "name": "2.FFtpxDGay7L6Q+p9u17D2w==|JdmhYg4nFvtTEEwdLaB+gw==|c7Vy6KR5xrRWB7acPYEWmT2dRYYnyOM0y2aU4vD+shg=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 0,
@@ -5587,6 +5900,7 @@
       "name": "2.w3bxK/aBzVDh+R5h7SwYRA==|T1U7ZVms4nzmvWMrCYO+Kw==|wXDI9Z+um49HOz8bQiechaiDB5Kkwa0H/s2zJMcmpEQ=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 0,
@@ -5611,6 +5925,7 @@
       "name": "2.XxCBrl8NHzj8nCT7GFeVmw==|Ls1yz5ntuCiWaIlyoRVkdw==|Twt4rpux7D5LGUpCPjMilebJnCx4BGyRy7Bw2NvLGfM=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -5635,6 +5950,7 @@
       "name": "2.bHvTAor8nYkBBL6oFRM/zA==|RMrETHUKnN/SEPbXpAya9Q==|ZAlNNGZUKWS9vJ7qIo5/roi0v2MnjSv1i1vSiPyMf4w=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -5659,6 +5975,7 @@
       "name": "2.8Wtr7gNFBdCWMvCH0nwLUw==|jpNwhcmukZtT346SVsbSIA==|4EH995ezl4hHmnmB6ec0wJSrlftv/AARO6T6mk6a7HQ=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -5683,6 +6000,7 @@
       "name": "2.arpJi9DJ/N8/6Uj5ZxZ1cQ==|8qeZ2Tg8O/Y8LSE+dR3F6w==|h4JzhNE+y8c/cAFuH5+q+myuYDBbwpBWgBcfYuB18a8=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -5707,6 +6025,7 @@
       "name": "2.DK3AZLJz7S6LIZPBSuxemg==|SC0MrGjZ/T2JVmp4pCPb0Q==|xBSxNFv/VuUmDgSY3I8OMLo3TZbnsg/2IuZksu8koeY=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -5739,6 +6058,7 @@
         }
       ],
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -5764,6 +6084,7 @@
       "name": "2.JiBa9hT7ZVwBsPnTzj5AoA==|Kz/NQJLVnMsOipZDS3EHWg==|zUCpuKibIhqwK/+DGU+hiBYI/o8FUlbohzcjpf5SSw8=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -5788,6 +6109,7 @@
       "name": "2.PCeWTpAvPbvNahiixqGLpA==|Jbo/rm40rNqPc8TW/eWCow==|qh3wrCfiXVbGFIbF170LALs24VKncEglO+zxQrLVUCc=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -5812,6 +6134,7 @@
       "name": "2.gLywbympC50iTLm1Qmiamg==|90T2mVzWz+RC8TSk0oM3YQ==|URVbVgPJJsebziZsRkyUaloGQW3JnCQse/RQAOFD3HM=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -5836,6 +6159,7 @@
       "name": "2.GClh4uk5ODNqvq/IdDr3XA==|k6wMzA10EjJQYaZYPApnAA==|yeUDq3/If4ON5heC8MBPHY+PaRLe5Q80eLRR4auk3S4=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 0,
@@ -5860,6 +6184,7 @@
       "name": "2.xZE4y1QiGPC54C7cKdQBcQ==|T79bolJuINTOQl5iNaDBUw==|mZcmKxiTh5Ri0bPoqfnc2JH62aRU//Ml7r2fzc3nDZM=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -5884,6 +6209,7 @@
       "name": "2.jP0T6vH/3s6BjgKbD2EopQ==|hkH0/2qIV8F3SQf+C+7Qdg==|elkinq1vhundjOffq9w29T9YnEBhudJ35NYCWrnlQaw=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -5908,6 +6234,7 @@
       "name": "2.AP0yb4panQr3TMSB6lYd9A==|0th8ieEpEKCbpslmCiCKyQ==|75Iod0vTuh4cYNP3UY6aHS/EhHcGrI+ZYLflytTD7cQ=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 2,
@@ -5932,6 +6259,7 @@
       "name": "2.+3owHhokehucyTn45dTG9g==|7dRAuldKeXETg8F/Dkj4sw==|UJfs3GTJ9X8+pagWI3/4T/a05g/68JarWnadu5BNWXA=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -5956,6 +6284,7 @@
       "name": "2.mDRFYHj6zAZdcZgOaFktiA==|bKmhii+Yk0ZTbJOUtxCs8r56wEoP/1Zzdz/rbS2jMdY=|KP+3KEk7UtPiyXmDe0yxUrTwl3O30i69mQL4RE90lQQ=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -5980,6 +6309,7 @@
       "name": "2.gpP0pgr6zeoGvpmPutKCcg==|9kZ3bnhN1HNMEfG788X1bsdSfad5ssdK7G8Ne9/45Mk=|Bx8ofTKynE295GILpxG5PUKJjWauhmvMsQ8HAwPGkn0=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -6004,6 +6334,7 @@
       "name": "2.0uoAaFQXHGeyfmoGu+ZiZg==|bwhYUASCuWmh/oJdW+RZvA==|f8hx+r7qMCfaPutPHqN63h/H5U9I4RkHkbR2I1NkrHg=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -6028,6 +6359,7 @@
       "name": "2.ozARIt1Q3kTmu9IoOig2Lw==|cG10OPfCrPWSDMQ6NVJ7GQ==|kTJxS0qwrgjO+LUb2CwOGfMY208fLuqwMQJK1XV9lPA=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 2,
@@ -6052,6 +6384,7 @@
       "name": "2.Oz6gcNjBebCYfC4RZ7w4sw==|kNa7a3bJ90CqMQJzfBWZfA==|OMI0y8CzVKiNkVrtqul97WWJyMjul8gsXZt5Jhwy7m0=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -6076,6 +6409,7 @@
       "name": "2.qP1Z8/8tzaMNyf1Dqbu6uw==|1hsIOUz8mCIvRGrcEMgcQw==|WVURU7+2ulLtFA7Ky4+nObkj9xApy+T9KrXjADy8pmg=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -6108,6 +6442,7 @@
         }
       ],
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -6133,6 +6468,7 @@
       "name": "2.rFGWyU5309qLSSqu29kbIw==|ujCuUOk5zGaMkvu3xBaZmQ==|cn7DuI7qBbGDUs1d8Ikln0nBFvOH3FzPDTrh/OfmcaM=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 2,
@@ -6157,6 +6493,7 @@
       "name": "2.TerypcCIFhgNIQkCNvcSYw==|QhcBeUOILdUIasA0Dxb7Kg==|kMuINLOje/ZFXC91gNKaPPdIelyyrfSDk2EmHuqQRzk=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -6181,6 +6518,7 @@
       "name": "2./I2Sbv8vDs12Im42PA4wRA==|MafLGNFiWBm0HBbbwsADXw==|Edbv5uWpD6oODy0cqPp3/9KC2zyKTtSP/HLhhFzMwPM=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 2,
@@ -6206,6 +6544,7 @@
       "notes": "2.aFJ1gB6kO3JG6cYuIWZUrA==|HT3jMySEvOQNpVWtw9z5jA==|9YMIz8gy+80V65feL4dGoHtv5lZnwpBw/B4DnuVpDMs=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -6230,6 +6569,7 @@
       "name": "2.tL5Vix4DykYXO6Sw46CgrA==|rRlYRZoJHUjWsAvRsNFiUQ==|KgfHlPVACSiuNcdGfpb5bkUmNT1JKkSbwlOENf0ygTY=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -6254,6 +6594,7 @@
       "name": "2.4vB6OmdXTO9gdKYbBdydjA==|irjrbrwdcU7SMXnhen4VuIAB+ctrbBg2d+b8R9qNOsQ=|+rAbHQGRrXUB3YHc82I9Zd2zCFotvnhGW04wzoM1lD0=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -6278,6 +6619,7 @@
       "name": "2.x64E6K1bXIvkNYymcpXaLg==|bj8UkKnipNX1M2DZqPIhSA==|HeK0IaKhFItu4j4EO+0sbhBJ/J53Qo+mdph4mfGIhY0=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -6302,6 +6644,7 @@
       "name": "2.HkVwWmztBkCflDqXq85x1A==|z0TzZai/vyYi12WBn1XP+A==|RIo/ibNXTBUbcYoz96qjvlQ7pSkXc8pewP9DMtvTTTc=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 0,
@@ -6327,6 +6670,7 @@
       "name": "2.i6QnB7AScqTYZD/+xnbH0g==|c4d98rHw3hmjWh9SyfbW1g==|zpQgKSZtnRP0iAXKiVGCGRgJpfV8NEepJest2hT1D9U=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -6351,6 +6695,7 @@
       "name": "2.MFw33tEIAowMMDs5R3Ftsg==|6ZPWjD3+m+UaD++M72dcbA==|WeXKkoPjKHbF7wNIWioqSjHBJJY4CRmuoMkLQW2p+44=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -6384,6 +6729,7 @@
       "name": "2.aUXsgeLPiEtjSLvGVKAhGQ==|dW9WO/bXKiWVjcNnc+gEtQ==|7eLA1HExZntiXR82XTMIQWH8M15wVLPWXmbl9T0Mq8s=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -6408,6 +6754,7 @@
       "name": "2.lHakRGg8ptvqWWDeSJuceg==|NGooDYIM4w6DY2Qk5lRFmuCPpt8uePIXwg5ieKcll0M=|Ra8pKtk6Iqp5uaqUTdLDi574eUb5rC2PcbD9IkixEKA=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -6432,6 +6779,7 @@
       "name": "2.m9pT6ON091B9VxP2ky881Q==|tZKan+HvnzNkkFctbXQzPg==|VdYi5nFh1lJWegy5rpy4jZK0HWKqETWjWjXXV18d+Yo=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -6456,6 +6804,7 @@
       "name": "2.e+5lES/CPsLfqw1CqAteww==|xnBlpL+P4PxBhzd4tyI0RA==|QU83QrRawbAReuev4fjedadMb+5UIT5mndSXjnMHt4c=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -6480,6 +6829,7 @@
       "name": "2.oClSlRDhs6nmVqoHg56A+A==|s9r0pjNxADlG1kpqrV/EOA==|oKeLHJzDHNSFUj2+1xzy2gyAwzntEGb2d6zANTl6SEM=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 0,
@@ -6508,6 +6858,7 @@
       "name": "2.6CaeU7956cw+eU8FEU+HAg==|kT1xYHyiingDEWt/syx3kQ==|HhdJ1C6dBW9ep4vxbEDKD2JQb5rP7T+ygTKYI8KgcJg=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -6537,6 +6888,7 @@
       "name": "2.okny5puo2dO3UWdEbd9VWA==|rMCWGw0ZUZBz7F5IvqB7Zw==|bpIDqtFX11EzXASDIGKNl1lKi5FHPb3g5lHRO65lais=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -6561,6 +6913,7 @@
       "name": "2.JTLzTGGA/Zg8pZBPeDvpBQ==|Oo0Qw7MaR33/3hmQOIfRgw==|R5n7V1nho8NI4TxHqyevfEPYF+MjaEXyfmjTgQRPhug=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -6586,6 +6939,7 @@
       "notes": "2.RfAcxOHB382RuwieYvu7Ww==|ykqcvdUC1BAHiTPc3VkUAg==|HErNtjPHFkYCmW5ZHmQjydmfy5GioXQ7PU4xGKqHfDs=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -6615,6 +6969,7 @@
       "name": "2.9zFIpPy28wI8ehYx0ep1VA==|ic1m/856yMFINI+wxcAf2g==|2GC0BpxH1TZRjesxHtdnoA8cCMad3EfUrjIqKNcP4oI=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 2,
@@ -6632,30 +6987,6 @@
     },
     {
       "passwordHistory": null,
-      "revisionDate": "2022-09-07T10:50:28.403Z",
-      "creationDate": "2022-09-07T10:50:28.403Z",
-      "deletedDate": null,
-      "id": "e3ccd1c0-5a02-4840-8445-442c6382bafc",
-      "organizationId": null,
-      "folderId": "258261ca-3754-486d-a202-404eac5e6272",
-      "type": 1,
-      "reprompt": 0,
-      "name": "2.EFSlG6cZWjA4h5Gn4E41Xw==|W4U1pOLO4nJxLJjrRZw/gQ==|l4LmyPQ1rw53glHoLoNWe2uRTI0CPjYOKI/Up4PFXRw=",
-      "favorite": false,
-      "login": {
-        "uris": [
-          {
-            "match": null,
-            "uri": "2.FWXwvyhLFNPoP9xI+VUwOQ==|//6dEwn2yoKddCxps4gG/jg7d08dlSZJ3wzS+1teO29Ce/HYz3nbYE3vwnceRdVc|EnsdDy4h9rDotVKhvcBJgmo+/MiVzooCGSJGtaQnoGI="
-          }
-        ],
-        "username": "2.DViG5FVuQNanRM5wyJ6InQ==|YnRAUIhGCu8jfG4d4A6Oog==|syPO1jLAFKs04BISmn9YwDjSpA80D+ChqzVriVAT+EE=",
-        "password": "2.oW7N6UOBY8T5YPyv2QqFmg==|6T1gEOxG6zp/BHM6akKwpQ==|Fix4u1FZ+Xld+f8mn6+zm8n4kFy4NZj5D3Ff3Wl7DNM="
-      },
-      "collectionIds": null
-    },
-    {
-      "passwordHistory": null,
       "revisionDate": "2022-10-25T07:58:08.412Z",
       "creationDate": "2022-10-25T07:57:43.001Z",
       "deletedDate": null,
@@ -6667,6 +6998,7 @@
       "name": "2.M2GUud35XojyPx2JXJ7Dmw==|REyuf7uno4o3mjNYzQpRzg==|1K1CqcPkENteAUcfHmEc2IcRF8HoU1z10xGBsSX9D28=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 0,
@@ -6691,6 +7023,7 @@
       "name": "2.b2/2VYwfpAfO7UD6t9xvMQ==|qe/+B7QEdSSe8zGMPmXjrA==|9HWmEe8WGl40JSNYUI/fPktiKhvPBKkKwoxCKpg54SQ=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -6715,6 +7048,7 @@
       "name": "2.9LwGmyKlgHztW2vFmQ+FBw==|ItClJ522SqNvH4n2OFE6ng==|7NefkaYKYTHh4eP91sEEuNwura+NO1psmZ4wT+TJ00Q=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -6739,6 +7073,7 @@
       "name": "2.Nhxv94yl7DyKTtOVX/4mjw==|47C1+XGna1dUnsUXsuoj3A==|PpflbP+ZWXvrNkBzYA/b+ShBHXDwMPKNN/MCue7CD3M=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -6752,7 +7087,7 @@
     },
     {
       "passwordHistory": null,
-      "revisionDate": "2023-10-17T17:01:43.454Z",
+      "revisionDate": "2023-11-02T07:57:32.399Z",
       "creationDate": "2023-08-16T03:46:47.707Z",
       "deletedDate": null,
       "id": "e7003eb9-1339-43bb-9120-0756d7d5ff38",
@@ -6760,37 +7095,18 @@
       "folderId": "258261ca-3754-486d-a202-404eac5e6272",
       "type": 1,
       "reprompt": 0,
-      "name": "2.BQW8Y8FRAuyqBvxW/hFzEg==|V3GXfnblOGdZljbAeZWJ9w==|Fabhg6wtkwI8QoOjatDaI0WjIDJpSHr8lqHT8K1LawE=",
+      "name": "2.c4PsR3DUyN8t+wvRUsFKYw==|gyucgY8EgX48CKMmAmqU+g==|azOTiMp3eFmEP+MQwb2KjiSmTx5jpHksxHpb6y7OhcQ=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
-            "match": 2,
-            "uri": "2.WdeQbcG6oasM+w9huBGMMg==|nZjLRBzqNbSSa+/StwVpi2jh/A0TR4lZlFm0szBpGQY=|2I2hAyfV4a856/dX++2c2n8rfspDs5lc4wX40ZHu6T0="
-          },
-          {
-            "match": 2,
-            "uri": "2.+ceWmk6/LJ4vzDJTtnixkg==|1FW75Vz9siyAZx5O8VH/7AHe4dm6gAJvkRreX6uLyK4=|Zdij3k8olZUFF8eiDZ7WrXLiBGdcNOv01DRYYTQKZyg="
-          },
-          {
-            "match": 2,
-            "uri": "2.ugLQxIkvSB1OjrksCDg2Fw==|MQfo39TIQ0fv/GJwXZgF7u1Zj5aRyj1qBLymtLfWZnQ=|7nIpKthjnjijItZ/Xv6xFjezHmExx59x9iKi6w25uwI="
-          },
-          {
-            "match": 2,
-            "uri": "2.YZ3kPZvLDg9KwpjiKOM1AA==|QkJArOaQE1q/t/T8csPnuPyPpA5vfNZZSeoIKVWjeH4=|L7NFtf2HggcfQ8jfd6Z3vnEFQVJcvneERUXO44NxHfI="
-          },
-          {
-            "match": 2,
-            "uri": "2.upOtFUvrZyO5p4weS4chrw==|Ox457XRzStXbuU117jDptUr8/NL9uF9/a2DmMt2r540=|PRVl/FFj/PlUVu7rQbZ/44F5mdmloRsib+lWTm/Lpo4="
-          },
-          {
-            "match": 2,
-            "uri": "2.2kU/diRhjjtx/XDB3qmOiA==|E2bgH2Ios0r++1jBWCDLHh8Qj+fkGlIghCnx7GMkmuw=|1ZFzTO5bs6bCD1RQitvTFuDjsp7DnfSyFebGmbC5Zis="
+            "match": 4,
+            "uri": "2.FUvvQieoSZtUM3fuaI4Oyg==|j46RX5RDWLiQ8coSgkcpOpiu+C2eileT9L4OFKoXXfbMnIA+x9TuWblVwdwwao7p2OR7XDsy2ncsOn3eCyvQ7w==|SM6BhUTI9eHk2LJEEQMYjvi6y+85rtnowbKyY8B1wT8="
           }
         ],
-        "username": "2.f7i5El7II3k42orlermhfA==|jN/b5oN1L0J+7WGSLvTaLA==|wNjP4iCwoos33DABf1Uep3Gzs8X+ktpeaCo8VMnlZAs=",
-        "password": "2.pjqJ5ZbLtTUTshO+jhOrWw==|5eH9jkK/45E+4gMEa9NNZQ==|umxIozRqEKF6E65xNYPAUOm7qTizNJh2DezF4qmcwb0="
+        "username": "2.TuMgIFuVywB5t/sTlu4liQ==|SpvIQrUv2eVA3vqSikU3Yg==|4rjOE8ZD8qnlE7/xPKhicvGfmy515OzL92K7kKA1lBU=",
+        "password": "2.uKlRznIiVEaWxdsM+5uIEw==|I8J1EDOemnwAUSTzmrz1eg==|+hMDXOuLEVSCzl5RWAJG+HiXcJ5xG9MGlI2XC7tyniA="
       },
       "collectionIds": null
     },
@@ -6807,6 +7123,7 @@
       "name": "2.fAGpr7EhzzHL/Ufli9LQtg==|+GDnmupTTNS2yrzfpZNkog==|fUOvC/praq3gOTzNge/SW1Dj2UdLnBWvgoHyQCgEthI=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -6831,6 +7148,7 @@
       "name": "2.LYZriB02+RDzNiSZeyNNjw==|y7+A5ANFMuXsiI+Lt69qfQ==|lPY3O5mX0+jbhTFjB+zTiQa7PZLo+zmpi7srMs8ubR4=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -6855,6 +7173,7 @@
       "name": "2.KRFyDoDKRFvYuv2/6I2m1A==|3nTEGbf9y+2waIA9wPmrIg==|Pf9efGC321zBi03NbSTVqUKyDaRlpf8x0jd8SwXpDXM=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 2,
@@ -6879,6 +7198,7 @@
       "name": "2.ADA5grAbHDCFLft8DrJhxg==|dcaPfEVFhpoeYYp8dJptZQ==|1iGbHgJ++MIl1wdwR/N7xHEEbOMiPgTVEzR+JybTHqA=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -6903,6 +7223,7 @@
       "name": "2.Ye1qOnwsWWLVJ8aGCAgSvQ==|Se6XRiB8KRa/p5LNeLrRkw==|RT8PwFqe8metQWdjuULLVIkf4L3WJ6Xluqb1J+SlEwo=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -6927,6 +7248,7 @@
       "name": "2.n2QMQzru9d4w9Os/5ID8oA==|d7tl7G1YhQs2nksWdeczAA==|7hTb20CdmbWysLtX6v3BKBdtaGI+0Zp9sU0iYv6x/wU=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -6952,6 +7274,7 @@
       "name": "2.fDVGiZDzNQsDwJgBtqTUGA==|CtD/ktfFakJ8w0m7MEdErA==|mpXsrpMIwNfwfzPUVNQ1mZ4sSNOwNvxuMAia/p1HCQk=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -6976,6 +7299,7 @@
       "name": "2.mwNI4oxCaJRjMi1+UO5dYg==|q/h6Lf3M6lyPe1wjNe8L6g==|FozKtscsdGixvbRrxwVYH1xuBvt1hmFT4hFIUG6Z4Yw=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -7000,6 +7324,7 @@
       "name": "2.WUYSjvvItk/fwdA4NuUUzA==|9AQ4Jgco2LK15KgjFmCjzw==|haUoojgXskf4+Sx8TlayZiinpVIn/d67uALMritJRkk=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -7029,6 +7354,7 @@
       "name": "2./m5f5MsECf9E0JP2cxveHQ==|54oDEQrGzpfo5rjTZMvUUg==|HPHzw74+atyhUgJ/VZsKstTGN5VwsPvNDFf4Q2GfVds=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 2,
@@ -7046,6 +7372,31 @@
     },
     {
       "passwordHistory": null,
+      "revisionDate": "2023-10-24T11:43:28.419Z",
+      "creationDate": "2023-10-24T11:43:28.339Z",
+      "deletedDate": null,
+      "id": "ed6de812-f56e-48a3-a86c-d9ab583ac538",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "2.akFR1QlZ3jBWrVdohGCqUA==|3cASbp8rVzNcpls/QBUr3A==|ux4ZdWx4dxsp5fIFM105IzwfHSISaEKeSDyXtXnAYhA=",
+      "favorite": false,
+      "login": {
+        "fido2Credentials": [],
+        "uris": [
+          {
+            "match": null,
+            "uri": "2.HDqwPT96zzCsWp62wJvXAA==|oi6DEAigVnwHmKUeRVh+oq2M1qFTocHJL5dzPmK85zE=|cRYP50gLfmimgu36dEITRHCxwd7iDvktFO9zP0gjGMI="
+          }
+        ],
+        "username": "2.eOLIYyI1pvrECBNpnRI3Xw==|x2xhZastwdFq5DxAgV6zT4ilYcndjM53Lg3B2noZi50=|codll09JlagEP/47A97LQhoVs42R54rVD0qAlsU9Xs4=",
+        "password": "2.3c7Sr8+n9XoeWKnVUxpMBw==|lkyAWR6qIPmqSgv/Uk6/xA==|ryFG0FFQJ1qwyuHTS4sD+ghmRccOE5cP9Mv5r0CnJw4="
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": null,
       "revisionDate": "2022-09-07T10:50:28.428Z",
       "creationDate": "2022-09-07T10:50:28.428Z",
       "deletedDate": null,
@@ -7057,6 +7408,7 @@
       "name": "2.RDn7JdACD3ujOI48k6fz+w==|YOMep8HQdHWyONgR3ICAxg==|DsSRZbtsv6rGxhxdN3uFpas6qHhPs9kBR4Tw4X2fDic=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -7081,6 +7433,7 @@
       "name": "2.t+q7ifGRRU6wW02nKpURyQ==|GCS73xxrZytK6fnGVTVeMQ==|zLtLUe6h24Z4lH+ksspW2eOUaHrmrI3WRI4p8mmEMQc=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -7105,6 +7458,7 @@
       "name": "2.kE8yuNWGzxYJoz+gZdOhrg==|M3g7I+l7HYWQZwUht5O6WQ==|8IUmpRb1+TZW/wJcascUKQsIV4LrHkr0Ebz0Wm/T6Fc=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -7129,6 +7483,7 @@
       "name": "2.nGXLcNYbZA0LR34u1iGmOQ==|ppnmedZPL2+OAbkBUa7TWg==|gS9rQLeTQi1xcHIjdRDg0dOrXM+JfLiVQp+hkpcxAfU=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -7153,6 +7508,7 @@
       "name": "2.f9rCtCdKSFj8gm8ES/L1gQ==|9ern3s5WOxZifEfjLB4Uyg==|2S8rUmZdURv/TJsk+b05mCa5WCzhR98rYdkboAp8e+g=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -7177,6 +7533,7 @@
       "name": "2.Jo/IuDfAgqRH2fGXJsOjqA==|KAXsrXJTPCbrVq4Mr7nouQoPBP0jc6zirongcNPcAMc=|ZKUlfoOiUH6ywhJoiz+oDvUGTwJbJzqq4Fgh75S3X7Q=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -7201,6 +7558,7 @@
       "name": "2.AXs74dmFKTOOckbdNNpuLQ==|cI6hT66B2q1BsP/ifdn3QA==|z1Jf/JJxdnJhLu7T+u3JNskZMmw9SWJjdpXSp71ikng=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -7229,6 +7587,7 @@
       "name": "2.Y5y7Kg3rg88IdJQDO3toGQ==|CGBwaA/IZVvd7Wf8B4Hjv/So3e+mlrhuT+xh/I4iLfE=|G7o23PPj9fdszrrfBzo06C5h4OcI4IqQKxPs8AeUmp8=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -7253,6 +7612,7 @@
       "name": "2.0A/MZ9TEDAAf/VCbDIHO5A==|SjU/ypXkjaBGgwSz2HG2pQ==|BOft+IqUmlrzQtz9xOfaVwtM5L6DytJueX1A7GfhUCw=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -7261,30 +7621,6 @@
         ],
         "username": "2.yB2G5vp4/+/KxE3qT2XbsA==|zjJye0m78rv6mwd4j/soSEU/25FJFU0Z3qP/pIO+kig=|fLYbtjCrbdeD8L/rcJo0J8JeF/ZL0qTnFYAgvPk9l2c=",
         "password": "2.iQYNsR4ZHJgpgVrCa4rjtQ==|/rVgXwnYmH0fzEj8Y64r2w==|tFMlFrg0vwWgqE16jYyx1kUzbpvIcn4zL7bE7Jk7guk="
-      },
-      "collectionIds": null
-    },
-    {
-      "passwordHistory": null,
-      "revisionDate": "2022-09-07T10:50:28.402Z",
-      "creationDate": "2022-09-07T10:50:28.401Z",
-      "deletedDate": null,
-      "id": "f50fa310-03d1-4dfe-a0c2-385617c57eb9",
-      "organizationId": null,
-      "folderId": "258261ca-3754-486d-a202-404eac5e6272",
-      "type": 1,
-      "reprompt": 0,
-      "name": "2.ZI+nd6LcEsI7ruR8TllIdQ==|RqtBo2ldVn5EWzHDnz1HLA==|ndFlPbAz80RCH81g0KwTg03TxgfvuuJ+J/rzpzeXlOM=",
-      "favorite": false,
-      "login": {
-        "uris": [
-          {
-            "match": null,
-            "uri": "2.pn+SSvpdKbYD4zLCTH2hPQ==|w/ZjxnB7aN+F+w0uuPCjQgvB5HO/XCHwB+BmydrMSF0=|0ZzbBguBuMBJ1PrnI6wtcWHMqX2ps4koovWytbIT7qE="
-          }
-        ],
-        "username": "2.YFMIYg58JXjrGkHzdpRIBw==|UyQipoDoVD6oEdM4FlB52g==|VUZE38GqShz7KdqFXJ92bhPR+3NY14mDpzNqeQPd4iw=",
-        "password": "2.2C76IqFccujIoy83hTQ9Ew==|Hu+srU2AyAekagyw49rMfQ==|SJ4m7vc90qu3uNXGsiBKVFL3sPu1/gTRFSdLlwz9G7o="
       },
       "collectionIds": null
     },
@@ -7301,6 +7637,7 @@
       "name": "2.W/SF6Rq3ypXYrJjvvFiGMg==|iQwM0EVtxKobg5n4c/Q8HA==|2XxDXV+Bb1RxBpc4F2RGn7gN0G/EOjaslgwW3RQNyiE=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 0,
@@ -7325,6 +7662,7 @@
       "name": "2.Xjl4vVIclHXa4mLMm4fhWQ==|OGEGm5Q0M8+gmjhpfgtQ8w==|Y0wqp68NUffxnoVCC3IpvSoUQggkZ6fxb65IHYB8iK4=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -7333,6 +7671,31 @@
         ],
         "username": "2.cOH4GgihlZWHx4AQnTu1Ew==|kuAIOOA6VJ4T+tb2scpgpFP64X6TRH0Dyy7IJsyBnb0=|Wtz3/C/Kh+VRefFr8P9b4YxPi9cM5GwDwhuJ6JrxJC8=",
         "password": "2.O0hHRcyY4lnHHoKGw37btA==|VWtTxIAR9aLzJRwz0pD5VA==|w+5RTMBni1eMUelhZSbXRutVrbONlw25x3QwjJmRtbY="
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": null,
+      "revisionDate": "2023-11-13T03:59:46.899Z",
+      "creationDate": "2023-11-13T03:59:36.759Z",
+      "deletedDate": null,
+      "id": "f65cceed-4209-484f-984c-2404ff53b415",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "2.HvLowixFETnrFHFvp3CPNQ==|gQkktl0tl2gIPGsPlYWdPw==|WMiYVdVpEqS8yuK/G5Gdeeiy673vb+O4QHhLQlUq4hw=",
+      "favorite": false,
+      "login": {
+        "fido2Credentials": [],
+        "uris": [
+          {
+            "match": null,
+            "uri": "2.snBxdqlUonKgPxJ8K+T5/w==|6gmCYT6Ym2rAPyd7jWqeGvyoQevGA6jiIs1x7lvGyi8=|Ws3Lmr8hcLy4TzaBrrjLCVNP/hd5sTyciaunqTtd5z0="
+          }
+        ],
+        "username": "2.JFGb7Z/8U8P9YjI5P1Bclw==|ABBAuNIkGZUYysnd2h2Z3w==|NPKYdUCfuiC2DC1A5SSgcX6CdugL4a6KQzHQG1HJkow=",
+        "password": "2.p743GndfXZf2oNz6yayz/A==|o7mwY84QwvtTZ+TT7p/MPQ==|0mFWFDY2MiJjudBi7bKoCB10f44zSiHkt/QeSZvyz2c="
       },
       "collectionIds": null
     },
@@ -7349,6 +7712,7 @@
       "name": "2.HjhtuuRFfQUmo+G/5LSn+w==|FXBfiISnC5q9jeEsB3XzMw==|HkYhEhKMZVVY03yi5RpwJk6E0SCbgJW+Nc3Pj45J3VE=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -7373,6 +7737,7 @@
       "name": "2.OVfVZ9TiPF/Lest15pcItA==|TgGRfBNRRcQRcSRLqs8JZA==|YbOHa5JE/1U6o2GQ4zSKeWu5LGmphF5VZFH7RHdRbqk=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -7397,6 +7762,7 @@
       "name": "2.gNdBObQRHa5nYEVg1/qgbA==|0vFG5pb39ffSHnULGQ9hOw==|orXWh7IxNlAQYTZKRlSfnFO9K+r+e+lqdyDsyDp5r68=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -7429,6 +7795,7 @@
         }
       ],
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -7453,6 +7820,7 @@
       "name": "2.KojZw0AEhAHCFDq6jPmMqA==|7S/rPeYTOPE81DmScj5LTg==|18iOwBfFEqrohPC1d+ehEA0ka7wdapyEHvnuZN4WeIU=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -7477,6 +7845,7 @@
       "name": "2.BX0zQwjI5cG++xggHrA10A==|/5h+hNGt/d6RYexigUXi8Q==|6FcMAFrM1w140vL7gprKERmVxCtoKu3tXrrwfFdKSic=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -7501,6 +7870,7 @@
       "name": "2.bZH8dJehM0yyVlMKp/RZNQ==|mhbTF+HdR1Cc6s4cmlMBig==|ymZ668OXGHXld3R/oqiVD4Br2EFxaM3vyUeg8rmCST4=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -7525,6 +7895,7 @@
       "name": "2.YGHT+znv56YxvgGRqnp6gw==|yOSwRk6YsUj1Oh1qhObzrA==|8mqnQVW/gK7GJU1pWsEhP3mqTLyisKEddudpSw/BnlU=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 0,
@@ -7569,6 +7940,7 @@
         }
       ],
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -7593,6 +7965,7 @@
       "name": "2.isTcW3mcFkuukRNQ4yywzA==|673/SCDmGhNMqIsn5Rj5yA==|bfHmkKPiw7hJIjdjaY+EHU9C7Mg/B9Ni/gGVTdyMwe8=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -7617,6 +7990,7 @@
       "name": "2.+3b8MJqZ5sYNevXJYMRPUQ==|Ae4R+pECfhQwXmTMW3//TA==|rSCvG1HB/KWUup+3Pc79agiCkITP9PDVCw2U31qdjOk=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": 0,
@@ -7630,7 +8004,7 @@
     },
     {
       "passwordHistory": null,
-      "revisionDate": "2023-07-02T18:02:26.363Z",
+      "revisionDate": "2023-10-19T08:27:38.495Z",
       "creationDate": "2023-01-03T10:18:44.558Z",
       "deletedDate": null,
       "id": "fd28db23-09ec-4aab-8cc2-323734c92094",
@@ -7638,25 +8012,18 @@
       "folderId": null,
       "type": 1,
       "reprompt": 0,
-      "name": "2.DTTKK6p7EH+InTbjt0kj/g==|gCT6VTJMnD9B1C5ioavQjw==|aLUflPyitt4AiZjGam38wSHONLfkLjFj/Dxff2r2eJk=",
+      "name": "2.jkM5Cyixdbe2/y+YwDj7qQ==|AUGAHkvAm03UDKnDOAHUdw==|5OfmH9BKZliJvLHo3La6NsFSgx4Gq9FfCJRIfUot+1Q=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
-            "uri": "2.diwDq3IjWUNbGH/LljQYqw==|6te49OJU/WgqPkQioWmGJQ+5YltOIkPXhdznabUvXx0=|fO2Wo7pDsD1cGupR4KEdwUzfuhXJOZYw+K6NGn3Y3o0="
-          },
-          {
-            "match": null,
-            "uri": "2.3cRYz7Qis+sFgwTalS07fA==|Ch0D7LI3uHm8ZCrSXeP4pMEpnQIQD89TnYJa4P8jGpw=|S/IghmTEJ6O1W6owxBOGXD5ciUOFEHZuhgb0OAUl/0w="
-          },
-          {
-            "match": null,
-            "uri": "2.1TiXekW5JRm3e6VFu8WF7g==|4OEmBcZ88G6wFFrafk20fRUuMAhhH+IetmL7vWFtKqwPiqP3+LlqetICnSvSSX2G|ZmduY1FkEncHRYYdFOC28xaeB6Tk4+FdzSmZd4lv6sI="
+            "uri": "2.FdfURHanmZJxdN9HhcULzw==|VxgrTt9kpekU9MoyXUcQhjOaCgDhShYA7RQ7lwH+zBs=|YSThSJkM1mma0EfMfyOQFGOi4TQl3KX3xOt7hVKy+98="
           }
         ],
-        "username": "2.bQqTSPVY9m0VZPqEx99RwA==|L0NC8lNH9fqaloxMXutkUA==|t9yeejZHUvek7UgMCzDf0gZ677cQQNK7JqU2CZc3tQk=",
-        "password": "2.9igSCfWqncCFLU/3Q9D+lA==|bKK//X7eB8LYVVJbmhbmjA==|y/RSKjKKYoe1Fh13413/Qta0Ha0NZtZamKHMozQsIlc="
+        "username": "2.vJW34bPdf+p5rP9sWM5tvQ==|K7kdDACniCI/16uxorgzLQ==|vsrxetqcsGfY6AdYEuu4/GepTuU9onr3wQ+399PQ84U=",
+        "password": "2.Nqqvd+0Wopj2mSss9eeVEQ==|4RP2sJq23NK4GWz7t15o+g==|xzYbFud1m/xO/Aw9lwdIKVS0Nnrr0hC4gMxoofzDkTA="
       },
       "collectionIds": null
     },
@@ -7673,6 +8040,7 @@
       "name": "2.Y/UAx1c+8SY1hng5YKfilw==|9vsjGNzL01DTCN1bBEF06Q==|z+Ml0YS6OaeoVyHTAqeyzdoPlY3zAU/0xdrpGUf6NNA=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
@@ -7697,6 +8065,7 @@
       "name": "2.49xGV5Y9HgArpyKb2AVQ8A==|Kl8CwtW/blrBsF9cvlND3w==|0tupwI+cFgyVjzDCML2wt/qeUckgrgrpTeRJt6vx8ic=",
       "favorite": false,
       "login": {
+        "fido2Credentials": [],
         "uris": [
           {
             "match": null,
