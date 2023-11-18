@@ -25,11 +25,12 @@ scoop 相关内容移至[此处](./scoop.md)
 | Terminus | Microsoft Store |   SSH&SFTP   |
 |  F.lux   | Microsoft Store | 屏幕护眼模式 |
 
-
+***
 ## docker 容器
+> `#` 表示依赖其他容器使用, 通常为同名/近似名称
 
 |容器名|简介|
-|:---:|---|
+|:---:|:---:|
 |vaultwarden/server| Bitwarden 的开源版本, 密码管理|
 |containrrr/watchtower|自动更新容器|
 |linuxserver/qbittorrent|p2p下载器|
@@ -38,7 +39,6 @@ scoop 相关内容移至[此处](./scoop.md)
 |portainer/portainer-ce|docker gui管理|
 |tinymediamanager/tinymediamanager|媒体文件刮削/整理|
 |nyanmisaka/jellyfin|视频库|
-|linuxserver/calibre-web|书库|
 |lissy93/dashy|dashboard|
 |gitea/gitea|代码仓库|
 |neosmemo/memos|速记|
@@ -47,4 +47,10 @@ scoop 相关内容移至[此处](./scoop.md)
 |freshrss/freshrss|rss订阅|
 |johngong/baidunetdisk|百度网盘|
 |p3terx/aria2-pro|aria2下载|
+|grafana/grafana-oss|监视面板|
+|photoprism/photoprism|照片集|
+|jvmilazz0/kavita|书库|
+|`#`jvmilazz0/kavitaemail|邮箱推送|
+|`#`gitea/act_runner|ci workflow|
 
+之后可能会根据分类在 [`scripts`](../scripts) 中建立对应 `docker-compose.yml` 文件夹, 方便一键部署
