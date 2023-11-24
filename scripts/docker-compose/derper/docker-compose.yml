@@ -1,0 +1,15 @@
+version: '3.3'
+services:
+    derper:
+	container_name: derper
+        environment:
+            - DERP_DOMAIN=derp.example.com # DERP 域名，请解析到自己的服务器，并确保域名已备案
+            - DERP_CERT_MODE=manual # 证书模式，请设置成手动模式，自动的我貌似会有问题
+        ports:
+            - '80:80' # 这个端口貌似用不太到，一般不会用 http
+            - '443:443'
+            - '3478:3478/udp'
+        image: fredliang/derper
+        volumes:
+          - /home/xxx/infra/derper/certs:/app/certs # 冒号左边的是证书在宿主机内存放的路径，右边的不要改，建议用绝对路路径
+	restart: unless-stopped

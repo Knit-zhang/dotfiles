@@ -2,7 +2,7 @@
 
 目前采取的方案是将软件安装集中在 包管理工具 和 商店
 
-主要原因有俩个:
+主要原因有两个:
 
 1. 方便更新
 2. 易于迁移
@@ -11,8 +11,6 @@
 
 经过一些简单的测试, 目前包管理工具更适合下载一些开源软件和一些 Command-line Interface 工具, 商业软件更适合使用商店来进行集中管理, 下面列举自己常用的软件, 以 Scoop 为例
 scoop 相关内容移至[此处](./scoop.md)
-
-
 
 ## 应用商店
 
@@ -53,4 +51,4 @@ scoop 相关内容移至[此处](./scoop.md)
 |`#`jvmilazz0/kavitaemail|邮箱推送|
 |`#`gitea/act_runner|ci workflow|
 
-之后可能会根据分类在 [`scripts`](../scripts) 中建立对应 `docker-compose.yml` 文件夹, 方便一键部署
+之后可能会根据分类在 [`scripts`](../scripts/docker-compose) 中建立对应 `docker-compose.yml` 文件夹, 方便一键部署

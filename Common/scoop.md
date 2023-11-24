@@ -4,7 +4,6 @@
 | :-----: | :------: | :---------: |
 | Calibre |  extras  | 书库 |
 |Geekuninstaller|extras|卸载|
-|Advancedrenamer|extras|文件名管理|
 |Iperf3|main|网络传输检测|
 |Ditto|extras|剪贴板|
 |Typora|extras|markdown编辑器|
@@ -14,11 +13,8 @@
 |DeskPins|extras|窗口置顶|
 |Snipaste|extras|截图|
 |Qbittorrent|extras|下载|
-|Neovim|main|文本编辑|
-|Btop|main|终端任务管理器|
-|Tor|main|洋葱路由器|
 |HashCat|main|破解工具|
-|GPG|main|加密工具|
+|GPG4win|main|加密工具|
 |CrystalDiskInfo|extras|硬盘状态|
 |CrystalDiskMark|extras|硬盘读写速度|
 |AdvancedRenamer|extras|批量重命名|
@@ -35,6 +31,11 @@
 |losslesscut|extras|无损剪辑|
 |dbeaver|extras|数据库管理|
 |pandoc|main|标记语言转换器|
+|resilio-sync|nonportable|p2p文件共享|
+|spcaesniffer|extras|磁盘文件大小|
+|tailscale|extras|Vnet组网|
+|kid3|extras|id3标签编辑|
+|bind|main|dns查询|
 
 ## 快速恢复
 
@@ -47,7 +48,7 @@ $env:SCOOP_GLOBAL='D:\Global_Scoop' #设置全局程序安装位置
 
 irm get.scoop.sh | iex #安装Scoop
 
-scoop install 7zip git ria2 #安装必装软件
+scoop install 7zip git aria2 curl bind#安装必装软件
 
 scoop update #更新 scoop
 
@@ -56,13 +57,13 @@ scoop bucket add nonportable #添加 nonportable 桶
 scoop bucket add nerd-fonts #添加nerd-fonts桶
 scoop bucket add games #添加games桶
 
-scoop install calibre geekuninstaller iperf3 figlet sudo ditto typora obsidian everything deskpins qbittorrent tor telegram hashcat gpg crystaldiskinfo crystaldiskmark advancedrenamer LICEcap connect k-lite-codec-pack-mega-np sigil adb ffmpeg losslesscut dbeaver
+scoop install calibre geekuninstaller iperf3 ditto typora obsidian everything LICEcap deskpins snipaste qbittorrent hashcat gpg4win crystaldiskinfo crystaldiskmark advancedrenamer mediainfo mkvtoolnix cpu-z gpu-z connect k-lite-codec-pack-mega-np sigil adb localsend ffmpeg losslesscut dbeaver pandoc resilio-sync-np spacesniffer tailscale kid3
 
 scoop install osulazer
 
 scoop install python nodejs-lts lua gcc gdb #常用编程环境安装
 
-scoop install redis mongodb mariadb # 常用数据库安装
+scoop install redis mongodb mariadb postgresql # 常用数据库安装
 ```
 
 ## alias
