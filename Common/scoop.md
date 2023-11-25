@@ -36,6 +36,7 @@
 |tailscale|extras|Vnet组网|
 |kid3|extras|id3标签编辑|
 |bind|main|dns查询|
+|tor-browser|extras|darkweb|
 
 ## 快速恢复
 
