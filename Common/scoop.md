@@ -38,6 +38,7 @@
 |bind|main|dns查询|
 |tor-browser|extras|darkweb|
 |starship|main|prompt|
+|postman|extras|api tester|
 
 ## 快速恢复
 
