@@ -1,0 +1,32 @@
+version: "3"
+services:
+  jellyfin:
+    container_name: jellyfin
+    image: nyanmisaka/jellyfin
+    restart: unless-stopped
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Asia/Shanghai
+      - JELLYFIN_PublishedServeUrl=192.168.172.3
+    volumes:
+      - jellyfin_config:/config
+      - movie:/movie
+      - anime:/anime
+      - series:/series
+    ports:
+      - "8096:8096"
+      - "7359:7359/udp"
+      - "1900:1900/udp"
+    devices:
+      - /dev/dri:/dev/dri
+
+volumes:
+  movie:
+    external: true
+  anime:
+    external: true
+  series:
+    external: true
+  jellyfin_config:
+    external: true

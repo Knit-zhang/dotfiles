@@ -1,0 +1,20 @@
+version: "3.8"
+
+services:
+  AutoBangumi:
+    image: "ghcr.io/estrellaxd/auto_bangumi:latest"
+    container_name: AutoBangumi
+    volumes:
+      - ./config:/app/config
+      - ./data:/app/data
+    ports:
+      - "7892:7892"
+    restart: unless-stopped
+    dns:
+      - 192.168.172.4
+    network_mode: bridge
+    environment:
+      - TZ=Asia/Shanghai
+      - PGID=1000
+      - PUID=1000
+      - UMASK=022

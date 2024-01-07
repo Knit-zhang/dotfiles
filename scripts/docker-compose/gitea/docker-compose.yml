@@ -1,0 +1,37 @@
+version: "3"
+
+services:
+  server:
+    image: gitea/gitea:latest
+    container_name: gitea
+    environment:
+      - USER_UID=1000
+      - USER_GID=1000
+      - GITEA__mailer__ENABLED=true
+      - GITEA__mailer__FROM=${GITEA__mailer__FROM:?GITEA__mailer__FROM not set}
+      - GITEA__mailer__PROTOCOL=smtps
+      - GITEA__mailer__SMTP_ADDR=${GITEA__mailer__SMTP_ADDR:?GITEA__mailer__SMTP_ADDR not set}
+      - GITEA__mailer__USER=${GITEA__mailer__USER:-apikey}
+      - GITEA__mailer__PASSWD="""${GITEA__mailer__PASSWD:?GITEA__mailer__PASSWD not set}"""
+    restart: always
+    volumes:
+      - ./:/data
+      - /etc/timezone:/etc/timezone:ro
+      - /etc/localtime:/etc/localtime:ro
+    ports:
+      - "3000:3000"
+      - "222:22"
+
+  runner:
+    container_name: gitea_runner
+    image: gitea/act_runner:latest
+    environment:
+      - GITEA_INSTANCE_URL=http://192.168.172.3:3000/
+      - GITEA_RUNNER_REGISTRATION_TOKEN=${RUNNER_TOKEN}
+      - GITEA_RUNNER_NAME=KYLE_RUNNER
+      #- CONFIG_FILE=/config.yaml
+    restart: always
+    volumes:
+      #- /home/kyleten/docker-compose/gitea/runner/config.yaml:/config.yaml
+      - /home/kyleten/docker-compose/gitea/runner/data:/data
+      - /var/run/docker.sock:/var/run/docker.sock

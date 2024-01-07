@@ -1,0 +1,37 @@
+services:
+  cloudreve:
+    container_name: cloudreve
+    image: cloudreve/cloudreve:latest
+    restart: unless-stopped
+    ports:
+      - "5212:5212"
+    volumes:
+      - temp_data:/data
+      - file:/cloudreve/uploads
+      - ./conf.ini:/cloudreve/conf.ini
+      - ./avatar:/cloudreve/avatar
+    depends_on:
+      - aria2
+    aria2:
+      container_name: aria2
+      image: p3terx/aria2-pro
+      restart: unless-stopped
+      ports:
+        - "16800:6800"
+        - "6888:6888"
+        - "6888:6888/udp"
+      environment:
+        - RPC_SECRET=${RPC_SECRET}
+        - RPC_PORT=6800
+      volumes:
+        - ./aria2/config:/config
+        - temp_data:/data
+volumes:
+  temp_data:
+    driver: local
+    driver_opts:
+      type: none
+      device: $PWD/data
+      o: bind
+  file:
+    external: true

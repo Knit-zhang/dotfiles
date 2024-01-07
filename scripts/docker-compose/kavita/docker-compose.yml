@@ -1,0 +1,34 @@
+version: '3'
+services:
+  kavita:
+    container_name: kavita
+    image: jvmilazz0/kavita:latest
+    ports:
+      - 5000:5000
+    volumes:
+      - literature:/book/literature
+      - comic:/book/comic
+      - novel:/book/novel
+      - NSFWcomic:/NSFW
+      - /home/kyleten/docker-compose/kavita:/kavita/config
+    restart: unless-stopped
+    links:
+      - kavita-email:email
+  kavita-email:
+    container_name: kavita-email
+    image: jvmilazz0/kavitaemail:latest
+    ports:
+      - 5003:5003
+    volumes:
+      - /home/kyleten/docker-compose/kavita/email:/app/config
+    restart: unless-stopped
+
+volumes:
+  literature:
+    external: true
+  NSFWcomic:
+    external: true
+  comic:
+    external: true
+  novel:
+    external: true
