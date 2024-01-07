@@ -39,6 +39,7 @@
 |tor-browser|extras|darkweb|
 |starship|main|prompt|
 |postman|extras|api tester|
+|glazewm|extras|tiling manager|
 
 ## 快速恢复
 
@@ -60,7 +61,7 @@ scoop bucket add nonportable #添加 nonportable 桶
 scoop bucket add nerd-fonts #添加nerd-fonts桶
 scoop bucket add games #添加games桶
 
-scoop install calibre geekuninstaller iperf3 ditto typora obsidian everything LICEcap deskpins snipaste qbittorrent hashcat gpg4win crystaldiskinfo crystaldiskmark advancedrenamer mediainfo mkvtoolnix cpu-z gpu-z connect k-lite-codec-pack-mega-np sigil adb localsend ffmpeg losslesscut dbeaver pandoc resilio-sync-np spacesniffer tailscale kid3 tor-browser
+scoop install calibre geekuninstaller iperf3 ditto typora obsidian everything LICEcap deskpins snipaste qbittorrent hashcat gpg4win crystaldiskinfo crystaldiskmark advancedrenamer mediainfo mkvtoolnix cpu-z gpu-z connect k-lite-codec-pack-mega-np sigil adb localsend ffmpeg losslesscut dbeaver pandoc resilio-sync-np spacesniffer tailscale kid3 tor-browser glazewm
 
 scoop install osulazer
 
