@@ -24,19 +24,8 @@ services:
       - ${QBT_WEBUI_PORT}:${QBT_WEBUI_PORT}/tcp
     volumes:
       - ${QBT_CONFIG_PATH}:/config/qBittorrent
-      - downloads:/downloads
-      - anime:/anime
-      - movie:/movie
-      - NSFWphoto:/nsfw
-
-volumes:
-  downloads:
-    external: true
-  anime:
-    external: true
-  movie:
-    external: true
-  series:
-    external: true
-  NSFWphoto:
-    external: true
+      - <downloasds目录>:/downloads
+      # 如果使用自定义目录, 需使用绝对路径, 不能挂载外部volume
+      - /mnt/video/movie/:/movie
+      - /mnt/video/anime/:/anime
+      - /mnt/video/series/:/series
