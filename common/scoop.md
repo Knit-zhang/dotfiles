@@ -40,6 +40,7 @@
 |starship|main|prompt|
 |postman|extras|api tester|
 |glazewm|extras|tiling manager|
+|tinymediamanager|extras|media scraper|
 
 ## 快速恢复
 
@@ -52,7 +53,7 @@ $env:SCOOP_GLOBAL='D:\Global_Scoop' #设置全局程序安装位置
 
 irm get.scoop.sh | iex #安装Scoop
 
-scoop install 7zip git aria2 curl bind starship #安装必装软件
+scoop install 7zip git aria2 curl bind starship netcat #安装必装软件
 
 scoop update #更新 scoop
 
@@ -61,15 +62,14 @@ scoop bucket add nonportable #添加 nonportable 桶
 scoop bucket add nerd-fonts #添加nerd-fonts桶
 scoop bucket add games #添加games桶
 
-scoop install calibre geekuninstaller iperf3 ditto typora obsidian everything LICEcap deskpins snipaste qbittorrent hashcat gpg4win crystaldiskinfo crystaldiskmark advancedrenamer mediainfo mkvtoolnix cpu-z gpu-z connect k-lite-codec-pack-mega-np sigil adb localsend ffmpeg losslesscut dbeaver pandoc resilio-sync-np spacesniffer tailscale kid3 tor-browser glazewm
+scoop install calibre geekuninstaller iperf3 ditto typora obsidian everything LICEcap deskpins snipaste qbittorrent hashcat gpg4win crystaldiskinfo crystaldiskmark advancedrenamer mediainfo mkvtoolnix cpu-z gpu-z connect k-lite-codec-pack-mega-np sigil adb localsend ffmpeg losslesscut dbeaver pandoc resilio-sync-np spacesniffer tailscale kid3 tor-browser glazewm tinymediamanager
 
 scoop install osulazer
 
 scoop install JetBrainsMono-NF # 常用字体安装
 
-scoop install python nodejs-lts lua gcc gdb #常用编程环境安装
+scoop install python nodejs-lts lua gcc gdb#常用编程环境安装
 
-scoop install redis mongodb mariadb postgresql # 常用数据库安装
 ```
 
 ## alias
